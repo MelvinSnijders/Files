@@ -108,31 +108,31 @@
         </trans-unit>
         <trans-unit id="SidebarDesktop" translate="yes" xml:space="preserve">
           <source>Desktop</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Desktop</target>
+          <target state="needs-translation">Desktop</target>
         </trans-unit>
         <trans-unit id="SidebarDocuments" translate="yes" xml:space="preserve">
           <source>Documents</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Documents</target>
+          <target state="needs-translation">Documents</target>
         </trans-unit>
         <trans-unit id="SidebarDownloads" translate="yes" xml:space="preserve">
           <source>Downloads</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Downloads</target>
+          <target state="needs-translation">Downloads</target>
         </trans-unit>
         <trans-unit id="SidebarHome" translate="yes" xml:space="preserve">
           <source>Home</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Home</target>
+          <target state="needs-translation">Home</target>
         </trans-unit>
         <trans-unit id="SidebarMusic" translate="yes" xml:space="preserve">
           <source>Music</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Music</target>
+          <target state="needs-translation">Music</target>
         </trans-unit>
         <trans-unit id="SidebarPictures" translate="yes" xml:space="preserve">
           <source>Pictures</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Pictures</target>
+          <target state="needs-translation">Pictures</target>
         </trans-unit>
         <trans-unit id="SidebarVideos" translate="yes" xml:space="preserve">
           <source>Videos</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Videos</target>
+          <target state="needs-translation">Videos</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortBy.Text" translate="yes" xml:space="preserve">
           <source>Sort by</source>
@@ -144,7 +144,7 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByDate.Text" translate="yes" xml:space="preserve">
           <source>Date modified</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Date modified</target>
+          <target state="needs-translation">Date modified</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByType.Text" translate="yes" xml:space="preserve">
           <source>Type</source>
@@ -152,23 +152,23 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortBySize.Text" translate="yes" xml:space="preserve">
           <source>Size</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Size</target>
+          <target state="needs-translation">Size</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByAscending.Text" translate="yes" xml:space="preserve">
           <source>Ascending</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Ascending</target>
+          <target state="needs-translation">Ascending</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByDescending.Text" translate="yes" xml:space="preserve">
           <source>Descending</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Descending</target>
+          <target state="needs-translation">Descending</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutRefresh.Text" translate="yes" xml:space="preserve">
           <source>Refresh</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Refresh</target>
+          <target state="needs-translation">Refresh</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutPaste.Text" translate="yes" xml:space="preserve">
           <source>Paste</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Paste</target>
+          <target state="needs-translation">Paste</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutOpenInTerminal.Text" translate="yes" xml:space="preserve">
           <source>Open in Terminal...</source>
@@ -180,19 +180,19 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutPropertiesFolder.Text" translate="yes" xml:space="preserve">
           <source>Properties</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Properties</target>
+          <target state="needs-translation">Properties</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutExtract.Text" translate="yes" xml:space="preserve">
           <source>Extract</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Extract</target>
+          <target state="needs-translation">Extract</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutOpenInNewTab.Text" translate="yes" xml:space="preserve">
           <source>Open in new tab</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open in new tab</target>
+          <target state="needs-translation">Open in new tab</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutOpenInNewWindow.Text" translate="yes" xml:space="preserve">
           <source>Open in new window</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open in new window</target>
+          <target state="needs-translation">Open in new window</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutSetAsDesktopBackground.Text" translate="yes" xml:space="preserve">
           <source>Set as desktop background</source>
@@ -200,11 +200,11 @@
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutShare.Text" translate="yes" xml:space="preserve">
           <source>Share</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Share</target>
+          <target state="needs-translation">Share</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutCut.Text" translate="yes" xml:space="preserve">
           <source>Cut</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cut</target>
+          <target state="needs-translation">Cut</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutCopy.Text" translate="yes" xml:space="preserve">
           <source>Copy</source>
@@ -212,31 +212,31 @@
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutDelete.Text" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Delete</target>
+          <target state="needs-translation">Delete</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutRename.Text" translate="yes" xml:space="preserve">
           <source>Rename</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Rename</target>
+          <target state="needs-translation">Rename</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutProperties.Text" translate="yes" xml:space="preserve">
           <source>Properties</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Properties</target>
+          <target state="needs-translation">Properties</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarVisiblePath.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Enter a path</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Enter a path</target>
+          <target state="needs-translation">Enter a path</target>
         </trans-unit>
         <trans-unit id="NavigationToolbarSearchReigon.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Search</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Search</target>
+          <target state="needs-translation">Search</target>
         </trans-unit>
         <trans-unit id="NavToolbarSelectAll.Text" translate="yes" xml:space="preserve">
           <source>Select All</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Select All</target>
+          <target state="needs-translation">Select All</target>
         </trans-unit>
         <trans-unit id="NavToolbarClearSelection.Text" translate="yes" xml:space="preserve">
           <source>Clear Selection</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Clear Selection</target>
+          <target state="needs-translation">Clear Selection</target>
         </trans-unit>
         <trans-unit id="ModernNavigationToolbaNewFolder.Text" translate="yes" xml:space="preserve">
           <source>Folder</source>
@@ -244,15 +244,123 @@
         </trans-unit>
         <trans-unit id="ModernNavigationToolbaNewBitmapImage.Text" translate="yes" xml:space="preserve">
           <source>Bitmap Image</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Bitmap Image</target>
+          <target state="needs-translation">Bitmap Image</target>
         </trans-unit>
         <trans-unit id="ModernNavigationToolbaNewTextDocument.Text" translate="yes" xml:space="preserve">
           <source>Text Document</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Text Document</target>
+          <target state="needs-translation">Text Document</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutDetails.Text" translate="yes" xml:space="preserve">
           <source>Details View</source>
           <target state="needs-translation">Details View</target>
+        </trans-unit>
+        <trans-unit id="nameColumn.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-translation">Name</target>
+        </trans-unit>
+        <trans-unit id="dateColumn.Header" translate="yes" xml:space="preserve">
+          <source>Date modified</source>
+          <target state="needs-translation">Date modified</target>
+        </trans-unit>
+        <trans-unit id="typeColumn.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="needs-translation">Type</target>
+        </trans-unit>
+        <trans-unit id="sizeColumn.Header" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="needs-translation">Size</target>
+        </trans-unit>
+        <trans-unit id="WelcomeDialog.Title" translate="yes" xml:space="preserve">
+          <source>Welcome to Files!</source>
+          <target state="needs-translation">Welcome to Files!</target>
+        </trans-unit>
+        <trans-unit id="WelcomeDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
+          <source>Grant Permission</source>
+          <target state="needs-translation">Grant Permission</target>
+        </trans-unit>
+        <trans-unit id="WelcomeDialogTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. </source>
+          <target state="needs-translation">To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. </target>
+        </trans-unit>
+        <trans-unit id="FileFolderListItem" translate="yes" xml:space="preserve">
+          <source>File folder</source>
+          <target state="needs-translation">File folder</target>
+        </trans-unit>
+        <trans-unit id="RenameDialog.Title" translate="yes" xml:space="preserve">
+          <source>Enter an item name</source>
+          <target state="needs-translation">Enter an item name</target>
+        </trans-unit>
+        <trans-unit id="RenameDialogInputText.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Enter an item name</source>
+          <target state="needs-translation">Enter an item name</target>
+        </trans-unit>
+        <trans-unit id="RenameDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
+          <source>Set Name</source>
+          <target state="needs-translation">Set Name</target>
+        </trans-unit>
+        <trans-unit id="RenameDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-translation">Cancel</target>
+        </trans-unit>
+        <trans-unit id="NewTab" translate="yes" xml:space="preserve">
+          <source>New tab</source>
+          <target state="needs-translation">New tab</target>
+        </trans-unit>
+        <trans-unit id="SystemTheme" translate="yes" xml:space="preserve">
+          <source>Default</source>
+          <target state="needs-translation">Default</target>
+        </trans-unit>
+        <trans-unit id="LightTheme" translate="yes" xml:space="preserve">
+          <source>Light</source>
+          <target state="needs-translation">Light</target>
+        </trans-unit>
+        <trans-unit id="DarkTheme" translate="yes" xml:space="preserve">
+          <source>Dark</source>
+          <target state="needs-translation">Dark</target>
+        </trans-unit>
+        <trans-unit id="ApplicationTimeStye" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <target state="needs-translation">Application</target>
+        </trans-unit>
+        <trans-unit id="SystemTimeStye" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="needs-translation">System</target>
+        </trans-unit>
+        <trans-unit id="NewFolder" translate="yes" xml:space="preserve">
+          <source>New Folder</source>
+          <target state="needs-translation">New Folder</target>
+        </trans-unit>
+        <trans-unit id="EmptyFolder.Text" translate="yes" xml:space="preserve">
+          <source>This folder is empty.</source>
+          <target state="needs-translation">This folder is empty.</target>
+        </trans-unit>
+        <trans-unit id="NavBackButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Back (Alt+Left Arrow)</source>
+          <target state="needs-translation">Back (Alt+Left Arrow)</target>
+        </trans-unit>
+        <trans-unit id="NavForwardButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Forward (Alt+Right Arrow)</source>
+          <target state="needs-translation">Forward (Alt+Right Arrow)</target>
+        </trans-unit>
+        <trans-unit id="NavUpButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Up (Alt+Up Arrow)</source>
+          <target state="needs-translation">Up (Alt+Up Arrow)</target>
+        </trans-unit>
+        <trans-unit id="NavRefreshButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Refresh (F5)</source>
+          <target state="needs-translation">Refresh (F5)</target>
+        </trans-unit>
+        <trans-unit id="NavSearchButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Search (Ctrl+F)</source>
+          <target state="needs-translation">Search (Ctrl+F)</target>
+        </trans-unit>
+        <trans-unit id="SidebarDrives" translate="yes" xml:space="preserve">
+          <source>Drives</source>
+          <target state="needs-translation">Drives</target>
+        </trans-unit>
+        <trans-unit id="ItemTypeFile" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="needs-translation">File</target>
         </trans-unit>
         <trans-unit id="PropertiesItemMD5Hash.Text" translate="yes" xml:space="preserve">
           <source>MD5Hash:</source>
@@ -272,131 +380,23 @@
         </trans-unit>
         <trans-unit id="ErrorDialogSkip" translate="yes" xml:space="preserve">
           <source>Skip</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Skip</target>
+          <target state="needs-translation">Skip</target>
         </trans-unit>
         <trans-unit id="ErrorDialogCancel" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cancel</target>
-        </trans-unit>
-        <trans-unit id="nameColumn.Header" translate="yes" xml:space="preserve">
-          <source>Name</source>
-          <target state="needs-translation">Name</target>
-        </trans-unit>
-        <trans-unit id="dateColumn.Header" translate="yes" xml:space="preserve">
-          <source>Date modified</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Date modified</target>
-        </trans-unit>
-        <trans-unit id="typeColumn.Header" translate="yes" xml:space="preserve">
-          <source>Type</source>
-          <target state="needs-translation">Type</target>
-        </trans-unit>
-        <trans-unit id="sizeColumn.Header" translate="yes" xml:space="preserve">
-          <source>Size</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Size</target>
-        </trans-unit>
-        <trans-unit id="WelcomeDialog.Title" translate="yes" xml:space="preserve">
-          <source>Welcome to Files!</source>
-          <target state="needs-translation">Welcome to Files!</target>
-        </trans-unit>
-        <trans-unit id="WelcomeDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
-          <source>Grant Permission</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Grant Permission</target>
-        </trans-unit>
-        <trans-unit id="WelcomeDialogTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. </source>
-          <target state="needs-translation">To get started, you'll need to grant us permission to display your files. This will open a Settings page where you can grant us this permission. You'll need to reopen the app once you've completed this step. </target>
-        </trans-unit>
-        <trans-unit id="FileFolderListItem" translate="yes" xml:space="preserve">
-          <source>File folder</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">File folder</target>
-        </trans-unit>
-        <trans-unit id="RenameDialog.Title" translate="yes" xml:space="preserve">
-          <source>Enter an item name</source>
-          <target state="needs-translation">Enter an item name</target>
-        </trans-unit>
-        <trans-unit id="RenameDialogInputText.PlaceholderText" translate="yes" xml:space="preserve">
-          <source>Enter an item name</source>
-          <target state="needs-translation">Enter an item name</target>
-        </trans-unit>
-        <trans-unit id="RenameDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
-          <source>Set Name</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Set Name</target>
-        </trans-unit>
-        <trans-unit id="RenameDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
-          <source>Cancel</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cancel</target>
-        </trans-unit>
-        <trans-unit id="NewTab" translate="yes" xml:space="preserve">
-          <source>New tab</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">New tab</target>
-        </trans-unit>
-        <trans-unit id="SystemTheme" translate="yes" xml:space="preserve">
-          <source>Default</source>
-          <target state="needs-translation">Default</target>
-        </trans-unit>
-        <trans-unit id="LightTheme" translate="yes" xml:space="preserve">
-          <source>Light</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Light</target>
-        </trans-unit>
-        <trans-unit id="DarkTheme" translate="yes" xml:space="preserve">
-          <source>Dark</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Dark</target>
-        </trans-unit>
-        <trans-unit id="ApplicationTimeStye" translate="yes" xml:space="preserve">
-          <source>Application</source>
-          <target state="needs-translation">Application</target>
-        </trans-unit>
-        <trans-unit id="SystemTimeStye" translate="yes" xml:space="preserve">
-          <source>System</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">System</target>
-        </trans-unit>
-        <trans-unit id="NewFolder" translate="yes" xml:space="preserve">
-          <source>New Folder</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">New Folder</target>
-        </trans-unit>
-        <trans-unit id="EmptyFolder.Text" translate="yes" xml:space="preserve">
-          <source>This folder is empty.</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">This folder is empty.</target>
-        </trans-unit>
-        <trans-unit id="NavBackButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Back (Alt+Left Arrow)</source>
-          <target state="needs-translation">Back (Alt+Left Arrow)</target>
-        </trans-unit>
-        <trans-unit id="NavForwardButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Forward (Alt+Right Arrow)</source>
-          <target state="needs-translation">Forward (Alt+Right Arrow)</target>
-        </trans-unit>
-        <trans-unit id="NavUpButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Up (Alt+Up Arrow)</source>
-          <target state="needs-translation">Up (Alt+Up Arrow)</target>
-        </trans-unit>
-        <trans-unit id="NavRefreshButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Refresh (F5)</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Refresh (F5)</target>
-        </trans-unit>
-        <trans-unit id="NavSearchButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Search (Ctrl+F)</source>
-          <target state="needs-translation">Search (Ctrl+F)</target>
-        </trans-unit>
-        <trans-unit id="SidebarDrives" translate="yes" xml:space="preserve">
-          <source>Drives</source>
-          <target state="needs-translation">Drives</target>
-        </trans-unit>
-        <trans-unit id="ItemTypeFile" translate="yes" xml:space="preserve">
-          <source>File</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">File</target>
+          <target state="needs-translation">Cancel</target>
         </trans-unit>
         <trans-unit id="NavToolbarInvertSelection.Text" translate="yes" xml:space="preserve">
           <source>Invert Selection</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Invert Selection</target>
+          <target state="needs-translation">Invert Selection</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutOpenItem.Text" translate="yes" xml:space="preserve">
           <source>Open</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open</target>
+          <target state="needs-translation">Open</target>
         </trans-unit>
         <trans-unit id="PropertiesTitle" translate="yes" xml:space="preserve">
           <source>Properties</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Properties</target>
+          <target state="needs-translation">Properties</target>
         </trans-unit>
         <trans-unit id="PropertiesAttributes.Text" translate="yes" xml:space="preserve">
           <source>Attributes:</source>
@@ -404,19 +404,19 @@
         </trans-unit>
         <trans-unit id="PropertiesTitleSecondary.Text" translate="yes" xml:space="preserve">
           <source>Properties</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Properties</target>
+          <target state="needs-translation">Properties</target>
         </trans-unit>
         <trans-unit id="SideBarOpenInNewTab.Text" translate="yes" xml:space="preserve">
           <source>Open in new tab</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open in new tab</target>
+          <target state="needs-translation">Open in new tab</target>
         </trans-unit>
         <trans-unit id="SideBarOpenInNewWindow.Text" translate="yes" xml:space="preserve">
           <source>Open in new window</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open in new window</target>
+          <target state="needs-translation">Open in new window</target>
         </trans-unit>
         <trans-unit id="SettingsExperimentalTitle.Text" translate="yes" xml:space="preserve">
           <source>Experimental</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Experimental</target>
+          <target state="needs-translation">Experimental</target>
         </trans-unit>
         <trans-unit id="SettingsExperimentalDescription.Text" translate="yes" xml:space="preserve">
           <source>WARNING: EXPERIMENTAL FEATURES AHEAD!</source>
@@ -424,7 +424,7 @@
         </trans-unit>
         <trans-unit id="SettingsNavExperimental.Content" translate="yes" xml:space="preserve">
           <source>Experimental</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Experimental</target>
+          <target state="needs-translation">Experimental</target>
         </trans-unit>
         <trans-unit id="ItemAlreadyExistsDialogContent" translate="yes" xml:space="preserve">
           <source>An item with this name already exists in this directory.</source>
@@ -436,7 +436,7 @@
         </trans-unit>
         <trans-unit id="ItemAlreadyExistsDialogTitle" translate="yes" xml:space="preserve">
           <source>Item already exists</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Item already exists</target>
+          <target state="needs-translation">Item already exists</target>
         </trans-unit>
         <trans-unit id="ItemAlreadyExistsDialogSecondaryButtonText" translate="yes" xml:space="preserve">
           <source>Replace existing item</source>
@@ -472,7 +472,7 @@
         </trans-unit>
         <trans-unit id="AccessDeniedDeleteDialog.Title" translate="yes" xml:space="preserve">
           <source>Access Denied</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Access Denied</target>
+          <target state="needs-translation">Access Denied</target>
         </trans-unit>
         <trans-unit id="DriveUnpluggedDialog.Text" translate="yes" xml:space="preserve">
           <source>Please insert the necessary drive to access this item.</source>
@@ -488,7 +488,7 @@
         </trans-unit>
         <trans-unit id="FileNotFoundDialog.Title" translate="yes" xml:space="preserve">
           <source>File Not Found</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">File Not Found</target>
+          <target state="needs-translation">File Not Found</target>
         </trans-unit>
         <trans-unit id="FileNotFoundPreviewDialog.Text" translate="yes" xml:space="preserve">
           <source>The file you are attempting to preview may have been moved or deleted.</source>
@@ -512,7 +512,7 @@
         </trans-unit>
         <trans-unit id="FileInUseDeleteDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
           <source>Try again</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Try again</target>
+          <target state="needs-translation">Try again</target>
         </trans-unit>
         <trans-unit id="FileInUseDeleteDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
           <source>OK</source>
@@ -520,43 +520,43 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutEmptyRecycleBin.Text" translate="yes" xml:space="preserve">
           <source>Empty recycle bin</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Empty recycle bin</target>
+          <target state="needs-translation">Empty recycle bin</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutRestore.Text" translate="yes" xml:space="preserve">
           <source>Restore</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Restore</target>
+          <target state="needs-translation">Restore</target>
         </trans-unit>
         <trans-unit id="DaysAgo" translate="yes" xml:space="preserve">
           <source>{0} days ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} days ago</target>
+          <target state="needs-translation">{0} days ago</target>
         </trans-unit>
         <trans-unit id="HoursAgo" translate="yes" xml:space="preserve">
           <source>{0} hours ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} hours ago</target>
+          <target state="needs-translation">{0} hours ago</target>
         </trans-unit>
         <trans-unit id="DayAgo" translate="yes" xml:space="preserve">
           <source>{0} day ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} day ago</target>
+          <target state="needs-translation">{0} day ago</target>
         </trans-unit>
         <trans-unit id="HourAgo" translate="yes" xml:space="preserve">
           <source>{0} hour ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} hour ago</target>
+          <target state="needs-translation">{0} hour ago</target>
         </trans-unit>
         <trans-unit id="MinutesAgo" translate="yes" xml:space="preserve">
           <source>{0} minutes ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} minutes ago</target>
+          <target state="needs-translation">{0} minutes ago</target>
         </trans-unit>
         <trans-unit id="MinuteAgo" translate="yes" xml:space="preserve">
           <source>{0} minute ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} minute ago</target>
+          <target state="needs-translation">{0} minute ago</target>
         </trans-unit>
         <trans-unit id="SecondsAgo" translate="yes" xml:space="preserve">
           <source>{0} seconds ago</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} seconds ago</target>
+          <target state="needs-translation">{0} seconds ago</target>
         </trans-unit>
         <trans-unit id="SettingsOnStartupOpenASpecificPagePath.PlaceholderText" translate="yes" xml:space="preserve">
           <source>New Tab</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">New Tab</target>
+          <target state="needs-translation">New Tab</target>
         </trans-unit>
         <trans-unit id="ErrorDialogUnsupportedOperation" translate="yes" xml:space="preserve">
           <source>The requested operation is not supported</source>
@@ -564,7 +564,7 @@
         </trans-unit>
         <trans-unit id="DriveFreeSpaceAndCapacity" translate="yes" xml:space="preserve">
           <source>{0} free of {1}</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">{0} free of {1}</target>
+          <target state="needs-translation">{0} free of {1}</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutOpenItemWith.Text" translate="yes" xml:space="preserve">
           <source>Open With</source>
@@ -584,7 +584,7 @@
         </trans-unit>
         <trans-unit id="ItemSelected.Text" translate="yes" xml:space="preserve">
           <source>item selected</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">item selected</target>
+          <target state="needs-translation">item selected</target>
         </trans-unit>
         <trans-unit id="ItemsSelected.Text" translate="yes" xml:space="preserve">
           <source>items selected</source>
@@ -592,11 +592,11 @@
         </trans-unit>
         <trans-unit id="ItemCount.Text" translate="yes" xml:space="preserve">
           <source>item</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">item</target>
+          <target state="needs-translation">item</target>
         </trans-unit>
         <trans-unit id="ItemsCount.Text" translate="yes" xml:space="preserve">
           <source>items</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">items</target>
+          <target state="needs-translation">items</target>
         </trans-unit>
         <trans-unit id="PropertiesAccessed.Text" translate="yes" xml:space="preserve">
           <source>Accessed:</source>
@@ -604,7 +604,7 @@
         </trans-unit>
         <trans-unit id="ConfirmEmptyBinDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cancel</target>
+          <target state="needs-translation">Cancel</target>
         </trans-unit>
         <trans-unit id="ConfirmEmptyBinDialogContent" translate="yes" xml:space="preserve">
           <source>Are you sure you want to permanently delete all these items?</source>
@@ -612,7 +612,7 @@
         </trans-unit>
         <trans-unit id="ConfirmEmptyBinDialogTitle" translate="yes" xml:space="preserve">
           <source>Empty recycle bin</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Empty recycle bin</target>
+          <target state="needs-translation">Empty recycle bin</target>
         </trans-unit>
         <trans-unit id="ConfirmEmptyBinDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
           <source>Yes</source>
@@ -620,51 +620,39 @@
         </trans-unit>
         <trans-unit id="ItemSizeBytes" translate="yes" xml:space="preserve">
           <source>bytes</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">bytes</target>
+          <target state="needs-translation">bytes</target>
         </trans-unit>
         <trans-unit id="KiloByteSymbol" translate="yes" xml:space="preserve">
           <source>KB</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">KB</target>
+          <target state="needs-translation">KB</target>
         </trans-unit>
         <trans-unit id="MegaByteSymbol" translate="yes" xml:space="preserve">
           <source>MB</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">MB</target>
+          <target state="needs-translation">MB</target>
         </trans-unit>
         <trans-unit id="GigaByteSymbol" translate="yes" xml:space="preserve">
           <source>GB</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">GB</target>
+          <target state="needs-translation">GB</target>
         </trans-unit>
         <trans-unit id="TeraByteSymbol" translate="yes" xml:space="preserve">
           <source>TB</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">TB</target>
+          <target state="needs-translation">TB</target>
         </trans-unit>
         <trans-unit id="PetaByteSymbol" translate="yes" xml:space="preserve">
           <source>PB</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">PB</target>
+          <target state="needs-translation">PB</target>
         </trans-unit>
         <trans-unit id="ByteSymbol" translate="yes" xml:space="preserve">
           <source>B</source>
           <target state="needs-translation">B</target>
         </trans-unit>
-        <trans-unit id="DeleteInProgress.Title" translate="yes" xml:space="preserve">
-          <source>Deleting files</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Deleting files</target>
-        </trans-unit>
-        <trans-unit id="PasteInProgress.Title" translate="yes" xml:space="preserve">
-          <source>Pasting files</source>
-          <target state="needs-translation">Pasting files</target>
-        </trans-unit>
-        <trans-unit id="RecycleInProgress.Title" translate="yes" xml:space="preserve">
-          <source>Moving files to the Recycle Bin</source>
-          <target state="needs-translation">Moving files to the Recycle Bin</target>
-        </trans-unit>
         <trans-unit id="BitlockerDialog.PrimaryButtonText" translate="yes" xml:space="preserve">
           <source>Unlock</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Unlock</target>
+          <target state="needs-translation">Unlock</target>
         </trans-unit>
         <trans-unit id="BitlockerDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cancel</target>
+          <target state="needs-translation">Cancel</target>
         </trans-unit>
         <trans-unit id="BitlockerDialog.Title" translate="yes" xml:space="preserve">
           <source>Enter password to unlock the drive</source>
@@ -692,7 +680,7 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutRunAsAdmin.Text" translate="yes" xml:space="preserve">
           <source>Run as administrator</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Run as administrator</target>
+          <target state="needs-translation">Run as administrator</target>
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutRunAsAnotherUser.Text" translate="yes" xml:space="preserve">
           <source>Run as another user</source>
@@ -725,6 +713,18 @@
         <trans-unit id="PropertiesDriveFileSystem.Text" translate="yes" xml:space="preserve">
           <source>File system:</source>
           <target state="needs-translation">File system:</target>
+        </trans-unit>
+        <trans-unit id="DeleteInProgress.Title" translate="yes" xml:space="preserve">
+          <source>Deleting files</source>
+          <target state="needs-translation">Deleting files</target>
+        </trans-unit>
+        <trans-unit id="PasteInProgress.Title" translate="yes" xml:space="preserve">
+          <source>Pasting files</source>
+          <target state="needs-translation">Pasting files</target>
+        </trans-unit>
+        <trans-unit id="RecycleInProgress.Title" translate="yes" xml:space="preserve">
+          <source>Moving files to the Recycle Bin</source>
+          <target state="needs-translation">Moving files to the Recycle Bin</target>
         </trans-unit>
         <trans-unit id="JumpListRecentGroupHeader" translate="yes" xml:space="preserve">
           <source>Recent</source>
@@ -850,6 +850,22 @@
           <source>Open file location</source>
           <target state="needs-translation">Open file location</target>
         </trans-unit>
+        <trans-unit id="SettingsAboutContributors.Text" translate="yes" xml:space="preserve">
+          <source>Contributors</source>
+          <target state="needs-translation">Contributors</target>
+        </trans-unit>
+        <trans-unit id="SettingsAboutReleaseNotes.Text" translate="yes" xml:space="preserve">
+          <source>Release notes</source>
+          <target state="needs-translation">Release notes</target>
+        </trans-unit>
+        <trans-unit id="InvalidItemDialogContent" translate="yes" xml:space="preserve">
+          <source>The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}</source>
+          <target state="needs-translation">The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}</target>
+        </trans-unit>
+        <trans-unit id="InvalidItemDialogTitle" translate="yes" xml:space="preserve">
+          <source>Invalid item</source>
+          <target state="needs-translation">Invalid item</target>
+        </trans-unit>
         <trans-unit id="DriveCapacityUnknown" translate="yes" xml:space="preserve">
           <source>Unknown</source>
           <target state="needs-translation">Unknown</target>
@@ -870,22 +886,6 @@
           <source>Report this issue</source>
           <target state="needs-translation">Report this issue</target>
         </trans-unit>
-        <trans-unit id="SettingsAboutContributors.Text" translate="yes" xml:space="preserve">
-          <source>Contributors</source>
-          <target state="needs-translation">Contributors</target>
-        </trans-unit>
-        <trans-unit id="SettingsAboutReleaseNotes.Text" translate="yes" xml:space="preserve">
-          <source>Release notes</source>
-          <target state="needs-translation">Release notes</target>
-        </trans-unit>
-        <trans-unit id="InvalidItemDialogContent" translate="yes" xml:space="preserve">
-          <source>The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}</source>
-          <target state="needs-translation">The item referenced is either invalid or inaccessible.{0}Error message:{0}{1}</target>
-        </trans-unit>
-        <trans-unit id="InvalidItemDialogTitle" translate="yes" xml:space="preserve">
-          <source>Invalid item</source>
-          <target state="needs-translation">Invalid item</target>
-        </trans-unit>
         <trans-unit id="SettingsAboutVersionTitle" translate="yes" xml:space="preserve">
           <source>Version:</source>
           <target state="needs-translation">Version:</target>
@@ -904,7 +904,7 @@
         </trans-unit>
         <trans-unit id="ShareDialogTitle" translate="yes" xml:space="preserve">
           <source>Sharing {0}</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Sharing {0}</target>
+          <target state="needs-translation">Sharing {0}</target>
         </trans-unit>
         <trans-unit id="ShareDialogTitleMultipleItems" translate="yes" xml:space="preserve">
           <source>Sharing {0} {1}</source>
@@ -944,27 +944,27 @@
         </trans-unit>
         <trans-unit id="SettingsMultitaskingTitle.Text" translate="yes" xml:space="preserve">
           <source>Multitasking</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Multitasking</target>
+          <target state="needs-translation">Multitasking</target>
         </trans-unit>
         <trans-unit id="SettingsNavMultitasking.Content" translate="yes" xml:space="preserve">
           <source>Multitasking</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Multitasking</target>
+          <target state="needs-translation">Multitasking</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutSetAs.Text" translate="yes" xml:space="preserve">
           <source>Set as</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Set as</target>
+          <target state="needs-translation">Set as</target>
         </trans-unit>
         <trans-unit id="BaseLayoutItemContextFlyoutCopyLocation.Text" translate="yes" xml:space="preserve">
           <source>Copy location</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Copy location</target>
+          <target state="needs-translation">Copy location</target>
         </trans-unit>
         <trans-unit id="VerticalTabViewAddTab.Text" translate="yes" xml:space="preserve">
           <source>Add tab</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Add tab</target>
+          <target state="needs-translation">Add tab</target>
         </trans-unit>
         <trans-unit id="VerticalTabViewHeader.Text" translate="yes" xml:space="preserve">
           <source>Open tabs</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Open tabs</target>
+          <target state="needs-translation">Open tabs</target>
         </trans-unit>
         <trans-unit id="ButtonNo.Content" translate="yes" xml:space="preserve">
           <source>No</source>
@@ -992,7 +992,7 @@
         </trans-unit>
         <trans-unit id="AddDialogListFolderHeader" translate="yes" xml:space="preserve">
           <source>Folder</source>
-          <target state="needs-translation">Folder</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Folder</target>
         </trans-unit>
         <trans-unit id="AddDialogListFolderSubHeader" translate="yes" xml:space="preserve">
           <source>Creates an empty folder</source>
@@ -1042,6 +1042,14 @@
           <source>Status center</source>
           <target state="needs-translation">Status center</target>
         </trans-unit>
+        <trans-unit id="PinToSidebarByDraggingCaptionText" translate="yes" xml:space="preserve">
+          <source>Move here</source>
+          <target state="needs-translation">Move here</target>
+        </trans-unit>
+        <trans-unit id="DrivesWidgetDescription.Text" translate="yes" xml:space="preserve">
+          <source>Drives</source>
+          <target state="needs-translation">Drives</target>
+        </trans-unit>
         <trans-unit id="FileItemAutomation" translate="yes" xml:space="preserve">
           <source>File</source>
           <target state="needs-translation">File</target>
@@ -1057,14 +1065,6 @@
         <trans-unit id="ShortcutItemAutomation" translate="yes" xml:space="preserve">
           <source>Shortcut item</source>
           <target state="needs-translation">Shortcut item</target>
-        </trans-unit>
-        <trans-unit id="PinToSidebarByDraggingCaptionText" translate="yes" xml:space="preserve">
-          <source>Move here</source>
-          <target state="needs-translation">Move here</target>
-        </trans-unit>
-        <trans-unit id="DrivesWidgetDescription.Text" translate="yes" xml:space="preserve">
-          <source>Drives</source>
-          <target state="needs-translation">Drives</target>
         </trans-unit>
         <trans-unit id="EjectNotificationHeader" translate="yes" xml:space="preserve">
           <source>Safe to remove hardware</source>
@@ -1097,6 +1097,10 @@
         <trans-unit id="HorizontalMultitaskingControlNewTab.Text" translate="yes" xml:space="preserve">
           <source>New tab</source>
           <target state="needs-translation">New tab</target>
+        </trans-unit>
+        <trans-unit id="NavSearchButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-translation">Search</target>
         </trans-unit>
         <trans-unit id="PropertiesDialogReadOnly.Text" translate="yes" xml:space="preserve">
           <source>Read-only</source>
@@ -1220,7 +1224,7 @@
         </trans-unit>
         <trans-unit id="PropertyChannelCount" translate="yes" xml:space="preserve">
           <source>Channel Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Channel Count</target>
+          <target state="needs-translation">Channel Count</target>
         </trans-unit>
         <trans-unit id="PropertyEncodingBitrate" translate="yes" xml:space="preserve">
           <source>Encoding Bitrate</source>
@@ -1228,7 +1232,7 @@
         </trans-unit>
         <trans-unit id="PropertyCompression" translate="yes" xml:space="preserve">
           <source>Compression</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Compression</target>
+          <target state="needs-translation">Compression</target>
         </trans-unit>
         <trans-unit id="PropertyFormat" translate="yes" xml:space="preserve">
           <source>Format</source>
@@ -1236,7 +1240,7 @@
         </trans-unit>
         <trans-unit id="PropertySampleRate" translate="yes" xml:space="preserve">
           <source>Sample Rate</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Sample Rate</target>
+          <target state="needs-translation">Sample Rate</target>
         </trans-unit>
         <trans-unit id="PropertyDisplayArtist" translate="yes" xml:space="preserve">
           <source>Artist</source>
@@ -1244,11 +1248,11 @@
         </trans-unit>
         <trans-unit id="PropertyAlbumArtist" translate="yes" xml:space="preserve">
           <source>Album Artist</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Album Artist</target>
+          <target state="needs-translation">Album Artist</target>
         </trans-unit>
         <trans-unit id="PropertyAlbumTitle" translate="yes" xml:space="preserve">
           <source>Album Title</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Album Title</target>
+          <target state="needs-translation">Album Title</target>
         </trans-unit>
         <trans-unit id="PropertyArtist" translate="yes" xml:space="preserve">
           <source>Artist</source>
@@ -1264,7 +1268,7 @@
         </trans-unit>
         <trans-unit id="PropertyConductor" translate="yes" xml:space="preserve">
           <source>Conductor</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Conductor</target>
+          <target state="needs-translation">Conductor</target>
         </trans-unit>
         <trans-unit id="PropertyDiscNumber" translate="yes" xml:space="preserve">
           <source>Disc Number</source>
@@ -1276,7 +1280,7 @@
         </trans-unit>
         <trans-unit id="PropertyTrackNumber" translate="yes" xml:space="preserve">
           <source>Track Number</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Track Number</target>
+          <target state="needs-translation">Track Number</target>
         </trans-unit>
         <trans-unit id="PropertyDuration" translate="yes" xml:space="preserve">
           <source>Duration</source>
@@ -1284,11 +1288,11 @@
         </trans-unit>
         <trans-unit id="PropertyFrameCount" translate="yes" xml:space="preserve">
           <source>Frame Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Frame Count</target>
+          <target state="needs-translation">Frame Count</target>
         </trans-unit>
         <trans-unit id="PropertyProtectionType" translate="yes" xml:space="preserve">
           <source>Protection Type</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Protection Type</target>
+          <target state="needs-translation">Protection Type</target>
         </trans-unit>
         <trans-unit id="PropertyAuthorUrl" translate="yes" xml:space="preserve">
           <source>Author Url</source>
@@ -1300,7 +1304,7 @@
         </trans-unit>
         <trans-unit id="PropertyDateReleased" translate="yes" xml:space="preserve">
           <source>Date Released</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Date Released</target>
+          <target state="needs-translation">Date Released</target>
         </trans-unit>
         <trans-unit id="PropertySeriesName" translate="yes" xml:space="preserve">
           <source>Series Name</source>
@@ -1328,7 +1332,7 @@
         </trans-unit>
         <trans-unit id="PropertyPublisher" translate="yes" xml:space="preserve">
           <source>Publisher</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Publisher</target>
+          <target state="needs-translation">Publisher</target>
         </trans-unit>
         <trans-unit id="PropertyThumbnailLargePath" translate="yes" xml:space="preserve">
           <source>Thumbnail Large Path</source>
@@ -1352,7 +1356,7 @@
         </trans-unit>
         <trans-unit id="PropertyWriter" translate="yes" xml:space="preserve">
           <source>Writer</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Writer</target>
+          <target state="needs-translation">Writer</target>
         </trans-unit>
         <trans-unit id="PropertyYear" translate="yes" xml:space="preserve">
           <source>Year</source>
@@ -1372,11 +1376,11 @@
         </trans-unit>
         <trans-unit id="PropertySectionGPS" translate="yes" xml:space="preserve">
           <source>GPS</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">GPS</target>
+          <target state="needs-translation">GPS</target>
         </trans-unit>
         <trans-unit id="PropertySectionMedia" translate="yes" xml:space="preserve">
           <source>Media</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Media</target>
+          <target state="needs-translation">Media</target>
         </trans-unit>
         <trans-unit id="PropertySectionAudio" translate="yes" xml:space="preserve">
           <source>Audio</source>
@@ -1396,7 +1400,7 @@
         </trans-unit>
         <trans-unit id="PropertyPeopleNames" translate="yes" xml:space="preserve">
           <source>People Names</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">People Names</target>
+          <target state="needs-translation">People Names</target>
         </trans-unit>
         <trans-unit id="PropertyContributor" translate="yes" xml:space="preserve">
           <source>Contributor</source>
@@ -1404,11 +1408,11 @@
         </trans-unit>
         <trans-unit id="PropertyLastAuthor" translate="yes" xml:space="preserve">
           <source>Last Author</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Last Author</target>
+          <target state="needs-translation">Last Author</target>
         </trans-unit>
         <trans-unit id="PropertyRevisionNumber" translate="yes" xml:space="preserve">
           <source>Revision Number</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Revision Number</target>
+          <target state="needs-translation">Revision Number</target>
         </trans-unit>
         <trans-unit id="PropertyVersion" translate="yes" xml:space="preserve">
           <source>Version</source>
@@ -1432,7 +1436,7 @@
         </trans-unit>
         <trans-unit id="PropertyTemplate" translate="yes" xml:space="preserve">
           <source>Template</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Template</target>
+          <target state="needs-translation">Template</target>
         </trans-unit>
         <trans-unit id="PropertyWordCount" translate="yes" xml:space="preserve">
           <source>Word Count</source>
@@ -1440,19 +1444,19 @@
         </trans-unit>
         <trans-unit id="PropertyCharacterCount" translate="yes" xml:space="preserve">
           <source>Character Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Character Count</target>
+          <target state="needs-translation">Character Count</target>
         </trans-unit>
         <trans-unit id="PropertyLineCount" translate="yes" xml:space="preserve">
           <source>Line Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Line Count</target>
+          <target state="needs-translation">Line Count</target>
         </trans-unit>
         <trans-unit id="PropertyParagraphCount" translate="yes" xml:space="preserve">
           <source>Paragraph Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Paragraph Count</target>
+          <target state="needs-translation">Paragraph Count</target>
         </trans-unit>
         <trans-unit id="PropertyPageCount" translate="yes" xml:space="preserve">
           <source>Page Count</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Page Count</target>
+          <target state="needs-translation">Page Count</target>
         </trans-unit>
         <trans-unit id="PropertySlideCount" translate="yes" xml:space="preserve">
           <source>Slide Count</source>
@@ -1460,15 +1464,15 @@
         </trans-unit>
         <trans-unit id="PropertyFrameRate" translate="yes" xml:space="preserve">
           <source>Frame Rate</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Frame Rate</target>
+          <target state="needs-translation">Frame Rate</target>
         </trans-unit>
         <trans-unit id="PropertyFrameWidth" translate="yes" xml:space="preserve">
           <source>Frame Width</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Frame Width</target>
+          <target state="needs-translation">Frame Width</target>
         </trans-unit>
         <trans-unit id="PropertyFrameHeight" translate="yes" xml:space="preserve">
           <source>Frame Height</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Frame Height</target>
+          <target state="needs-translation">Frame Height</target>
         </trans-unit>
         <trans-unit id="PropertyOrientation" translate="yes" xml:space="preserve">
           <source>Orientation</source>
@@ -1488,7 +1492,7 @@
         </trans-unit>
         <trans-unit id="PropertySaveErrorDialog.SecondaryButtonText" translate="yes" xml:space="preserve">
           <source>Close anyway</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Close anyway</target>
+          <target state="needs-translation">Close anyway</target>
         </trans-unit>
         <trans-unit id="PropertySaveErrorDialog.CloseButtonText" translate="yes" xml:space="preserve">
           <source>Cancel</source>
@@ -1504,7 +1508,7 @@
         </trans-unit>
         <trans-unit id="ClearPropertiesFlyoutConfirmation.Content" translate="yes" xml:space="preserve">
           <source>Clear</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Clear</target>
+          <target state="needs-translation">Clear</target>
         </trans-unit>
         <trans-unit id="ClearPropertiesButton.Content" translate="yes" xml:space="preserve">
           <source>Clear All Properties</source>
@@ -1525,10 +1529,6 @@
         <trans-unit id="StatusCenterTeachingTip.Title" translate="yes" xml:space="preserve">
           <source>Status Center</source>
           <target state="needs-translation">Status Center</target>
-        </trans-unit>
-        <trans-unit id="NavSearchButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Search</source>
-          <target state="needs-translation">Search</target>
         </trans-unit>
         <trans-unit id="SearchPagePathBoxOverrideText" translate="yes" xml:space="preserve">
           <source>Search results in</source>
@@ -1600,19 +1600,19 @@
         </trans-unit>
         <trans-unit id="AppBarButtonAdd.Label" translate="yes" xml:space="preserve">
           <source>Add</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Add</target>
+          <target state="needs-translation">Add</target>
         </trans-unit>
         <trans-unit id="AppBarButtonEdit.Label" translate="yes" xml:space="preserve">
           <source>Edit</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Edit</target>
+          <target state="needs-translation">Edit</target>
         </trans-unit>
         <trans-unit id="AppBarButtonRemove.Label" translate="yes" xml:space="preserve">
           <source>Remove</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Remove</target>
+          <target state="needs-translation">Remove</target>
         </trans-unit>
         <trans-unit id="ItemAlreadyExistsDialogCloseButtonText" translate="yes" xml:space="preserve">
           <source>Cancel</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Cancel</target>
+          <target state="needs-translation">Cancel</target>
         </trans-unit>
         <trans-unit id="StatusCenter.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Ongoing Tasks</source>
@@ -1850,9 +1850,13 @@
           <source>Network</source>
           <target state="needs-translation">Network</target>
         </trans-unit>
+        <trans-unit id="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="needs-translation">Properties</target>
+        </trans-unit>
         <trans-unit id="PreviewPaneFileDetails.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>File details</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">File details</target>
+          <target state="needs-translation">File details</target>
         </trans-unit>
         <trans-unit id="PreviewPaneFilePreview.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>File preview</source>
@@ -1869,10 +1873,6 @@
         <trans-unit id="SettingsAboutDocumentationListViewItem.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Visit the Files documentation website</source>
           <target state="needs-translation">Visit the Files documentation website</target>
-        </trans-unit>
-        <trans-unit id="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" translate="yes" xml:space="preserve">
-          <source>Properties</source>
-          <target state="needs-translation">Properties</target>
         </trans-unit>
         <trans-unit id="StatusCenterFlyout.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Ongoing tasks flyout</source>
@@ -1956,11 +1956,11 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByDateCreated.Text" translate="yes" xml:space="preserve">
           <source>Date created</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Date created</target>
+          <target state="needs-translation">Date created</target>
         </trans-unit>
         <trans-unit id="DateCreatedColumn.Header" translate="yes" xml:space="preserve">
           <source>Date created</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Date created</target>
+          <target state="needs-translation">Date created</target>
         </trans-unit>
         <trans-unit id="DrivesWidgetMoreOptionsButton.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>More options...</source>
@@ -1984,11 +1984,11 @@
         </trans-unit>
         <trans-unit id="SidebarFavorites" translate="yes" xml:space="preserve">
           <source>Favorites</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Favorites</target>
+          <target state="needs-translation">Favorites</target>
         </trans-unit>
         <trans-unit id="Browse" translate="yes" xml:space="preserve">
           <source>Browse</source>
-          <target state="needs-translation">Browse</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Browse</target>
         </trans-unit>
         <trans-unit id="DetailsPanePreviewNotAvaliableText" translate="yes" xml:space="preserve">
           <source>No preview available</source>
@@ -2004,7 +2004,7 @@
         </trans-unit>
         <trans-unit id="PropertyItemTarget" translate="yes" xml:space="preserve">
           <source>Target</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Target</target>
+          <target state="needs-translation">Target</target>
         </trans-unit>
         <trans-unit id="PropertyItemArguments" translate="yes" xml:space="preserve">
           <source>Arguments</source>
@@ -2012,15 +2012,11 @@
         </trans-unit>
         <trans-unit id="SidebarLibraries" translate="yes" xml:space="preserve">
           <source>Libraries</source>
-          <target state-qualifier="tm-suggestion" state="needs-translation">Libraries</target>
+          <target state="needs-translation">Libraries</target>
         </trans-unit>
         <trans-unit id="PropertyItemCount" translate="yes" xml:space="preserve">
           <source>Item count</source>
           <target state="needs-translation">Item count</target>
-        </trans-unit>
-        <trans-unit id="HorizontalMultitaskingControlCloseTabsToTheRight.Text" translate="yes" xml:space="preserve">
-          <source>Close tabs to the right</source>
-          <target state="needs-translation">Close tabs to the right</target>
         </trans-unit>
         <trans-unit id="StatusDeletionFailed" translate="yes" xml:space="preserve">
           <source>Deletion Failed</source>
@@ -2028,7 +2024,7 @@
         </trans-unit>
         <trans-unit id="StatusUnknownError" translate="yes" xml:space="preserve">
           <source>An unknown error has occurred.</source>
-          <target state="needs-translation">An unknown error has occurred.</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">An unknown error has occurred.</target>
         </trans-unit>
         <trans-unit id="StatusDeletionComplete" translate="yes" xml:space="preserve">
           <source>Deletion complete</source>
@@ -2036,7 +2032,7 @@
         </trans-unit>
         <trans-unit id="StatusOperationCompleted" translate="yes" xml:space="preserve">
           <source>The operation has completed.</source>
-          <target state="needs-translation">The operation has completed.</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">The operation has completed.</target>
         </trans-unit>
         <trans-unit id="StatusRecycleComplete" translate="yes" xml:space="preserve">
           <source>Recycle complete</source>
@@ -2065,6 +2061,10 @@
         <trans-unit id="ElevateConfirmDialog.Content" translate="yes" xml:space="preserve">
           <source>Would you like to continue as administrator?</source>
           <target state="needs-translation">Would you like to continue as administrator?</target>
+        </trans-unit>
+        <trans-unit id="HorizontalMultitaskingControlCloseTabsToTheRight.Text" translate="yes" xml:space="preserve">
+          <source>Close tabs to the right</source>
+          <target state="needs-translation">Close tabs to the right</target>
         </trans-unit>
         <trans-unit id="FullTrustStatusTeachingTip.Title" translate="yes" xml:space="preserve">
           <source>Administrator</source>
@@ -3368,7 +3368,7 @@
         </trans-unit>
         <trans-unit id="ExtractingArchiveText" translate="yes" xml:space="preserve">
           <source>Extracting archive</source>
-          <target state="needs-translation">Extracting archive</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Extracting archive</target>
         </trans-unit>
         <trans-unit id="ExtractingCompleteText" translate="yes" xml:space="preserve">
           <source>Extracting complete!</source>
@@ -3376,7 +3376,7 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutNew.KeyboardAcceleratorTextOverride" translate="yes" xml:space="preserve">
           <source>Ctrl+Shift+N</source>
-          <target state="needs-translation">Ctrl+Shift+N</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Ctrl+Shift+N</target>
         </trans-unit>
         <trans-unit id="SettingsPreferencesEditTerminalApplicationsExpander.Title" translate="yes" xml:space="preserve">
           <source>Edit terminal applications</source>
@@ -3384,7 +3384,7 @@
         </trans-unit>
         <trans-unit id="SettingsDateFormat.Title" translate="yes" xml:space="preserve">
           <source>Date format</source>
-          <target state="needs-translation">Date format</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Date format</target>
         </trans-unit>
         <trans-unit id="SettingsPreferencesShowConfirmDeleteDialog.Title" translate="yes" xml:space="preserve">
           <source>Show a confirmation dialog when deleting files or folders</source>
@@ -3396,7 +3396,7 @@
         </trans-unit>
         <trans-unit id="SettingsPrivacy.Title" translate="yes" xml:space="preserve">
           <source>Privacy policy</source>
-          <target state="needs-translation">Privacy policy</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Privacy policy</target>
         </trans-unit>
         <trans-unit id="SettingsFluentUISystemIconsLicenseButton.Content" translate="yes" xml:space="preserve">
           <source>Fluent UI System Icons</source>
@@ -3426,47 +3426,47 @@ We use App Center to keep track of app usage, find bugs, and fix crashes. All in
         </trans-unit>
         <trans-unit id="NavToolbarGroupByOptionNone.Text" translate="yes" xml:space="preserve">
           <source>None</source>
-          <target state="needs-translation">None</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">None</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionName.Text" translate="yes" xml:space="preserve">
           <source>Name</source>
-          <target state="needs-translation">Name</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Name</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionDateModified.Text" translate="yes" xml:space="preserve">
           <source>Date modified</source>
-          <target state="needs-translation">Date modified</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Date modified</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionDateCreated.Text" translate="yes" xml:space="preserve">
           <source>Date created</source>
-          <target state="needs-translation">Date created</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Date created</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionSize.Text" translate="yes" xml:space="preserve">
           <source>Size</source>
-          <target state="needs-translation">Size</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Size</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionDateDeleted.Text" translate="yes" xml:space="preserve">
           <source>Date deleted</source>
-          <target state="needs-translation">Date deleted</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Date deleted</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionOriginalFolder.Text" translate="yes" xml:space="preserve">
           <source>Original folder</source>
-          <target state="needs-translation">Original folder</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Original folder</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionType.Text" translate="yes" xml:space="preserve">
           <source>Type</source>
-          <target state="needs-translation">Type</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Type</target>
         </trans-unit>
         <trans-unit id="NavToolbarSortDirectionOptionAscending.Text" translate="yes" xml:space="preserve">
           <source>Ascending</source>
-          <target state="needs-translation">Ascending</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Ascending</target>
         </trans-unit>
         <trans-unit id="NavToolbarSortDirectionOptionDescending.Text" translate="yes" xml:space="preserve">
           <source>Descending</source>
-          <target state="needs-translation">Descending</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Descending</target>
         </trans-unit>
         <trans-unit id="NavToolbarArrangementOptionSyncStatus.Text" translate="yes" xml:space="preserve">
           <source>Sync status</source>
-          <target state="needs-translation">Sync status</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Sync status</target>
         </trans-unit>
         <trans-unit id="SettingsShowFavoritesSection.Title" translate="yes" xml:space="preserve">
           <source>Show Favorites section on the sidebar</source>
@@ -3486,7 +3486,7 @@ We use App Center to keep track of app usage, find bugs, and fix crashes. All in
         </trans-unit>
         <trans-unit id="FileTagUnknown" translate="yes" xml:space="preserve">
           <source>Unknown</source>
-          <target state="needs-translation">Unknown</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Unknown</target>
         </trans-unit>
         <trans-unit id="DetailsViewHeaderFlyout_ShowFileTag.Text" translate="yes" xml:space="preserve">
           <source>File tag</source>
