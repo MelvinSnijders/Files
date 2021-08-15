@@ -2744,7 +2744,7 @@ We use App Center to keep track of app usage, find bugs, and fix crashes. All in
     <value>Sluiten</value>
   </data>
   <data name="InsertDiscDialog.OpenDriveButton" xml:space="preserve">
-    <value>Open Drive</value>
+    <value>Open station</value>
   </data>
   <data name="InsertDiscDialog.Text" xml:space="preserve">
     <value>Please insert a disc into drive {0}</value>
