@@ -1000,7 +1000,7 @@
         </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutLayoutMode.Text" translate="yes" xml:space="preserve">
           <source>Layout mode</source>
-          <target state="needs-translation">Layout mode</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Layout mode</target>
         </trans-unit>
         <trans-unit id="NavBackButton.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Navigate backwards</source>
@@ -1108,7 +1108,7 @@
         </trans-unit>
         <trans-unit id="PropertiesDialogHidden.Text" translate="yes" xml:space="preserve">
           <source>Hidden</source>
-          <target state="needs-translation">Hidden</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Hidden</target>
         </trans-unit>
         <trans-unit id="PropertyRatingText" translate="yes" xml:space="preserve">
           <source>Rating</source>
@@ -1642,58 +1642,6 @@
           <source>Folders</source>
           <target state="needs-translation">Folders</target>
         </trans-unit>
-        <trans-unit id="NavToolbarDetailsView.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Details View (Ctrl+Shift+1)</source>
-          <target state="needs-translation">Details View (Ctrl+Shift+1)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewLarge.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Grid View (Large) (Ctrl+Shift+5)</source>
-          <target state="needs-translation">Grid View (Large) (Ctrl+Shift+5)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewMedium.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Grid View (Medium) (Ctrl+Shift+4)</source>
-          <target state="needs-translation">Grid View (Medium) (Ctrl+Shift+4)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewSmall.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Grid View (Small) (Ctrl+Shift+3)</source>
-          <target state="needs-translation">Grid View (Small) (Ctrl+Shift+3)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarTilesView.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Tiles View (Ctrl+Shift+2)</source>
-          <target state="needs-translation">Tiles View (Ctrl+Shift+2)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarDisplayOptions.Text" translate="yes" xml:space="preserve">
-          <source>Display Options</source>
-          <target state="needs-translation">Display Options</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewLarge.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Grid View (Large)</source>
-          <target state="needs-translation">Grid View (Large)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewMedium.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Grid View (Medium)</source>
-          <target state="needs-translation">Grid View (Medium)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarGridViewSmall.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Grid View (Small)</source>
-          <target state="needs-translation">Grid View (Small)</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarTilesView.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Tiles View</source>
-          <target state="needs-translation">Tiles View</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarShowFileExtensions.Header" translate="yes" xml:space="preserve">
-          <source>Show file extensions</source>
-          <target state="needs-translation">Show file extensions</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarShowHiddenItems.Header" translate="yes" xml:space="preserve">
-          <source>Show hidden items</source>
-          <target state="needs-translation">Show hidden items</target>
-        </trans-unit>
-        <trans-unit id="NavToolbarDetailsView.AutomationProperties.Name" translate="yes" xml:space="preserve">
-          <source>Details View</source>
-          <target state="needs-translation">Details View</target>
-        </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutSortByDateDeleted.Text" translate="yes" xml:space="preserve">
           <source>Date deleted</source>
           <target state="needs-translation">Date deleted</target>
@@ -2010,6 +1958,62 @@
           <source>Arguments</source>
           <target state="needs-translation">Arguments</target>
         </trans-unit>
+        <trans-unit id="PropertiesFilesFoldersAndLocationsCountString" translate="yes" xml:space="preserve">
+          <source>{0:#,##0} files, {1:#,##0} folders from {2:#,##0} locations</source>
+          <target state="needs-translation">{0:#,##0} files, {1:#,##0} folders from {2:#,##0} locations</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarDetailsView.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Details View (Ctrl+Shift+1)</source>
+          <target state="needs-translation">Details View (Ctrl+Shift+1)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarDetailsView.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Details View</source>
+          <target state="needs-translation">Details View</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarDisplayOptions.Text" translate="yes" xml:space="preserve">
+          <source>Display Options</source>
+          <target state="needs-translation">Display Options</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewLarge.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Grid View (Large)</source>
+          <target state="needs-translation">Grid View (Large)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewLarge.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Grid View (Large) (Ctrl+Shift+5)</source>
+          <target state="needs-translation">Grid View (Large) (Ctrl+Shift+5)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewMedium.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Grid View (Medium)</source>
+          <target state="needs-translation">Grid View (Medium)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewMedium.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Grid View (Medium) (Ctrl+Shift+4)</source>
+          <target state="needs-translation">Grid View (Medium) (Ctrl+Shift+4)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewSmall.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Grid View (Small)</source>
+          <target state="needs-translation">Grid View (Small)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarGridViewSmall.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Grid View (Small) (Ctrl+Shift+3)</source>
+          <target state="needs-translation">Grid View (Small) (Ctrl+Shift+3)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarTilesView.AutomationProperties.Name" translate="yes" xml:space="preserve">
+          <source>Tiles View</source>
+          <target state="needs-translation">Tiles View</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarTilesView.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Tiles View (Ctrl+Shift+2)</source>
+          <target state="needs-translation">Tiles View (Ctrl+Shift+2)</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarShowFileExtensions.Header" translate="yes" xml:space="preserve">
+          <source>Show file extensions</source>
+          <target state="needs-translation">Show file extensions</target>
+        </trans-unit>
+        <trans-unit id="NavToolbarShowHiddenItems.Header" translate="yes" xml:space="preserve">
+          <source>Show hidden items</source>
+          <target state="needs-translation">Show hidden items</target>
+        </trans-unit>
         <trans-unit id="SidebarLibraries" translate="yes" xml:space="preserve">
           <source>Libraries</source>
           <target state="needs-translation">Libraries</target>
@@ -2074,14 +2078,6 @@
           <source>Administrator</source>
           <target state="needs-translation">Administrator</target>
         </trans-unit>
-        <trans-unit id="PinItemToStart.Text" translate="yes" xml:space="preserve">
-          <source>Pin to the Start Menu</source>
-          <target state="needs-translation">Pin to the Start Menu</target>
-        </trans-unit>
-        <trans-unit id="UnpinItemFromStart.Text" translate="yes" xml:space="preserve">
-          <source>Unpin from the Start Menu</source>
-          <target state="needs-translation">Unpin from the Start Menu</target>
-        </trans-unit>
         <trans-unit id="NavToolbarColumnView.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Column View</source>
           <target state="needs-translation">Column View</target>
@@ -2090,13 +2086,17 @@
           <source>Column View (Ctrl+Shift+6)</source>
           <target state="needs-translation">Column View (Ctrl+Shift+6)</target>
         </trans-unit>
+        <trans-unit id="PinItemToStart.Text" translate="yes" xml:space="preserve">
+          <source>Pin to the Start Menu</source>
+          <target state="needs-translation">Pin to the Start Menu</target>
+        </trans-unit>
+        <trans-unit id="UnpinItemFromStart.Text" translate="yes" xml:space="preserve">
+          <source>Unpin from the Start Menu</source>
+          <target state="needs-translation">Unpin from the Start Menu</target>
+        </trans-unit>
         <trans-unit id="BaseLayoutContextFlyoutColumn.Text" translate="yes" xml:space="preserve">
           <source>Column View</source>
           <target state="needs-translation">Column View</target>
-        </trans-unit>
-        <trans-unit id="PropertiesFilesFoldersAndLocationsCountString" translate="yes" xml:space="preserve">
-          <source>{0:#,##0} files, {1:#,##0} folders from {2:#,##0} locations</source>
-          <target state="needs-translation">{0:#,##0} files, {1:#,##0} folders from {2:#,##0} locations</target>
         </trans-unit>
         <trans-unit id="ItemTypeLibrary" translate="yes" xml:space="preserve">
           <source>Library</source>
@@ -2174,10 +2174,6 @@
           <source>Open Storage Sense</source>
           <target state="needs-translation">Open Storage Sense</target>
         </trans-unit>
-        <trans-unit id="PropertyISO" translate="yes" xml:space="preserve">
-          <source>ISO speed</source>
-          <target state="needs-translation">ISO speed</target>
-        </trans-unit>
         <trans-unit id="CopyItemsDialogPrimaryButtonText" translate="yes" xml:space="preserve">
           <source>Copy</source>
           <target state="needs-translation">Copy</target>
@@ -2254,13 +2250,9 @@
           <source>Permanently delete</source>
           <target state="needs-translation">Permanently delete</target>
         </trans-unit>
-        <trans-unit id="SearchUnindexedItemsLabel.Text" translate="yes" xml:space="preserve">
-          <source>Didn't find what you're looking for?</source>
-          <target state="needs-translation">Didn't find what you're looking for?</target>
-        </trans-unit>
-        <trans-unit id="SearchUnindexedItemsButton.Content" translate="yes" xml:space="preserve">
-          <source>Search unindexed items.</source>
-          <target state="needs-translation">Search unindexed items.</target>
+        <trans-unit id="PropertyISO" translate="yes" xml:space="preserve">
+          <source>ISO speed</source>
+          <target state="needs-translation">ISO speed</target>
         </trans-unit>
         <trans-unit id="NavToolbarWidgets.ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Manage Widgets</source>
@@ -2269,6 +2261,14 @@
         <trans-unit id="NavToolbarWidgetsManager.AutomationProperties.Name" translate="yes" xml:space="preserve">
           <source>Manage widgets</source>
           <target state="needs-translation">Manage widgets</target>
+        </trans-unit>
+        <trans-unit id="SearchUnindexedItemsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Didn't find what you're looking for?</source>
+          <target state="needs-translation">Didn't find what you're looking for?</target>
+        </trans-unit>
+        <trans-unit id="SearchUnindexedItemsButton.Content" translate="yes" xml:space="preserve">
+          <source>Search unindexed items.</source>
+          <target state="needs-translation">Search unindexed items.</target>
         </trans-unit>
         <trans-unit id="NavToolbarShowBundlesWidget.Header" translate="yes" xml:space="preserve">
           <source>Show Bundles widget</source>
@@ -3510,7 +3510,7 @@ We use App Center to keep track of app usage, find bugs, and fix crashes. All in
         </trans-unit>
         <trans-unit id="InsertDiscDialog.CloseDialogButton" translate="yes" xml:space="preserve">
           <source>Close</source>
-          <target state="needs-translation">Close</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Close</target>
         </trans-unit>
         <trans-unit id="InsertDiscDialog.OpenDriveButton" translate="yes" xml:space="preserve">
           <source>Open Drive</source>
@@ -3522,7 +3522,7 @@ We use App Center to keep track of app usage, find bugs, and fix crashes. All in
         </trans-unit>
         <trans-unit id="InsertDiscDialog.Title" translate="yes" xml:space="preserve">
           <source>Insert a disc</source>
-          <target state="needs-translation">Insert a disc</target>
+          <target state-qualifier="tm-suggestion" state="needs-translation">Insert a disc</target>
         </trans-unit>
       </group>
     </body>
