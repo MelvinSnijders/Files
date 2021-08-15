@@ -1,3 +1,3 @@
 files:
-  - source: /Files/Strings/
+  - source: /Files/Strings/en-US/Resources.resw
     translation: /Files/Strings/%two_letters_code%/Resources.resw
