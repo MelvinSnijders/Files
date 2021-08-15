@@ -12,494 +12,452 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SideBarOpenInNewTab.Text" xml:space="preserve">
-    <value>Atvērt jaunā cilnē</value>
-  </data>
-  <data name="SideBarOpenInNewWindow.Text" xml:space="preserve">
-    <value>Atvērt jaunā logā</value>
-  </data>
-  <data name="ModernNavigationToolbaNewFolder.Text" xml:space="preserve">
-    <value>Mape</value>
-  </data>
-  <data name="ModernNavigationToolbaNewBitmapImage.Text" xml:space="preserve">
-    <value>Bitkartes attēls</value>
-  </data>
-  <data name="ModernNavigationToolbaNewTextDocument.Text" xml:space="preserve">
-    <value>Teksta dokuments</value>
-  </data>
-  <data name="Browse" xml:space="preserve">
-    <value>Pārlūkot</value>
-  </data>
-  <data name="SidebarDrives" xml:space="preserve">
-    <value>Diski</value>
-  </data>
-  <data name="nameColumn.Header" xml:space="preserve">
-    <value>Nosaukums</value>
-  </data>
-  <data name="dateColumn.Header" xml:space="preserve">
-    <value>Modificēšanas datums</value>
-  </data>
-  <data name="typeColumn.Header" xml:space="preserve">
-    <value>Tips</value>
-  </data>
-  <data name="sizeColumn.Header" xml:space="preserve">
-    <value>Izmērs</value>
-  </data>
   <data name="PropertiesCreated.Text" xml:space="preserve">
-    <value>Izveidoja:</value>
+    <value>만든 날짜:</value>
   </data>
   <data name="PropertiesItemFileName.PlaceholderText" xml:space="preserve">
-    <value>Vienuma nosaukums</value>
+    <value>항목 이름</value>
   </data>
   <data name="PropertiesItemPath.Text" xml:space="preserve">
-    <value>Ceļš:</value>
+    <value>위치:</value>
   </data>
   <data name="PropertiesItemSize.Text" xml:space="preserve">
-    <value>Izmērs:</value>
-  </data>
-  <data name="ErrorDialogThisActionCannotBeDone" xml:space="preserve">
-    <value>Šī darbība nevar tikt veikta</value>
-  </data>
-  <data name="ErrorDialogTheDestinationFolder" xml:space="preserve">
-    <value>Mērķa mape</value>
-  </data>
-  <data name="ErrorDialogIsASubfolder" xml:space="preserve">
-    <value>ir avota mapes apakšmape</value>
-  </data>
-  <data name="ErrorDialogSkip" xml:space="preserve">
-    <value>Izlaist</value>
-  </data>
-  <data name="ErrorDialogCancel" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>크기:</value>
   </data>
   <data name="PropertiesItemType.Text" xml:space="preserve">
-    <value>Vienuma tips:</value>
-  </data>
-  <data name="NavToolbarSelectAll.Text" xml:space="preserve">
-    <value>Atlasīt visu</value>
-  </data>
-  <data name="NavToolbarInvertSelection.Text" xml:space="preserve">
-    <value>Mainīt atlasi uz pretējo</value>
-  </data>
-  <data name="NavToolbarClearSelection.Text" xml:space="preserve">
-    <value>Notīrīt atlasi</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutDetails.Text" xml:space="preserve">
-    <value>Detalizēts skats</value>
+    <value>파일 형식:</value>
   </data>
   <data name="PropertiesModified.Text" xml:space="preserve">
-    <value>Modificēts:</value>
-  </data>
-  <data name="PropertiesAccessed.Text" xml:space="preserve">
-    <value>Piekļūts:</value>
+    <value>수정됨:</value>
   </data>
   <data name="RecentItemClearAll.Text" xml:space="preserve">
-    <value>Notīrīt visus vienumus</value>
-  </data>
-  <data name="NavigationToolbarVisiblePath.PlaceholderText" xml:space="preserve">
-    <value>Ievadīt ceļu</value>
-  </data>
-  <data name="NavigationToolbarSearchReigon.PlaceholderText" xml:space="preserve">
-    <value>Meklēt</value>
+    <value>모든 항목 비우기</value>
   </data>
   <data name="RecentItemDescription.Text" xml:space="preserve">
-    <value>Iepriekš skatītie faili parādīsies šeit</value>
+    <value>최근 본 파일이 여기 표시됩니다</value>
   </data>
   <data name="RecentItemOpenFileLocation.Text" xml:space="preserve">
-    <value>Atvērt faila atrašanās vietu</value>
+    <value>파일 경로 열기</value>
   </data>
   <data name="RecentItemRemove.Text" xml:space="preserve">
-    <value>Noņemt šo vienumu</value>
+    <value>이 항목 삭제</value>
   </data>
   <data name="SettingsAboutSubmitFeedback.Text" xml:space="preserve">
-    <value>Iesniegt atsauksmes</value>
+    <value>피드백 제출</value>
   </data>
   <data name="SettingsAboutThirdPartyLicenses.Text" xml:space="preserve">
-    <value>Trešās puses licences</value>
+    <value>외부 라이센스</value>
   </data>
   <data name="SettingsAboutTitle.Text" xml:space="preserve">
-    <value>Par</value>
+    <value>정보</value>
   </data>
   <data name="SettingsAppearanceTitle.Text" xml:space="preserve">
-    <value>Izskats</value>
+    <value>모양</value>
   </data>
   <data name="SettingsFilesAndFoldersTitle.Text" xml:space="preserve">
-    <value>Faili &amp; mapes</value>
-  </data>
-  <data name="SettingsExperimentalTitle.Text" xml:space="preserve">
-    <value>Eksperimentāli</value>
+    <value>파일 및 폴더</value>
   </data>
   <data name="SettingsNavAbout.Content" xml:space="preserve">
-    <value>Par</value>
+    <value>정보</value>
   </data>
   <data name="SettingsNavAppearance.Content" xml:space="preserve">
-    <value>Izskats</value>
-  </data>
-  <data name="SettingsNavExperimental.Content" xml:space="preserve">
-    <value>Eksperimentāli</value>
+    <value>모양</value>
   </data>
   <data name="SettingsNavFilesAndFolders.Content" xml:space="preserve">
-    <value>Faili &amp; mapes</value>
+    <value>파일 및 폴더</value>
   </data>
   <data name="SettingsNavOnStartup.Content" xml:space="preserve">
-    <value>Startējot</value>
+    <value>시작 시</value>
   </data>
   <data name="SettingsNavPreferences.Content" xml:space="preserve">
-    <value>Iestatījumi</value>
-  </data>
-  <data name="SettingsExperimentalDescription.Text" xml:space="preserve">
-    <value>UZMANĪBU: EKSPERIMENTĀLAS FUNKCIJAS!</value>
+    <value>환경 설정</value>
   </data>
   <data name="SettingsOnStartupContinueWhereYouLeftOff.Content" xml:space="preserve">
-    <value>Turpināt, kur beidzāt</value>
+    <value>마지막으로 사용한 위치에서 계속하기</value>
   </data>
   <data name="SettingsOnStartupOpenANewTab.Content" xml:space="preserve">
-    <value>Atvērt jaunu cilni</value>
+    <value>새 탭 열기</value>
   </data>
   <data name="SettingsOnStartupOpenASpecificPage.Content" xml:space="preserve">
-    <value>Atvērt konkrētu lapu vai lapas</value>
+    <value>특정 페이지 열기</value>
   </data>
   <data name="SettingsOnStartupTitle.Text" xml:space="preserve">
-    <value>Startējot</value>
+    <value>시작 시</value>
   </data>
   <data name="SettingsPreferencesTitle.Text" xml:space="preserve">
-    <value>Iestatījumi</value>
+    <value>환경 설정</value>
   </data>
   <data name="SidebarDesktop" xml:space="preserve">
-    <value>Darbvirsma</value>
+    <value>바탕 화면</value>
   </data>
   <data name="SidebarDocuments" xml:space="preserve">
-    <value>Dokumenti</value>
+    <value>문서</value>
   </data>
   <data name="SidebarDownloads" xml:space="preserve">
-    <value>Lejupielādes</value>
+    <value>다운로드</value>
   </data>
   <data name="SidebarHome" xml:space="preserve">
-    <value>Sākums</value>
+    <value>홈</value>
   </data>
   <data name="SidebarMusic" xml:space="preserve">
-    <value>Mūzika</value>
+    <value>음악</value>
   </data>
   <data name="SidebarPictures" xml:space="preserve">
-    <value>Attēli</value>
+    <value>사진</value>
   </data>
   <data name="SidebarVideos" xml:space="preserve">
-    <value>Video</value>
+    <value>동영상</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortBy.Text" xml:space="preserve">
-    <value>Kārtot pēc</value>
+    <value>정렬 기준</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByName.Text" xml:space="preserve">
-    <value>Nosaukums</value>
+    <value>이름</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDate.Text" xml:space="preserve">
-    <value>Modificēšanas datums</value>
+    <value>수정한 날짜</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByType.Text" xml:space="preserve">
-    <value>Tips</value>
+    <value>유형</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortBySize.Text" xml:space="preserve">
-    <value>Izmērs</value>
+    <value>크기</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByAscending.Text" xml:space="preserve">
-    <value>Augošā secībā</value>
+    <value>오름차순</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDescending.Text" xml:space="preserve">
-    <value>Dilstošā secībā</value>
+    <value>내림차순</value>
   </data>
   <data name="BaseLayoutContextFlyoutRefresh.Text" xml:space="preserve">
-    <value>Atsvaidzināt</value>
+    <value>새로고침</value>
   </data>
   <data name="BaseLayoutContextFlyoutPaste.Text" xml:space="preserve">
-    <value>Ielīmēt</value>
+    <value>붙여넣기</value>
   </data>
   <data name="BaseLayoutContextFlyoutOpenInTerminal.Text" xml:space="preserve">
-    <value>Atvērt Komandu uzvednē...</value>
-  </data>
-  <data name="PropertiesItemMD5Hash.Text" xml:space="preserve">
-    <value>MD5Hash:</value>
+    <value>터미널에서 열기...</value>
   </data>
   <data name="BaseLayoutContextFlyoutNewFolder.Text" xml:space="preserve">
-    <value>Mape</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutNewFile.Text" xml:space="preserve">
-    <value>Fails</value>
+    <value>폴더</value>
   </data>
   <data name="BaseLayoutContextFlyoutPropertiesFolder.Text" xml:space="preserve">
-    <value>Rekvizīti</value>
-  </data>
-  <data name="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" xml:space="preserve">
-    <value>Rekvizīti</value>
+    <value>속성</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutExtract.Text" xml:space="preserve">
-    <value>Izvērst</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutOpenItem.Text" xml:space="preserve">
-    <value>Atvērt</value>
+    <value>압축 해제</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenInNewTab.Text" xml:space="preserve">
-    <value>Atvērt jaunā cilnē</value>
+    <value>새 탭에서 열기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenInNewWindow.Text" xml:space="preserve">
-    <value>Atvērt jaunā logā</value>
+    <value>새 창에서 열기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAsDesktopBackground.Text" xml:space="preserve">
-    <value>Iestatīt kā darbvirsmas fonu</value>
+    <value>바탕 화면 배경으로 설정</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutShare.Text" xml:space="preserve">
-    <value>Kopīgot</value>
+    <value>공유</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCut.Text" xml:space="preserve">
-    <value>Izgriezt</value>
+    <value>잘라내기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCopy.Text" xml:space="preserve">
-    <value>Kopēt</value>
+    <value>복사</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutDelete.Text" xml:space="preserve">
-    <value>Dzēst</value>
+    <value>삭제</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutRename.Text" xml:space="preserve">
-    <value>Pārdēvēt</value>
+    <value>이름 바꾸기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutProperties.Text" xml:space="preserve">
-    <value>Rekvizīti</value>
+    <value>속성</value>
+  </data>
+  <data name="NavigationToolbarVisiblePath.PlaceholderText" xml:space="preserve">
+    <value>경로 입력</value>
+  </data>
+  <data name="NavigationToolbarSearchReigon.PlaceholderText" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="NavToolbarSelectAll.Text" xml:space="preserve">
+    <value>모두 선택</value>
+  </data>
+  <data name="NavToolbarClearSelection.Text" xml:space="preserve">
+    <value>선택 취소</value>
+  </data>
+  <data name="ModernNavigationToolbaNewFolder.Text" xml:space="preserve">
+    <value>폴더</value>
+  </data>
+  <data name="ModernNavigationToolbaNewBitmapImage.Text" xml:space="preserve">
+    <value>비트맵 이미지</value>
+  </data>
+  <data name="ModernNavigationToolbaNewTextDocument.Text" xml:space="preserve">
+    <value>텍스트 문서</value>
+  </data>
+  <data name="nameColumn.Header" xml:space="preserve">
+    <value>이름</value>
+  </data>
+  <data name="dateColumn.Header" xml:space="preserve">
+    <value>수정한 날짜</value>
+  </data>
+  <data name="typeColumn.Header" xml:space="preserve">
+    <value>유형</value>
+  </data>
+  <data name="sizeColumn.Header" xml:space="preserve">
+    <value>크기</value>
   </data>
   <data name="WelcomeDialog.Title" xml:space="preserve">
-    <value>Laipni lūgti Failos!</value>
+    <value>환영합니다!</value>
   </data>
   <data name="WelcomeDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Piešķirt atļauju</value>
+    <value>권한 부여</value>
   </data>
   <data name="WelcomeDialogTextBlock.Text" xml:space="preserve">
-    <value>Lietotnei nepieciešama atļauja, lai piekļūtu Jūsu failiem. Tiks atvērta Iestatījumu lapa, kurā Jūs varēsiet to piešķirt. Pēc tam lietotne būs jāatver atkārtoti.</value>
+    <value>시작하려면 파일을 표시할 수 있는 권한이 필요합니다. 이 권한을 부여할 수 있는 설정 페이지가 열립니다. 이 단계를 완료하면 앱을 다시 실행해야 합니다. </value>
   </data>
   <data name="FileFolderListItem" xml:space="preserve">
-    <value>Failu mape</value>
-  </data>
-  <data name="ItemTypeFile" xml:space="preserve">
-    <value>Fails</value>
+    <value>파일 폴더</value>
   </data>
   <data name="RenameDialog.Title" xml:space="preserve">
-    <value>Ievadiet vienuma nosaukumu</value>
+    <value>항목 이름을 입력하세요</value>
   </data>
   <data name="RenameDialogInputText.PlaceholderText" xml:space="preserve">
-    <value>Ievadiet vienuma nosaukumu</value>
+    <value>항목 이름 입력</value>
   </data>
   <data name="RenameDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Nosaukt</value>
+    <value>이름 설정</value>
   </data>
   <data name="RenameDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="NewTab" xml:space="preserve">
-    <value>Jauna cilne</value>
+    <value>새 탭</value>
   </data>
   <data name="SystemTheme" xml:space="preserve">
-    <value>Noklusējums</value>
+    <value>Windows 기본값</value>
   </data>
   <data name="LightTheme" xml:space="preserve">
-    <value>Gaišs</value>
+    <value>밝게</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
-    <value>Tumšs</value>
+    <value>어둡게</value>
   </data>
   <data name="ApplicationTimeStye" xml:space="preserve">
-    <value>Lietojumprogramma</value>
+    <value>응용 프로그램</value>
   </data>
   <data name="SystemTimeStye" xml:space="preserve">
-    <value>Sistēma</value>
+    <value>시스템</value>
   </data>
   <data name="NewFolder" xml:space="preserve">
-    <value>Jauna mape</value>
-  </data>
-  <data name="NewFile" xml:space="preserve">
-    <value>Jauns fails</value>
+    <value>새 폴더</value>
   </data>
   <data name="EmptyFolder.Text" xml:space="preserve">
-    <value>Šī mape ir tukša.</value>
+    <value>이 폴더는 비어 있습니다.</value>
   </data>
   <data name="NavBackButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Atpakaļ (Alt + Kreisā bultiņa)</value>
+    <value>뒤로 (Alt + 왼쪽 화살표)</value>
   </data>
   <data name="NavForwardButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Uz priekšu (Alt + Labā bultiņa)</value>
+    <value>앞으로 (Alt + 오른쪽 화살표)</value>
   </data>
   <data name="NavUpButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Augšup (Alt + Bultiņa uz augšu)</value>
+    <value>위로 (Alt + 위쪽 화살표)</value>
   </data>
   <data name="NavRefreshButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Atsvaidzināt (F5)</value>
+    <value>새로고침 (F5)</value>
   </data>
   <data name="NavSearchButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Meklēt (Ctrl+F)</value>
+    <value>검색</value>
+  </data>
+  <data name="SidebarDrives" xml:space="preserve">
+    <value>드라이브</value>
+  </data>
+  <data name="ItemTypeFile" xml:space="preserve">
+    <value>파일</value>
+  </data>
+  <data name="PropertiesItemMD5Hash.Text" xml:space="preserve">
+    <value>MD5 해시:</value>
+  </data>
+  <data name="ErrorDialogThisActionCannotBeDone" xml:space="preserve">
+    <value>작업을 수행할 수 없습니다</value>
+  </data>
+  <data name="ErrorDialogTheDestinationFolder" xml:space="preserve">
+    <value>대상 폴더</value>
+  </data>
+  <data name="ErrorDialogIsASubfolder" xml:space="preserve">
+    <value>는 원본 폴더의 하위 폴더입니다</value>
+  </data>
+  <data name="ErrorDialogSkip" xml:space="preserve">
+    <value>건너뛰기</value>
+  </data>
+  <data name="ErrorDialogCancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="NavToolbarInvertSelection.Text" xml:space="preserve">
+    <value>선택 반전</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutOpenItem.Text" xml:space="preserve">
+    <value>열기</value>
   </data>
   <data name="PropertiesTitle" xml:space="preserve">
-    <value>Rekvizīti</value>
+    <value>속성</value>
   </data>
   <data name="PropertiesAttributes.Text" xml:space="preserve">
-    <value>Atribūti:</value>
+    <value>특성:</value>
   </data>
   <data name="PropertiesTitleSecondary.Text" xml:space="preserve">
-    <value>Rekvizīti</value>
+    <value>속성</value>
+  </data>
+  <data name="SideBarOpenInNewTab.Text" xml:space="preserve">
+    <value>새 탭에서 열기</value>
+  </data>
+  <data name="SideBarOpenInNewWindow.Text" xml:space="preserve">
+    <value>새 창에서 열기</value>
+  </data>
+  <data name="SettingsExperimentalTitle.Text" xml:space="preserve">
+    <value>실험실</value>
+  </data>
+  <data name="SettingsExperimentalDescription.Text" xml:space="preserve">
+    <value>경고: 아직 실험 중인 기능입니다!</value>
+  </data>
+  <data name="SettingsNavExperimental.Content" xml:space="preserve">
+    <value>실험실</value>
   </data>
   <data name="ItemAlreadyExistsDialogContent" xml:space="preserve">
-    <value>Šajā mapē jau pastāv vienums ar šādu nosaukumu.</value>
+    <value>폴더에 같은 이름의 항목이 이미 존재합니다.</value>
   </data>
   <data name="ItemAlreadyExistsDialogPrimaryButtonText" xml:space="preserve">
-    <value>Ģenerēt jaunu nosaukumu</value>
-  </data>
-  <data name="ItemAlreadyExistsDialogSecondaryButtonText" xml:space="preserve">
-    <value>Aizvietot esošo vienumu</value>
+    <value>새로운 이름 생성</value>
   </data>
   <data name="ItemAlreadyExistsDialogTitle" xml:space="preserve">
-    <value>Vienums jau pastāv</value>
+    <value>이미 존재하는 항목입니다</value>
+  </data>
+  <data name="ItemAlreadyExistsDialogSecondaryButtonText" xml:space="preserve">
+    <value>기존 항목 대체</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAsLockscreenBackground.Text" xml:space="preserve">
-    <value>Iestatīt kā bloķēšanas ekrāna fonu</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutGridViewLarge.Text" xml:space="preserve">
-    <value>Režģa skats (Liels)</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutGridViewMedium.Text" xml:space="preserve">
-    <value>Režģa skats (Vidējs)</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutGridViewSmall.Text" xml:space="preserve">
-    <value>Režģa skats (Mazs)</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutTilesView.Text" xml:space="preserve">
-    <value>Mozaīkas skats</value>
+    <value>잠금 화면 배경으로 설정</value>
   </data>
   <data name="PropertiesDialogOKButton.Content" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="AccessDeniedDeleteDialog.Text" xml:space="preserve">
-    <value>Mēs nevarējām izdzēst šo vienumu</value>
+    <value>항목을 삭제할 수 없습니다</value>
   </data>
   <data name="AccessDeniedDeleteDialog.Title" xml:space="preserve">
-    <value>Piekļuve liegta</value>
+    <value>접근이 거부되었습니다</value>
   </data>
   <data name="DriveUnpluggedDialog.Text" xml:space="preserve">
-    <value>Lūdzu ievietojiet vajadzīgo disku, lai piekļūtu šim vienumam.</value>
+    <value>파일에 접근하려면 드라이브를 삽입하세요</value>
   </data>
   <data name="DriveUnpluggedDialog.Title" xml:space="preserve">
-    <value>Disks atsprausts</value>
+    <value>드라이브가 분리되었습니다</value>
   </data>
   <data name="FileNotFoundDialog.Text" xml:space="preserve">
-    <value>Fails, kuram mēģināt piekļūt, iespējams, tika pārvietots vai dzēsts.</value>
+    <value>파일이 이동되거나 삭제되었을 수 있습니다.</value>
   </data>
   <data name="FileNotFoundDialog.Title" xml:space="preserve">
-    <value>Fails nav atrasts</value>
+    <value>파일을 찾을 수 없습니다</value>
   </data>
   <data name="FileNotFoundPreviewDialog.Text" xml:space="preserve">
-    <value>Fails, kuru mēģināt priekšskatīt, iespējams, tika pārvietots vai dzēsts.</value>
+    <value>파일이 이동되거나 삭제되었을 수 있습니다.</value>
   </data>
   <data name="FolderNotFoundDialog.Text" xml:space="preserve">
-    <value>Mape, kurai mēģināt piekļūt, iespējams, tika pārvietota vai dzēsta.</value>
+    <value>폴더가 이동되거나 삭제되었을 수 있습니다.</value>
   </data>
   <data name="FolderNotFoundDialog.Title" xml:space="preserve">
-    <value>Vai Jūs izdzēsāt šo mapi?</value>
+    <value>폴더를 삭제하셨나요?</value>
   </data>
   <data name="FileInUseDeleteDialog.Text" xml:space="preserve">
-    <value>Fails, kuru mēģināt dzēst, tiek izmantots citā lietotnē.</value>
+    <value>다른 프로그램에서 열려 있으므로 제거할 수 없습니다.</value>
   </data>
   <data name="FileInUseDeleteDialog.Title" xml:space="preserve">
-    <value>Fails tiek lietots</value>
+    <value>파일이 사용 중입니다</value>
   </data>
   <data name="FileInUseDeleteDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Mēģināt vēlreiz</value>
+    <value>다시 시도</value>
   </data>
   <data name="FileInUseDeleteDialog.SecondaryButtonText" xml:space="preserve">
-    <value>OK</value>
-  </data>
-  <data name="PropertiesDialogReadOnly.Text" xml:space="preserve">
-    <value>Tikai lasāms</value>
-  </data>
-  <data name="PropertiesDialogHidden.Text" xml:space="preserve">
-    <value>Slēpts</value>
+    <value>확인</value>
   </data>
   <data name="BaseLayoutContextFlyoutEmptyRecycleBin.Text" xml:space="preserve">
-    <value>Iztukšot atkritni</value>
+    <value>휴지통 비우기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutRestore.Text" xml:space="preserve">
-    <value>Atjaunot</value>
+    <value>복원</value>
   </data>
   <data name="DaysAgo" xml:space="preserve">
-    <value>Pirms {0} dienām</value>
-  </data>
-  <data name="DayAgo" xml:space="preserve">
-    <value>Pirms {0} dienas</value>
+    <value>{0}일 전</value>
   </data>
   <data name="HoursAgo" xml:space="preserve">
-    <value>Pirms {0} stundām</value>
+    <value>{0}시간 전</value>
+  </data>
+  <data name="DayAgo" xml:space="preserve">
+    <value>{0}일 전</value>
   </data>
   <data name="HourAgo" xml:space="preserve">
-    <value>Pirms {0} stundas</value>
+    <value>{0}시간 전</value>
   </data>
   <data name="MinutesAgo" xml:space="preserve">
-    <value>Pirms {0} minūtēm</value>
+    <value>{0}분 전</value>
   </data>
   <data name="MinuteAgo" xml:space="preserve">
-    <value>Pirms {0} minūtes</value>
+    <value>{0}분 전</value>
   </data>
   <data name="SecondsAgo" xml:space="preserve">
-    <value>Pirms {0} sekundēm</value>
+    <value>{0}초 전</value>
   </data>
   <data name="SettingsOnStartupOpenASpecificPagePath.PlaceholderText" xml:space="preserve">
-    <value>Jauna cilne</value>
+    <value>새 탭</value>
   </data>
   <data name="ErrorDialogUnsupportedOperation" xml:space="preserve">
-    <value>Pieprasītā operācija netiek atbalstīta</value>
+    <value>해당 기능은 지원되지 않습니다</value>
   </data>
   <data name="DriveFreeSpaceAndCapacity" xml:space="preserve">
-    <value>{0} brīvi no {1}</value>
+    <value>{1} 중 {0} 사용 가능</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenItemWith.Text" xml:space="preserve">
-    <value>Atvērt ar</value>
+    <value>연결 프로그램</value>
   </data>
   <data name="FileNameTeachingTip.Subtitle" xml:space="preserve">
-    <value>Vienuma nosaukums nevar saterēt sekojošos simbolus: \ / : * ? " &lt; &gt; |</value>
+    <value>파일 이름에는 다음 문자를 사용할 수 없습니다. \ / : * ? " &lt; &gt; |</value>
   </data>
   <data name="FileNameTeachingTip.CloseButtonContent" xml:space="preserve">
-    <value>OK</value>
+    <value>확인</value>
   </data>
   <data name="RenameDialogSymbolsTip.Text" xml:space="preserve">
-    <value>Vienuma nosaukums nevar saterēt sekojošos simbolus: \ / : * ? " &lt; &gt; |</value>
+    <value>파일 이름에는 다음 문자를 사용할 수 없습니다. \ / : * ? " &lt; &gt; |</value>
   </data>
   <data name="ItemSelected.Text" xml:space="preserve">
-    <value>vienums atlasīts</value>
+    <value>항목 선택함</value>
   </data>
   <data name="ItemsSelected.Text" xml:space="preserve">
-    <value>vienumi atlasīti</value>
+    <value>항목 선택함</value>
   </data>
   <data name="ItemCount.Text" xml:space="preserve">
-    <value>vienums</value>
+    <value>항목</value>
   </data>
   <data name="ItemsCount.Text" xml:space="preserve">
-    <value>vienumi</value>
+    <value>항목</value>
   </data>
-  <data name="DeleteInProgress.Title" xml:space="preserve">
-    <value>Failu dzēšana</value>
-  </data>
-  <data name="PasteInProgress.Title" xml:space="preserve">
-    <value>Failu ielīmēšana</value>
-  </data>
-  <data name="RecycleInProgress.Title" xml:space="preserve">
-    <value>Failu pārvietošana uz Atkritni</value>
-  </data>
-  <data name="ConfirmEmptyBinDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Jā</value>
+  <data name="PropertiesAccessed.Text" xml:space="preserve">
+    <value>액세스한 날짜:</value>
   </data>
   <data name="ConfirmEmptyBinDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="ConfirmEmptyBinDialogContent" xml:space="preserve">
-    <value>Vai esat pārliecināti, ka vēlaties dzēst visus šos failus?</value>
+    <value>모든 항목을 완전히 삭제하시겠습니까?</value>
   </data>
   <data name="ConfirmEmptyBinDialogTitle" xml:space="preserve">
-    <value>Iztukšot atkritni</value>
+    <value>휴지통 비우기</value>
+  </data>
+  <data name="ConfirmEmptyBinDialog.PrimaryButtonText" xml:space="preserve">
+    <value>예</value>
   </data>
   <data name="ItemSizeBytes" xml:space="preserve">
-    <value>baiti</value>
+    <value>바이트</value>
   </data>
   <data name="KiloByteSymbol" xml:space="preserve">
     <value>KB</value>
@@ -519,2048 +477,1684 @@
   <data name="ByteSymbol" xml:space="preserve">
     <value>B</value>
   </data>
-  <data name="BaseLayoutContextFlyoutRunAsAdmin.Text" xml:space="preserve">
-    <value>Palaist kā administratoram</value>
-  </data>
   <data name="BitlockerDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Atbloķēt</value>
+    <value>잠금 해제</value>
   </data>
   <data name="BitlockerDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="BitlockerDialog.Title" xml:space="preserve">
-    <value>Ievadiet paroli, lai atbloķētu disku</value>
+    <value>드라이브를 잠금 해제하려면 비밀번호를 입력하세요</value>
   </data>
   <data name="BitlockerDialogInputText.PlaceholderText" xml:space="preserve">
-    <value>Parole</value>
+    <value>비밀번호</value>
   </data>
   <data name="BitlockerInvalidPwDialog.Text" xml:space="preserve">
-    <value>Pārbaudiet paroli un mēģiniet vēlreiz.</value>
+    <value>비밀번호를 확인하고 다시 시도해 주세요.</value>
   </data>
   <data name="BitlockerInvalidPwDialog.Title" xml:space="preserve">
-    <value>BitLocker kļūda</value>
+    <value>BitLocker 오류</value>
   </data>
   <data name="PropertiesFilesAndFoldersCount.Text" xml:space="preserve">
-    <value>Satur:</value>
+    <value>내용:</value>
   </data>
   <data name="PropertiesFilesAndFoldersCountString" xml:space="preserve">
-    <value>{0:#,##0} Faili, {1:#,##0} Mapes</value>
+    <value>파일 {0:#,##0}, 폴더 {1:#,##0}</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutRunAsAdmin.Text" xml:space="preserve">
+    <value>관리자 권한으로 실행</value>
   </data>
   <data name="BaseLayoutContextFlyoutRunAsAnotherUser.Text" xml:space="preserve">
-    <value>Palaist kā citam lietotājam</value>
+    <value>다른 사용자로 실행</value>
   </data>
   <data name="PropertiesDriveItemTypesEquals" xml:space="preserve">
-    <value>Visi ir ar tipu {0}</value>
+    <value>{0} 형식의 모든 파일</value>
   </data>
   <data name="PropertiesDriveItemTypeDifferent" xml:space="preserve">
-    <value>Dažādi datu tipi</value>
+    <value>복수 종류</value>
   </data>
   <data name="PropertiesCombinedItemPath" xml:space="preserve">
-    <value>Visi iekš {0}</value>
+    <value>{0}의 모든 파일</value>
   </data>
   <data name="PropertiesDriveUsedSpace.Text" xml:space="preserve">
-    <value>Izmantotā vieta:</value>
+    <value>사용 중인 공간:</value>
   </data>
   <data name="PropertiesDriveFreeSpace.Text" xml:space="preserve">
-    <value>Brīvā vieta:</value>
+    <value>사용 가능한 공간:</value>
   </data>
   <data name="PropertiesDriveCapacity.Text" xml:space="preserve">
-    <value>Ietilpība:</value>
+    <value>용량:</value>
   </data>
   <data name="PropertiesDriveFileSystem.Text" xml:space="preserve">
-    <value>Failu sistēma:</value>
+    <value>파일 시스템:</value>
+  </data>
+  <data name="DeleteInProgress.Title" xml:space="preserve">
+    <value>삭제하는 중</value>
+  </data>
+  <data name="PasteInProgress.Title" xml:space="preserve">
+    <value>붙여넣는 중</value>
+  </data>
+  <data name="RecycleInProgress.Title" xml:space="preserve">
+    <value>휴지통으로 파일 이동하는 중</value>
   </data>
   <data name="JumpListRecentGroupHeader" xml:space="preserve">
-    <value>Nesenie</value>
-  </data>
-  <data name="TabStripDragAndDropUIOverrideCaption" xml:space="preserve">
-    <value>Pārvietot cilni šeit</value>
+    <value>최근</value>
   </data>
   <data name="syncStatusColumn.Header" xml:space="preserve">
-    <value>Statuss</value>
+    <value>상태</value>
   </data>
   <data name="SettingsOnStartupOpenAddPageButton.Content" xml:space="preserve">
-    <value>Pievienot jaunu lapu</value>
+    <value>새 페이지 추가</value>
   </data>
   <data name="SettingsOnStartupPages.Text" xml:space="preserve">
-    <value>Lapas:</value>
-  </data>
-  <data name="SettingsOnStartupLaunchNewInstance.Content" xml:space="preserve">
-    <value>Vienmēr atvērt jaunu instanci</value>
-  </data>
-  <data name="SettingsOnStartupLaunchNewTab.Content" xml:space="preserve">
-    <value>Atvērt mapi jaunā cilnē</value>
+    <value>페이지:</value>
   </data>
   <data name="SettingsOnStartupNewInstanceBehavior.Text" xml:space="preserve">
-    <value>Atverot vienumu no izlēcošā saraksta</value>
+    <value>Files 프로그램으로 폴더를 열 때</value>
+  </data>
+  <data name="SettingsOnStartupLaunchNewInstance.Content" xml:space="preserve">
+    <value>항상 새 인스턴스 열기</value>
+  </data>
+  <data name="SettingsOnStartupLaunchNewTab.Content" xml:space="preserve">
+    <value>새 탭에서 폴더 열기</value>
   </data>
   <data name="SettingsPreferencesSystemDefaultLanguageOption" xml:space="preserve">
-    <value>Windows noklusējums</value>
+    <value>Windows 기본값</value>
+  </data>
+  <data name="TabStripDragAndDropUIOverrideCaption" xml:space="preserve">
+    <value>탭을 여기로 이동</value>
   </data>
   <data name="NavigationToolbarVisiblePathNoResults" xml:space="preserve">
-    <value>Nav rezultātu</value>
+    <value>결과 없음</value>
   </data>
   <data name="SubDirectoryAccessDenied" xml:space="preserve">
-    <value>Nevar piekļūt nevienam vienumam, ko parādīt</value>
+    <value>표시할 항목에 접근할 수 없음</value>
   </data>
   <data name="MoveToFolderCaptionText" xml:space="preserve">
-    <value>Pārvietot uz {0}</value>
+    <value>{0}(으)로 이동</value>
   </data>
   <data name="ErrorDialogSameSourceDestinationFile" xml:space="preserve">
-    <value>Avota un mērķa failu nosaukumi sakrīt.</value>
+    <value>대상 파일과 원본 파일의 이름이 같습니다.</value>
   </data>
   <data name="ErrorDialogSameSourceDestinationFolder" xml:space="preserve">
-    <value>Mērķa mape ir arī avota mape.</value>
+    <value>대상 폴더가 원본 폴더와 동일합니다.</value>
   </data>
   <data name="CopyToFolderCaptionText" xml:space="preserve">
-    <value>Kopēt uz {0}</value>
+    <value>{0}(으)로 복사</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutShortcut.Text" xml:space="preserve">
-    <value>Izveidot saīsni</value>
+    <value>바로 가기 만들기</value>
   </data>
   <data name="PropertiesDialogOpenLinkButton.Content" xml:space="preserve">
-    <value>Atvērt faila atrašanās vietu</value>
+    <value>파일 위치 열기</value>
   </data>
   <data name="PropertiesShortcutItemArgs.Text" xml:space="preserve">
-    <value>Argumenti:</value>
+    <value>전달인자:</value>
   </data>
   <data name="PropertiesShortcutItemPath.Text" xml:space="preserve">
-    <value>Mērķis:</value>
+    <value>대상:</value>
   </data>
   <data name="PropertiesShortcutItemType.Text" xml:space="preserve">
-    <value>Saīsnes veids:</value>
+    <value>바로 가기 종류:</value>
   </data>
   <data name="PropertiesShortcutItemWorkingDir.Text" xml:space="preserve">
-    <value>Darba mape:</value>
+    <value>시작 위치:</value>
   </data>
   <data name="PropertiesShortcutTypeApplication" xml:space="preserve">
-    <value>Lietojumprogramma</value>
+    <value>응용 프로그램</value>
   </data>
   <data name="PropertiesShortcutTypeFile" xml:space="preserve">
-    <value>Fails</value>
+    <value>파일</value>
   </data>
   <data name="PropertiesShortcutTypeFolder" xml:space="preserve">
-    <value>Mape</value>
+    <value>폴더</value>
   </data>
   <data name="PropertiesShortcutTypeLink" xml:space="preserve">
-    <value>Tīmekļa saite</value>
+    <value>링크</value>
   </data>
   <data name="PropertiesDialogTabGeneral.Content" xml:space="preserve">
-    <value>Vispārīgi</value>
+    <value>일반</value>
   </data>
   <data name="PropertiesDialogTabShortcut.Content" xml:space="preserve">
-    <value>Saīsne</value>
+    <value>바로 가기</value>
   </data>
   <data name="ShortcutFileType" xml:space="preserve">
-    <value>Saīsne</value>
+    <value>바로 가기</value>
   </data>
   <data name="ShortcutWebLinkFileType" xml:space="preserve">
-    <value>Interneta saīsne</value>
+    <value>인터넷 바로 가기</value>
   </data>
   <data name="ShortcutCreateNewSuffix" xml:space="preserve">
-    <value>{0} - saīsne</value>
+    <value>{0} - 바로 가기</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenFileLocation.Text" xml:space="preserve">
-    <value>Atvērt faila atrašanās vietu</value>
-  </data>
-  <data name="DriveCapacityUnknown" xml:space="preserve">
-    <value>Nezināms</value>
-  </data>
-  <data name="ExceptionNotificationAccessLogFileButton" xml:space="preserve">
-    <value>Atvērt datu žurnāla atrašanās vietu</value>
-  </data>
-  <data name="ExceptionNotificationBody" xml:space="preserve">
-    <value>Failiem radās problēma, kurai izstrādātāji vēl nebija sagatavojušies.</value>
-  </data>
-  <data name="ExceptionNotificationHeader" xml:space="preserve">
-    <value>Kaut kas nogāja greizi!</value>
-  </data>
-  <data name="ExceptionNotificationReportButton" xml:space="preserve">
-    <value>Ziņot par šo problēmu</value>
+    <value>파일 위치 열기</value>
   </data>
   <data name="SettingsAboutContributors.Text" xml:space="preserve">
-    <value>Ieguldītāji</value>
+    <value>기여자</value>
   </data>
   <data name="SettingsAboutReleaseNotes.Text" xml:space="preserve">
-    <value>Laidiena piezīmes</value>
+    <value>릴리즈 노트</value>
   </data>
   <data name="InvalidItemDialogContent" xml:space="preserve">
-    <value>Atsauktais vienums ir vai nu nederīgs vai nepieejams.{0}Kļūdas ziņojums:{0}{1}</value>
+    <value>선택한 항목에 접근할 수 없습니다.{0}오류 메시지:{0}{1}</value>
   </data>
   <data name="InvalidItemDialogTitle" xml:space="preserve">
-    <value>Nederīgs vienums</value>
+    <value>유효하지 않은 항목입니다</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutDetails.Text" xml:space="preserve">
+    <value>자세히</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutNewFile.Text" xml:space="preserve">
+    <value>파일</value>
+  </data>
+  <data name="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" xml:space="preserve">
+    <value>속성</value>
+  </data>
+  <data name="NewFile" xml:space="preserve">
+    <value>새 파일</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutGridViewLarge.Text" xml:space="preserve">
+    <value>격자 (대)</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutGridViewMedium.Text" xml:space="preserve">
+    <value>격자 (중)</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutGridViewSmall.Text" xml:space="preserve">
+    <value>격자 (소)</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutTilesView.Text" xml:space="preserve">
+    <value>타일</value>
+  </data>
+  <data name="PropertiesDialogReadOnly.Text" xml:space="preserve">
+    <value>읽기 전용</value>
+  </data>
+  <data name="PropertiesDialogHidden.Text" xml:space="preserve">
+    <value>숨김</value>
+  </data>
+  <data name="DriveCapacityUnknown" xml:space="preserve">
+    <value>알 수 없음</value>
+  </data>
+  <data name="ExceptionNotificationAccessLogFileButton" xml:space="preserve">
+    <value>로그 경로 열기</value>
+  </data>
+  <data name="ExceptionNotificationBody" xml:space="preserve">
+    <value>Files 개발자가 아직 대비하지 못한 문제가 발생했습니다.</value>
+  </data>
+  <data name="ExceptionNotificationHeader" xml:space="preserve">
+    <value>문제가 발생했습니다!</value>
+  </data>
+  <data name="ExceptionNotificationReportButton" xml:space="preserve">
+    <value>오류 보고하기</value>
   </data>
   <data name="SettingsAboutVersionTitle" xml:space="preserve">
-    <value>Versija:</value>
+    <value>버전:</value>
   </data>
   <data name="ShareDialogFailMessage" xml:space="preserve">
-    <value>Pašlaik šeit nav nekā koplietojama...</value>
+    <value>공유할 항목이 없습니다...</value>
   </data>
   <data name="ShareDialogMultipleItemsDescription" xml:space="preserve">
-    <value>Atlasītie vienumi tiks koplietoti</value>
+    <value>선택한 항목을 공유합니다</value>
   </data>
   <data name="ShareDialogSingleItemDescription" xml:space="preserve">
-    <value>Atlasītais vienums tiks koplietots</value>
+    <value>선택한 항목을 공유합니다</value>
   </data>
   <data name="ShareDialogTitle" xml:space="preserve">
-    <value>Kopīgo {0}</value>
+    <value>{0} 공유</value>
   </data>
   <data name="ShareDialogTitleMultipleItems" xml:space="preserve">
-    <value>Kopīgo {0} {1}</value>
+    <value>{0} {1} 항목 공유</value>
   </data>
   <data name="RenameError.ItemDeleted.Text" xml:space="preserve">
-    <value>Vienums, kuru mēģināt pārdēvēt, vairs nepastāv. Pārbaudiet pārdēvējamā faila atrašanās vietu.</value>
+    <value>이름을 바꾸려는 항목이 더 이상 존재하지 않습니다. 항목의 정확한 경로를 확인해 주세요.</value>
   </data>
   <data name="RenameError.ItemDeleted.Title" xml:space="preserve">
-    <value>Vienums vairs nepastāv</value>
+    <value>항목이 더 이상 존재하지 않습니다</value>
   </data>
   <data name="RenameError.NameInvalid.Text" xml:space="preserve">
-    <value>Norādītais nosaukums nav derīgs. Pārbaudiet vēlamo nosaukumu un mēģiniet vēlreiz.</value>
+    <value>지정한 이름이 유효하지 않습니다. 원하는 이름을 확인하고 다시 시도해 주세요.</value>
   </data>
   <data name="RenameError.NameInvalid.Title" xml:space="preserve">
-    <value>Nederīgs vienuma nosaukums</value>
+    <value>유효하지 않은 이름</value>
   </data>
   <data name="RenameError.TooLong.Text" xml:space="preserve">
-    <value>Vienuma nosaukuma garums pārsniedz maksimālo atļauto garumu. Pārbaudiet vēlamo nosaukumu un mēģiniet vēlreiz.</value>
+    <value>지정한 이름의 길이가 최대 제한을 초과했습니다. 원하는 이름을 확인하고 다시 시도해 주세요.</value>
   </data>
   <data name="RenameError.TooLong.Title" xml:space="preserve">
-    <value>Vienuma nosaukums bijā pārāk garš.</value>
+    <value>이름이 너무 깁니다</value>
   </data>
   <data name="ContextMenuMoreItemsLabel" xml:space="preserve">
-    <value>Vēl</value>
+    <value>더 보기</value>
   </data>
   <data name="ButtonNo.Content" xml:space="preserve">
-    <value>Nē</value>
+    <value>아니오</value>
   </data>
   <data name="ButtonYes.Content" xml:space="preserve">
-    <value>Jā</value>
+    <value>예</value>
   </data>
   <data name="RestartNotificationText.Text" xml:space="preserve">
-    <value>Lietotni nepieciešams restartēt, lai pielietotu valodas iestatījumu. Vai vēlaties restartēt lietotni?</value>
+    <value>언어 설정을 적용하려면 프로그램을 다시 시작해야합니다. 프로그램을 다시 시작할까요?</value>
   </data>
   <data name="SettingsAboutSupportUs.Text" xml:space="preserve">
-    <value>Atbalstiet mūs</value>
+    <value>후원</value>
   </data>
   <data name="AccessDeniedCreateDialog.Text" xml:space="preserve">
-    <value>Mēs nevarējām izveidot šo vienumu</value>
+    <value>항목을 만들 수 없습니다</value>
   </data>
   <data name="AccessDeniedCreateDialog.Title" xml:space="preserve">
-    <value>Piekļuve liegta</value>
+    <value>접근 거부되었습니다</value>
   </data>
   <data name="PropertiesDialogCancelButton.Content" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="VerticalTabViewAddTab.Text" xml:space="preserve">
-    <value>Pievienot cilni</value>
+    <value>탭 추가</value>
   </data>
   <data name="VerticalTabViewHeader.Text" xml:space="preserve">
-    <value>Atvērt cilnes</value>
+    <value>열린 탭</value>
   </data>
   <data name="SettingsMultitaskingTitle.Text" xml:space="preserve">
-    <value>Vairākuzdevumu režīms</value>
+    <value>멀티태스킹</value>
   </data>
   <data name="SettingsNavMultitasking.Content" xml:space="preserve">
-    <value>Vairākuzdevumu režīms</value>
+    <value>멀티태스킹</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAs.Text" xml:space="preserve">
-    <value>Iestatīt kā</value>
+    <value>~(으)로 설정</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCopyLocation.Text" xml:space="preserve">
-    <value>Kopēt atrašanās vietu</value>
+    <value>경로 복사</value>
   </data>
   <data name="AddDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="AddDialog.Title" xml:space="preserve">
-    <value>Izveidot jaunu vienumu</value>
+    <value>새 항목 생성</value>
   </data>
   <data name="AddDialogDescription.Text" xml:space="preserve">
-    <value>Izvēlieties jaunā vienuma tipu zemāk</value>
+    <value>새로운 항목의 유형을 선택해주세요</value>
   </data>
   <data name="AddDialogListFileHeader" xml:space="preserve">
-    <value>Fails</value>
+    <value>파일</value>
   </data>
   <data name="AddDialogListFileSubHeader" xml:space="preserve">
-    <value>Izveido tukšu failu</value>
+    <value>빈 파일을 생성합니다</value>
   </data>
   <data name="AddDialogListFolderHeader" xml:space="preserve">
-    <value>Mape</value>
+    <value>폴더</value>
   </data>
   <data name="AddDialogListFolderSubHeader" xml:space="preserve">
-    <value>Izveido tukšu mapi</value>
+    <value>빈 폴더를 생성합니다</value>
   </data>
   <data name="BaseLayoutContextFlyoutLayoutMode.Text" xml:space="preserve">
-    <value>Izkārtojuma režīms</value>
+    <value>레이아웃</value>
   </data>
   <data name="NavBackButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Pāriet atpakaļ</value>
+    <value>뒤로 가기</value>
   </data>
   <data name="NavForwardButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Pāriet uz priekšu</value>
+    <value>앞으로 가기</value>
   </data>
   <data name="NavResfreshButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Atsvaidzināt mapi</value>
+    <value>폴더 새로고침</value>
   </data>
   <data name="NavUpButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Pāriet vienu mapi augšup</value>
+    <value>한 단계 상위 폴더로 이동</value>
   </data>
   <data name="SettingsPreferencesEditTerminalApplications.AutomationProperties.Name" xml:space="preserve">
-    <value>Mainīt komandu uzvednes lietotnes</value>
+    <value>터미널 편집</value>
   </data>
   <data name="SettingsPreferencesEditTerminalApplications.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Mainīt komandu uzvednes lietotnes</value>
+    <value>터미널 편집</value>
   </data>
   <data name="PropertySaveErrorMessage.Text" xml:space="preserve">
-    <value>Bija problēma, saglabājot rekvizītus.</value>
+    <value>일부 속성을 저장하던 중 문제가 발생했습니다.</value>
   </data>
   <data name="PropertySaveErrorDialog.Title" xml:space="preserve">
-    <value>Kļūda</value>
+    <value>오류</value>
   </data>
   <data name="PropertySaveErrorDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Mēģināt vēlreiz</value>
+    <value>다시 시도</value>
   </data>
   <data name="PropertySaveErrorDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Tomēr aizvērt</value>
+    <value>무시하고 닫기</value>
   </data>
   <data name="PropertySaveErrorDialog.CloseButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="PropertyRatingText" xml:space="preserve">
-    <value>Vērtējums</value>
+    <value>등급</value>
   </data>
   <data name="PropertyItemPathDisplay" xml:space="preserve">
-    <value>Vienuma ceļš</value>
+    <value>경로</value>
   </data>
   <data name="PropertyItemTypeText" xml:space="preserve">
-    <value>Vienuma tips</value>
+    <value>항목 유형</value>
   </data>
   <data name="PropertyTitle" xml:space="preserve">
-    <value>Virsraksts</value>
+    <value>제목</value>
   </data>
   <data name="PropertySubject" xml:space="preserve">
-    <value>Tēma</value>
+    <value>주제</value>
   </data>
   <data name="PropertyComment" xml:space="preserve">
-    <value>Komentārs</value>
+    <value>설명</value>
   </data>
   <data name="PropertyCopyright" xml:space="preserve">
-    <value>Autortiesības</value>
+    <value>저작권</value>
   </data>
   <data name="PropertyDateModified" xml:space="preserve">
-    <value>Modificēšanas datums</value>
+    <value>수정한 날짜</value>
   </data>
   <data name="PropertyBitDepth" xml:space="preserve">
-    <value>Bitu dziļums</value>
+    <value>비트 심도</value>
   </data>
   <data name="PropertyDimensions" xml:space="preserve">
-    <value>Izmēri</value>
+    <value>사진 크기</value>
   </data>
   <data name="PropertyHorizontalSize" xml:space="preserve">
-    <value>Horizontālais izmērs</value>
+    <value>너비</value>
   </data>
   <data name="PropertyVerticalSize" xml:space="preserve">
-    <value>Vertikālais izmērs</value>
+    <value>높이</value>
   </data>
   <data name="PropertyHorizontalResolution" xml:space="preserve">
-    <value>Horizontālā izšķirtspēja</value>
+    <value>수평 해상도</value>
   </data>
   <data name="PropertyVerticalResolution" xml:space="preserve">
-    <value>Vertikālā izšķirtspēja</value>
+    <value>수직 해상도</value>
   </data>
   <data name="PropertyCompressionText" xml:space="preserve">
-    <value>Saspiešana</value>
+    <value>압축</value>
   </data>
   <data name="PropertyColorSpace" xml:space="preserve">
-    <value>Krāsu telpa</value>
+    <value>색 영역</value>
   </data>
   <data name="PropertyColorSpace_Value0" xml:space="preserve">
     <value>sRGB</value>
   </data>
   <data name="PropertyColorSpace_Value65535" xml:space="preserve">
-    <value>Nenorādīts</value>
+    <value>지정되지 않음</value>
   </data>
   <data name="PropertyLongitudeDecimal" xml:space="preserve">
-    <value>Decimālais ģeogrāfiskais garums</value>
+    <value>경도</value>
   </data>
   <data name="PropertyLatitudeDecimal" xml:space="preserve">
-    <value>Decimālais ģeogrāfiskais platums</value>
+    <value>위도</value>
   </data>
   <data name="PropertyLatitude" xml:space="preserve">
-    <value>Ģeogr. platums</value>
+    <value>위도</value>
   </data>
   <data name="PropertyLongitude" xml:space="preserve">
-    <value>Ģeogr. garums</value>
+    <value>경도</value>
   </data>
   <data name="PropertyLatitudeRef" xml:space="preserve">
-    <value>Ģeogr. platums Ref</value>
+    <value>위도</value>
   </data>
   <data name="PropertyLongitudeRef" xml:space="preserve">
-    <value>Ģeogr. garums Ref</value>
+    <value>경도</value>
   </data>
   <data name="PropertyAltitude" xml:space="preserve">
-    <value>Augstums</value>
+    <value>고도</value>
   </data>
   <data name="PropertyDateTaken" xml:space="preserve">
-    <value>Uzņemšanas datums</value>
+    <value>찍은 날짜</value>
   </data>
   <data name="PropertyCameraManufacturer" xml:space="preserve">
-    <value>Kameras ražotājs</value>
+    <value>카메라 제조업체</value>
   </data>
   <data name="PropertyCameraModel" xml:space="preserve">
-    <value>Kameras modelis</value>
+    <value>카메라 모델</value>
   </data>
   <data name="PropertyExposureTime" xml:space="preserve">
-    <value>Ekspozīcijas laiks</value>
+    <value>노출 시간</value>
   </data>
   <data name="PropertyFocalLength" xml:space="preserve">
-    <value>Fokusa attālums</value>
+    <value>초점 거리</value>
   </data>
   <data name="PropertyAperture" xml:space="preserve">
-    <value>Apertūra</value>
+    <value>조리개 최대 개방</value>
   </data>
   <data name="PropertyPeopleNames" xml:space="preserve">
-    <value>Personu vārdi</value>
+    <value>사람들 이름</value>
   </data>
   <data name="PropertyChannelCount" xml:space="preserve">
-    <value>Kanālu skaits</value>
+    <value>채널</value>
   </data>
   <data name="PropertyFormat" xml:space="preserve">
-    <value>Formāts</value>
+    <value>포맷</value>
   </data>
   <data name="PropertySampleRate" xml:space="preserve">
-    <value>Parauga ātrums</value>
+    <value>샘플 레이트</value>
   </data>
   <data name="PropertyDisplayArtist" xml:space="preserve">
-    <value>Izpildītājs</value>
+    <value>음악가</value>
   </data>
   <data name="PropertyAlbumArtist" xml:space="preserve">
-    <value>Albuma izpildītājs</value>
+    <value>앨범 음악가</value>
   </data>
   <data name="PropertyAlbumTitle" xml:space="preserve">
-    <value>Albuma nosaukums</value>
+    <value>앨범</value>
   </data>
   <data name="PropertyArtist" xml:space="preserve">
-    <value>Izpildītājs</value>
+    <value>음악가</value>
   </data>
   <data name="PropertyBeatsPerMinute" xml:space="preserve">
-    <value>Sitieni minūtē</value>
+    <value>분당 비트 수</value>
   </data>
   <data name="PropertyComposer" xml:space="preserve">
-    <value>Komponists</value>
+    <value>작곡가</value>
   </data>
   <data name="PropertyConductor" xml:space="preserve">
-    <value>Diriģents</value>
+    <value>지휘자</value>
   </data>
   <data name="PropertyDiscNumber" xml:space="preserve">
-    <value>Diska numurs</value>
+    <value>디스크 번호</value>
   </data>
   <data name="PropertyGenre" xml:space="preserve">
-    <value>Žanrs</value>
+    <value>장르</value>
   </data>
   <data name="PropertyTrackNumber" xml:space="preserve">
-    <value>Celiņa numurs</value>
+    <value>트랙 번호</value>
   </data>
   <data name="PropertyDuration" xml:space="preserve">
-    <value>Ilgums</value>
+    <value>길이</value>
   </data>
   <data name="PropertyFrameCount" xml:space="preserve">
-    <value>Kadru skaits</value>
+    <value>프레임 수</value>
   </data>
   <data name="PropertyProtectionType" xml:space="preserve">
-    <value>Aizsardzības tips</value>
+    <value>보호 유형</value>
   </data>
   <data name="PropertyAuthorUrl" xml:space="preserve">
-    <value>Autora URL</value>
+    <value>저자 Url</value>
   </data>
   <data name="PropertyContentDistributor" xml:space="preserve">
-    <value>Satura izplatītājs</value>
+    <value>콘텐츠 배포자</value>
   </data>
   <data name="PropertyDateReleased" xml:space="preserve">
-    <value>Izlaišanas datums</value>
+    <value>릴리즈 날짜</value>
   </data>
   <data name="PropertySeriesName" xml:space="preserve">
-    <value>Sērijas nosaukums</value>
+    <value>시리즈명</value>
   </data>
   <data name="PropertySeasonNumber" xml:space="preserve">
-    <value>Sezonas numurs</value>
+    <value>시즌 번호</value>
   </data>
   <data name="PropertyEpisodeNumber" xml:space="preserve">
-    <value>Epizodes numurs</value>
+    <value>에피소드 번호</value>
   </data>
   <data name="PropertyProducer" xml:space="preserve">
-    <value>Producents</value>
+    <value>제작자</value>
   </data>
   <data name="PropertyPromotionUrl" xml:space="preserve">
-    <value>Kampaņas URL</value>
+    <value>홍보 Url</value>
   </data>
   <data name="PropertyProviderStyle" xml:space="preserve">
-    <value>Nodrošinātāja stils</value>
+    <value>제공 방식</value>
   </data>
   <data name="PropertyPublisher" xml:space="preserve">
-    <value>Izdevējs</value>
+    <value>발행자</value>
   </data>
   <data name="PropertyThumbnailLargePath" xml:space="preserve">
-    <value>Sīktēla (Lielā) ceļš</value>
+    <value>대형 썸네일 경로</value>
   </data>
   <data name="PropertyThumbnailLargeUri" xml:space="preserve">
-    <value>Sīktēla (Lielā) URI</value>
+    <value>대형 썸네일 Uri</value>
   </data>
   <data name="PropertyThumbnailSmallPath" xml:space="preserve">
-    <value>Sīktēla (Mazā) ceļš</value>
+    <value>소형 썸네일 경로</value>
   </data>
   <data name="PropertyThumbnailSmallUri" xml:space="preserve">
-    <value>Sīktēla (Mazā) URI</value>
+    <value>소형 썸네일 Uri</value>
   </data>
   <data name="PropertyUserWebUrl" xml:space="preserve">
-    <value>Lietotāja interneta URL</value>
+    <value>사용자 웹 Url</value>
   </data>
   <data name="PropertyWriter" xml:space="preserve">
-    <value>Rakstnieks</value>
+    <value>작성자</value>
   </data>
   <data name="PropertyYear" xml:space="preserve">
-    <value>Gads</value>
+    <value>연도</value>
   </data>
   <data name="PropertyContributor" xml:space="preserve">
-    <value>Līdzstrādnieks</value>
+    <value>도와주신 분들</value>
   </data>
   <data name="PropertyLastAuthor" xml:space="preserve">
-    <value>Pēdējais autors</value>
+    <value>마지막 저자</value>
   </data>
   <data name="PropertyRevisionNumber" xml:space="preserve">
-    <value>Pārskatījuma numurs</value>
+    <value>수정 횟수</value>
   </data>
   <data name="PropertyVersion" xml:space="preserve">
-    <value>Versija</value>
+    <value>버전</value>
   </data>
   <data name="PropertyDateCreated" xml:space="preserve">
-    <value>Izveides datums</value>
+    <value>만든 날짜</value>
   </data>
   <data name="PropertyDateSaved" xml:space="preserve">
-    <value>Saglabāšanas datums</value>
+    <value>마지막으로 저장한 날짜</value>
   </data>
   <data name="PropertyDatePrinted" xml:space="preserve">
-    <value>Printēšanas datums</value>
+    <value>마지막으로 인쇄한 날짜</value>
   </data>
   <data name="PropertyTotalEditingTime" xml:space="preserve">
-    <value>Kopējais rediģēšanas laiks</value>
+    <value>총 편집 시간</value>
   </data>
   <data name="PropertyTemplate" xml:space="preserve">
-    <value>Veidne</value>
+    <value>템플릿</value>
   </data>
   <data name="PropertyWordCount" xml:space="preserve">
-    <value>Vārdu skaits</value>
+    <value>단어 수</value>
   </data>
   <data name="PropertyCharacterCount" xml:space="preserve">
-    <value>Simbolu skaits</value>
+    <value>문자 수</value>
   </data>
   <data name="PropertyLineCount" xml:space="preserve">
-    <value>Rindu skaits</value>
+    <value>줄 수</value>
   </data>
   <data name="PropertyParagraphCount" xml:space="preserve">
-    <value>Rindkopu skaits</value>
+    <value>단락 수</value>
   </data>
   <data name="PropertyPageCount" xml:space="preserve">
-    <value>Lappušu skaits</value>
+    <value>페이지 수</value>
   </data>
   <data name="PropertySlideCount" xml:space="preserve">
-    <value>Lapu skaits</value>
+    <value>슬라이드 수</value>
   </data>
   <data name="PropertyFrameRate" xml:space="preserve">
-    <value>Kadru nomaiņas ātrums</value>
+    <value>프레임레이트</value>
   </data>
   <data name="PropertyEncodingBitrate" xml:space="preserve">
-    <value>Kodēšanas bitu ātrums</value>
+    <value>비트레이트</value>
   </data>
   <data name="PropertyCompression" xml:space="preserve">
-    <value>Saspiešana</value>
+    <value>압축</value>
   </data>
   <data name="PropertyFrameWidth" xml:space="preserve">
-    <value>Kadra platums</value>
+    <value>프레임 너비</value>
   </data>
   <data name="PropertyFrameHeight" xml:space="preserve">
-    <value>Kadra augstums</value>
+    <value>프레임 높이</value>
   </data>
   <data name="PropertyOrientation" xml:space="preserve">
-    <value>Orientācija</value>
+    <value>방향</value>
   </data>
   <data name="PropertySectionCore" xml:space="preserve">
-    <value>Kodols</value>
+    <value>파일</value>
   </data>
   <data name="PropertySectionImage" xml:space="preserve">
-    <value>Attēls</value>
+    <value>이미지</value>
   </data>
   <data name="PropertySectionPhoto" xml:space="preserve">
-    <value>Fotoattēls</value>
+    <value>사진</value>
   </data>
   <data name="PropertySectionGPS" xml:space="preserve">
     <value>GPS</value>
   </data>
   <data name="PropertySectionMedia" xml:space="preserve">
-    <value>Multivide</value>
+    <value>미디어</value>
   </data>
   <data name="PropertySectionAudio" xml:space="preserve">
-    <value>Audio</value>
+    <value>오디오</value>
   </data>
   <data name="PropertySectionMusic" xml:space="preserve">
-    <value>Mūzika</value>
+    <value>음악</value>
   </data>
   <data name="PropertySectionVideo" xml:space="preserve">
-    <value>Video</value>
+    <value>비디오</value>
   </data>
   <data name="PropertySectionDocument" xml:space="preserve">
-    <value>Dokuments</value>
+    <value>문서</value>
   </data>
   <data name="PropertyAddress" xml:space="preserve">
-    <value>Adrese</value>
+    <value>주소</value>
   </data>
   <data name="StatusCenter.AutomationProperties.Name" xml:space="preserve">
-    <value>Statusa centrs</value>
+    <value>작업 현황</value>
   </data>
   <data name="FileItemAutomation" xml:space="preserve">
-    <value>Fails</value>
+    <value>파일</value>
   </data>
   <data name="FolderItemAutomation" xml:space="preserve">
-    <value>Mape</value>
+    <value>폴더</value>
   </data>
   <data name="RecycleBinItemAutomation" xml:space="preserve">
-    <value>Atkritnes vienums</value>
+    <value>휴지통 항목</value>
   </data>
   <data name="ShortcutItemAutomation" xml:space="preserve">
-    <value>Saīsnes vienums</value>
+    <value>바로 가기 항목</value>
   </data>
   <data name="DrivesWidgetDescription.Text" xml:space="preserve">
-    <value>Diski</value>
+    <value>드라이브</value>
   </data>
   <data name="PinToSidebarByDraggingCaptionText" xml:space="preserve">
-    <value>Pārvietot šeit</value>
+    <value>여기로 이동</value>
   </data>
   <data name="EjectNotificationHeader" xml:space="preserve">
-    <value>Aparatūru izņemt ir droši</value>
+    <value>하드웨어 안전하게 제거</value>
   </data>
   <data name="EjectNotificationBody" xml:space="preserve">
-    <value>Tagad ierīci var droši izņemt no datora.</value>
+    <value>이제 컴퓨터에서 장치를 안전하게 제거할 수 있습니다.</value>
   </data>
   <data name="EjectNotificationErrorDialogHeader" xml:space="preserve">
-    <value>Problēma izstumjot ierīci</value>
+    <value>장치를 꺼내던 중 문제가 발생했습니다</value>
   </data>
   <data name="EjectNotificationErrorDialogBody" xml:space="preserve">
-    <value>Ierīce pašlaik tiek lietota. Aizveriet visas lietotnes, logus vai cilnes, kas varētu lietot šo ierīci, un mēģiniet vēlreiz.</value>
+    <value>이 장치는 현재 사용 중입니다. 장치를 사용하고 있을 수 있는 프로그램, 창, 탭을 닫고 다시 시도해 주세요.</value>
   </data>
   <data name="SideBarEjectDevice.Text" xml:space="preserve">
-    <value>Izstumt</value>
+    <value>꺼내기</value>
   </data>
   <data name="HorizontalMultitaskingControlDuplicateTab.Text" xml:space="preserve">
-    <value>Dublicēt cilni</value>
+    <value>탭 복제</value>
   </data>
   <data name="HorizontalMultitaskingControlMoveTabToNewWindow.Text" xml:space="preserve">
-    <value>Pārvietot cilni uz jaunu logu</value>
+    <value>탭을 새 창으로 이동</value>
   </data>
   <data name="HorizontalMultitaskingControlNewTab.Text" xml:space="preserve">
-    <value>Jauna cilne</value>
+    <value>새 탭</value>
   </data>
   <data name="ClearPropertiesFlyoutText.Text" xml:space="preserve">
-    <value>Rekvizīti var saturēt personīgu informāciju.</value>
+    <value>일부 속성에는 개인정보가 포함될 수 있습니다.</value>
   </data>
   <data name="ClearPropertiesFlyoutConfirmation.Content" xml:space="preserve">
-    <value>Notīrīt</value>
+    <value>제거</value>
   </data>
   <data name="ClearPropertiesButton.Content" xml:space="preserve">
-    <value>Notīrīt visus rekvizītus</value>
+    <value>모든 속성 제거</value>
   </data>
   <data name="StatusCenterTeachingTip.Subtitle" xml:space="preserve">
-    <value>Pārbaudīt failu darbību statusu šeit</value>
+    <value>여기서 파일 작업 현황을 확인하세요</value>
   </data>
   <data name="StatusCenterTeachingTip.Title" xml:space="preserve">
-    <value>Statusa centrs</value>
+    <value>작업 현황</value>
   </data>
   <data name="NavSearchButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Meklēt</value>
+    <value>검색</value>
   </data>
   <data name="SearchPagePathBoxOverrideText" xml:space="preserve">
-    <value>Meklēšanas rezultāti</value>
+    <value>검색 결과</value>
   </data>
   <data name="SearchTabHeaderText" xml:space="preserve">
-    <value>Meklēšanas rezultāti</value>
+    <value>검색 결과</value>
   </data>
   <data name="SettingsAboutContributorsListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Skatīt, kas palīdzēja Failu izstrādē</value>
+    <value>Files에 기여해주신 분들</value>
   </data>
   <data name="SettingsAboutReleaseNotesListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Uzzini jaunumus lietotnē Faili</value>
+    <value>Files의 새로운 기능 알아보기</value>
   </data>
   <data name="SettingsAboutSubmitFeedbackListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Nosūtīt izstrādātājiem detalizētu problēmas ziņojumu</value>
+    <value>개발자에게 자세한 정보가 담긴 오류 보고서를 전송합니다</value>
   </data>
   <data name="SettingsAboutSupportUsListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Atbalstiet mūs PayPal</value>
+    <value>PayPal 후원하기</value>
   </data>
   <data name="PropertiesDialogTabDetails.Content" xml:space="preserve">
-    <value>Detaļas</value>
+    <value>자세히</value>
   </data>
   <data name="UpdateConsentDialogCloseButtonText" xml:space="preserve">
-    <value>Nē</value>
+    <value>아니오</value>
   </data>
   <data name="UpdateConsentDialogContent" xml:space="preserve">
-    <value>Vai Jūs vēlaties lejupielādēt un instalēt jaunāko Failu versiju?</value>
+    <value>Files 최신 버전을 다운로드하고 설치할까요?</value>
   </data>
   <data name="UpdateConsentDialogPrimaryButtonText" xml:space="preserve">
-    <value>Jā</value>
+    <value>예</value>
   </data>
   <data name="UpdateConsentDialogTitle" xml:space="preserve">
-    <value>Pieejami atjauninājumi</value>
+    <value>사용 가능한 업데이트가 있습니다</value>
   </data>
   <data name="SettingsContextMenu.Text" xml:space="preserve">
-    <value>Pielāgot labā klikšķa izvēlni</value>
+    <value>우클릭 컨텍스트 메뉴</value>
   </data>
   <data name="originalPathColumn.Header" xml:space="preserve">
-    <value>Oriģinālais ceļš</value>
+    <value>원래 위치</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByOriginalPath.Text" xml:space="preserve">
-    <value>Oriģinālais ceļš</value>
+    <value>원래 위치</value>
   </data>
   <data name="AppBarButtonAdd.Label" xml:space="preserve">
-    <value>Pievienot</value>
+    <value>추가</value>
   </data>
   <data name="AppBarButtonEdit.Label" xml:space="preserve">
-    <value>Rediģēt</value>
+    <value>편집</value>
   </data>
   <data name="AppBarButtonRemove.Label" xml:space="preserve">
-    <value>Dzēst</value>
+    <value>제거</value>
   </data>
   <data name="ItemAlreadyExistsDialogCloseButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="StatusCenter.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Notiekošās darbības</value>
+    <value>진행 중인 작업</value>
   </data>
   <data name="StatusCenterFlyoutTitle.Text" xml:space="preserve">
-    <value>Notiekošās darbības</value>
+    <value>진행 중인 작업</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenInNewPane.Text" xml:space="preserve">
-    <value>Atvērt otrajā panelī</value>
+    <value>보조 패널에서 열기</value>
   </data>
   <data name="SideBarOpenInNewPane.Text" xml:space="preserve">
-    <value>Atvērt otrajā panelī</value>
+    <value>보조 패널에서 열기</value>
   </data>
   <data name="SettingsDualPane.Text" xml:space="preserve">
-    <value>Dubulti paneļi</value>
+    <value>듀얼 패널</value>
   </data>
   <data name="FolderWidgetDescription.Text" xml:space="preserve">
-    <value>Mapes</value>
+    <value>폴더</value>
   </data>
   <data name="NavToolbarDetailsView.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Detalizēts skats (Ctrl+Shift+1)</value>
+    <value>자세히</value>
   </data>
   <data name="NavToolbarDetailsView.AutomationProperties.Name" xml:space="preserve">
-    <value>Detalizēts skats</value>
+    <value>자세히</value>
   </data>
   <data name="NavToolbarDisplayOptions.Text" xml:space="preserve">
-    <value>Attēlojuma opcijas</value>
+    <value>보기 옵션</value>
   </data>
   <data name="NavToolbarGridViewLarge.AutomationProperties.Name" xml:space="preserve">
-    <value>Režģa skats (Liels)</value>
+    <value>격자 (대)</value>
   </data>
   <data name="NavToolbarGridViewLarge.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Režģa skats (Liels) (Ctrl+Shift+5)</value>
+    <value>격자 (대)</value>
   </data>
   <data name="NavToolbarGridViewMedium.AutomationProperties.Name" xml:space="preserve">
-    <value>Režģa skats (Vidējs)</value>
+    <value>격자 (중)</value>
   </data>
   <data name="NavToolbarGridViewMedium.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Režģa skats (Vidējs) (Ctrl+Shift+4)</value>
+    <value>격자 (중)</value>
   </data>
   <data name="NavToolbarGridViewSmall.AutomationProperties.Name" xml:space="preserve">
-    <value>Režģa skats (Mazs)</value>
+    <value>격자 (소)</value>
   </data>
   <data name="NavToolbarGridViewSmall.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Režģa skats (Mazs) (Ctrl+Shift+3)</value>
+    <value>격자 (소)</value>
   </data>
   <data name="NavToolbarTilesView.AutomationProperties.Name" xml:space="preserve">
-    <value>Mozaīkas skats</value>
+    <value>타일</value>
   </data>
   <data name="NavToolbarTilesView.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Mozaīkas skats (Ctrl+Shift+2)</value>
+    <value>타일</value>
   </data>
   <data name="NavToolbarShowFileExtensions.Header" xml:space="preserve">
-    <value>Rādīt failu paplašinājumus</value>
+    <value>파일 확장명 표시</value>
   </data>
   <data name="NavToolbarShowHiddenItems.Header" xml:space="preserve">
-    <value>Rādīt paslēptos vienumus</value>
+    <value>숨긴 항목 표시</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDateDeleted.Text" xml:space="preserve">
-    <value>Dzēšanas datums</value>
+    <value>삭제된 날짜</value>
   </data>
   <data name="dateDeletedColumn.Header" xml:space="preserve">
-    <value>Dzēšanas datums</value>
+    <value>삭제된 날짜</value>
   </data>
   <data name="SettingsTabCustomization.Text" xml:space="preserve">
-    <value>Ciļņu pielāgošana</value>
+    <value>탭 커스터마이징</value>
   </data>
   <data name="SettingsWhenLaunchingFiles.Text" xml:space="preserve">
-    <value>Atverot lietotni Faili</value>
+    <value>Files 실행 시</value>
   </data>
   <data name="SidebarCloudDrives" xml:space="preserve">
-    <value>Tiešsaites diski</value>
+    <value>클라우드 드라이브</value>
   </data>
   <data name="BundlesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Papildu opcijas...</value>
+    <value>추가 옵션...</value>
   </data>
   <data name="BundlesWidgetAddBundleConfirm.Content" xml:space="preserve">
-    <value>Apstiprināt</value>
+    <value>확인</value>
   </data>
   <data name="BundlesWidgetOptionsFlyoutExportBundlesMenuItem.Text" xml:space="preserve">
-    <value>Eksportēt saišķus</value>
+    <value>보관함 내보내기</value>
   </data>
   <data name="BundlesWidgetOptionsFlyoutImportBundlesMenuItem.Text" xml:space="preserve">
-    <value>Importēt saišķus</value>
+    <value>보관함 가져오기</value>
   </data>
   <data name="BundlesWidgetAddBundleErrorAlreadyExists" xml:space="preserve">
-    <value>Saišķis ar to pašu nosaukumu jau pastāv!</value>
+    <value>같은 이름의 보관함이 이미 존재합니다!</value>
   </data>
   <data name="BundlesWidgetAddBundleErrorInputEmpty" xml:space="preserve">
-    <value>Ievades lauks nevar būt tukšs!</value>
+    <value>입력 필드는 비워 둘 수 없습니다!</value>
   </data>
   <data name="BundlesWidgetCreateBundleItem.Text" xml:space="preserve">
-    <value>Izveidot saišķi</value>
+    <value>보관함 만들기</value>
   </data>
   <data name="BundlesWidgetAddBundleInput.PlaceholderText" xml:space="preserve">
-    <value>Ievadīt saišķa nosaukumu</value>
+    <value>보관함 이름 입력</value>
   </data>
   <data name="BundlesWidgetAddBundleNameInput.PlaceholderText" xml:space="preserve">
-    <value>Ievadīt saišķa nosaukumu</value>
+    <value>보관함 이름 입력</value>
   </data>
   <data name="BundleItemFlyouOpenInNewTabMenuItem.Text" xml:space="preserve">
-    <value>Atvērt jaunā cilnē</value>
+    <value>새 탭에서 열기</value>
   </data>
   <data name="BundleItemFlyouOpenItemLocationMenuItem.Text" xml:space="preserve">
-    <value>Atvērt vienuma atrašanās vietu</value>
+    <value>항목 경로 열기</value>
   </data>
   <data name="BundleItemFlyouRemoveFromBundleMenuItem.Text" xml:space="preserve">
-    <value>Izņemt no saišķa</value>
+    <value>보관함에서 제거</value>
   </data>
   <data name="BundleOptionsFlyoutRemoveBundleMenuItem.Text" xml:space="preserve">
-    <value>Dzēst saišķi</value>
+    <value>보관함 제거</value>
   </data>
   <data name="BundlesWidgetHeader.Text" xml:space="preserve">
-    <value>Saišķi</value>
+    <value>보관함</value>
   </data>
   <data name="BundleNoContentsTextBlock.Text" xml:space="preserve">
-    <value>Velciet un nometiet failus vai mapes šeit</value>
+    <value>파일이나 폴더를 여기에 끌어다 놓아 빠르게 접근하세요</value>
   </data>
   <data name="BundlesWidgetCreateBundleConfirmButton.Content" xml:space="preserve">
-    <value>Apstiprināt</value>
+    <value>확인</value>
   </data>
   <data name="BundlesWidgetCreateBundleInput.PlaceholderText" xml:space="preserve">
-    <value>Ievadīt saišķa nosaukumu</value>
+    <value>보관함 이름 입력</value>
   </data>
   <data name="BundlesWidgetRenameBundleDialogCloseButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="BundlesWidgetRenameBundleDialogInputPlaceholderText" xml:space="preserve">
-    <value>Vēlamais nosaukums</value>
+    <value>원하는 이름</value>
   </data>
   <data name="BundlesWidgetRenameBundleDialogPrimaryButtonText" xml:space="preserve">
-    <value>Apstiprināt</value>
+    <value>확인</value>
   </data>
   <data name="BundlesWidgetRenameBundleDialogSubtitleText" xml:space="preserve">
-    <value>Ievadiet jaunu nosaukumu</value>
+    <value>새로운 이름 입력</value>
   </data>
   <data name="BundlesWidgetRenameBundleDialogTitleText" xml:space="preserve">
-    <value>Pārdēvēt "{0}"</value>
+    <value>"{0}" 이름 바꾸기</value>
   </data>
   <data name="BundlesWidgetCreateBundleDialogTitleText" xml:space="preserve">
-    <value>Izveidot saišķi</value>
+    <value>보관함 만들기</value>
   </data>
   <data name="BundlesWidgetCreateBundleDialogCloseButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="BundlesWidgetCreateBundleDialogPrimaryButtonText" xml:space="preserve">
-    <value>Apstiprināt</value>
+    <value>확인</value>
   </data>
   <data name="BundlesWidgetCreateBundleDialogSubtitleText" xml:space="preserve">
-    <value>Pievienot saišķi</value>
+    <value>보관함 추가</value>
   </data>
   <data name="BundlesWidgetOptionsFlyoutCreateBundleMenuItem.Text" xml:space="preserve">
-    <value>Izveidot saišķi</value>
+    <value>보관함 만들기</value>
   </data>
   <data name="BundleOptionsFlyoutRenameBundleMenuItem.Text" xml:space="preserve">
-    <value>Pārdēvēt saišķi</value>
+    <value>보관함 이름 바꾸기</value>
   </data>
   <data name="BundlesWidgetAddBundleInputPlaceholderText" xml:space="preserve">
-    <value>Vēlamais nosaukums</value>
+    <value>원하는 이름</value>
   </data>
   <data name="PreviewPaneToggle.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Pārslēgt priekšskata paneli (Ctrl + P)</value>
-  </data>
-  <data name="DetailsPanePreviewNotAvaliableText" xml:space="preserve">
-    <value>Priekšskatījums nav pieejams</value>
-  </data>
-  <data name="PreviewPaneDetailsNotAvailableText" xml:space="preserve">
-    <value>Detaļas nav pieejamas</value>
+    <value>미리보기 패널 열기/닫기 (Ctrl + P)</value>
   </data>
   <data name="PropertyItemName" xml:space="preserve">
-    <value>Vienuma nosaukums</value>
-  </data>
-  <data name="SidebarNetworkDrives" xml:space="preserve">
-    <value>Tīkla diski</value>
-  </data>
-  <data name="Network" xml:space="preserve">
-    <value>Tīkls</value>
+    <value>이름</value>
   </data>
   <data name="PreviewPaneFileDetails.AutomationProperties.Name" xml:space="preserve">
-    <value>Faila detaļas</value>
+    <value>파일 자세한 정보</value>
   </data>
   <data name="PreviewPaneFilePreview.AutomationProperties.Name" xml:space="preserve">
-    <value>Faila priekšskatījums</value>
+    <value>파일 미리보기</value>
   </data>
   <data name="SelectedFilePreviewPane.AutomationProperties.Name" xml:space="preserve">
-    <value>Atlasītā faila priekšskatījuma panelis</value>
+    <value>선택한 파일 미리보기 패널</value>
   </data>
   <data name="SettingsAboutDocumentation.Text" xml:space="preserve">
-    <value>Dokumentācija</value>
+    <value>문서</value>
   </data>
   <data name="SettingsAboutDocumentationListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Apmeklējiet Failu dokumentācijas vietni</value>
+    <value>Files 문서 웹사이트 방문하기</value>
   </data>
   <data name="StatusCenterFlyout.AutomationProperties.Name" xml:space="preserve">
-    <value>Notiekošo uzdevumu logs</value>
+    <value>진행 중인 작업 플라이아웃</value>
   </data>
   <data name="CloudDriveSyncStatus_Online" xml:space="preserve">
-    <value>Pieejams tiešsaistes režīmā</value>
+    <value>온라인 전용</value>
   </data>
   <data name="CloudDriveSyncStatus_Offline" xml:space="preserve">
-    <value>Pieejams bezsaistē</value>
+    <value>오프라인 사용 가능</value>
   </data>
   <data name="CloudDriveSyncStatus_PartialOffline" xml:space="preserve">
-    <value>Daļēji pieejams bezsaitē</value>
+    <value>부분적으로 오프라인 사용 가능</value>
   </data>
   <data name="CloudDriveSyncStatus_Sync" xml:space="preserve">
-    <value>Sinhronizēšana</value>
+    <value>동기화 중</value>
   </data>
   <data name="CloudDriveSyncStatus_Excluded" xml:space="preserve">
-    <value>Izslēgts no sinhronizēšanas</value>
+    <value>동기화에서 제외됨</value>
   </data>
   <data name="ItemSizeNotCalcluated" xml:space="preserve">
-    <value>Nav aprēķināts</value>
+    <value>계산되지 않음</value>
   </data>
   <data name="CloudDriveSyncStatus_Unknown" xml:space="preserve">
-    <value>Nezināms</value>
+    <value>알 수 없음</value>
+  </data>
+  <data name="SidebarNetworkDrives" xml:space="preserve">
+    <value>네트워크 드라이브</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>네트워크</value>
   </data>
   <data name="NavToolbarMultiselect.Text" xml:space="preserve">
-    <value>Vairākatlase</value>
+    <value>다중 선택</value>
   </data>
   <data name="RenameFileDialog.Text" xml:space="preserve">
-    <value>Ja nomainīsiet faila paplašinājumu, fails var palikt nelietojams. Vai tiešām vēlaties to mainīt?</value>
+    <value>파일 확장명을 변경하면 파일을 사용할 수 없게 될 수도 있습니다. 변경하시겠습니까?</value>
   </data>
   <data name="DriveTypeCDRom" xml:space="preserve">
-    <value>CD ROM disks</value>
+    <value>CD ROM 드라이브</value>
   </data>
   <data name="DriveTypeCloudDrive" xml:space="preserve">
-    <value>Tiešsaites disks</value>
+    <value>클라우드 드라이브</value>
   </data>
   <data name="DriveTypeFixed" xml:space="preserve">
-    <value>Fiksēts disku diskdzinis</value>
+    <value>고정 디스크 드라이브</value>
   </data>
   <data name="DriveTypeFloppyDisk" xml:space="preserve">
-    <value>Diskešu diskdzinis</value>
+    <value>플로피 디스크 드라이브</value>
   </data>
   <data name="DriveTypeNetwork" xml:space="preserve">
-    <value>Tīkla disks</value>
+    <value>네트워크 드라이브</value>
   </data>
   <data name="DriveTypeNoRootDirectory" xml:space="preserve">
-    <value>Neievietots disks</value>
+    <value>마운트 해제된 드라이브</value>
   </data>
   <data name="DriveTypeRam" xml:space="preserve">
-    <value>RAM diska diskdzinis</value>
+    <value>램 디스크 드라이브</value>
   </data>
   <data name="DriveTypeRemovable" xml:space="preserve">
-    <value>Izņemama atmiņas ierīce</value>
+    <value>이동식 저장 장치</value>
   </data>
   <data name="DriveTypeUnknown" xml:space="preserve">
-    <value>Nezināms</value>
+    <value>알 수 없음</value>
   </data>
   <data name="DriveTypeVirtualDrive" xml:space="preserve">
-    <value>Virtuāla ierīce</value>
+    <value>가상 드라이브</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDateCreated.Text" xml:space="preserve">
-    <value>Izveides datums</value>
+    <value>만든 날짜</value>
   </data>
   <data name="DateCreatedColumn.Header" xml:space="preserve">
-    <value>Izveides datums</value>
+    <value>만든 날짜</value>
   </data>
   <data name="DrivesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Papildu opcijas...</value>
+    <value>추가 옵션...</value>
   </data>
   <data name="DrivesWidgetOptionsFlyoutMapNetDriveMenuItem.Text" xml:space="preserve">
-    <value>Kartēt tīkla disku</value>
+    <value>네트워크 드라이브 연결</value>
   </data>
   <data name="SideBarDisconnectNetworkDrive.Text" xml:space="preserve">
-    <value>Atvienot</value>
+    <value>연결 끊기</value>
   </data>
   <data name="BundlesWidgetMoreOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Papildus saišķu opcijas</value>
+    <value>추가 보관함 옵션</value>
   </data>
   <data name="DrivesWidgetMoreOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Papildus disku opcijas</value>
+    <value>추가 드라이브 옵션</value>
   </data>
   <data name="SidebarFavorites" xml:space="preserve">
-    <value>Izlase</value>
+    <value>즐겨찾기</value>
   </data>
-  <data name="SidebarLibraries" xml:space="preserve">
-    <value>Bibliotēkas</value>
+  <data name="Browse" xml:space="preserve">
+    <value>탐색</value>
+  </data>
+  <data name="DetailsPanePreviewNotAvaliableText" xml:space="preserve">
+    <value>미리보기를 사용할 수 없습니다</value>
+  </data>
+  <data name="PreviewPaneDetailsNotAvailableText" xml:space="preserve">
+    <value>자세한 정보를 볼 수 없습니다</value>
   </data>
   <data name="NoItemSelected" xml:space="preserve">
-    <value>Nav atlasīts neviens vienums</value>
+    <value>선택한 항목 없음</value>
   </data>
   <data name="PropertyItemTarget" xml:space="preserve">
-    <value>Mērķis</value>
+    <value>대상</value>
   </data>
   <data name="PropertyItemArguments" xml:space="preserve">
-    <value>Argumenti</value>
+    <value>전달인자</value>
+  </data>
+  <data name="SidebarLibraries" xml:space="preserve">
+    <value>라이브러리</value>
   </data>
   <data name="PropertyItemCount" xml:space="preserve">
-    <value>Vienumu skaits</value>
+    <value>항목 수</value>
   </data>
   <data name="StatusDeletionFailed" xml:space="preserve">
-    <value>Dzēšana neizdevās</value>
+    <value>삭제 실패</value>
   </data>
   <data name="StatusUnknownError" xml:space="preserve">
-    <value>Radās nezināma kļūda.</value>
+    <value>알 수 없는 오류가 발생했습니다.</value>
   </data>
   <data name="StatusDeletionComplete" xml:space="preserve">
-    <value>Dzēšana pabeigta</value>
+    <value>삭제 완료</value>
   </data>
   <data name="StatusOperationCompleted" xml:space="preserve">
-    <value>Darbība pabeigta.</value>
+    <value>작업이 완료되었습니다.</value>
   </data>
   <data name="StatusRecycleComplete" xml:space="preserve">
-    <value>Pārvietošana uz atkritni pabeigta</value>
+    <value>휴지통 이동 완료</value>
   </data>
   <data name="StatusMoveComplete" xml:space="preserve">
-    <value>Pārvietošana pabeigta</value>
+    <value>이동 완료</value>
   </data>
   <data name="StatusCopyComplete" xml:space="preserve">
-    <value>Kopēšana pabeigta</value>
+    <value>복사 완료</value>
   </data>
   <data name="ElevateConfirmDialog.CloseButtonText" xml:space="preserve">
-    <value>Nē</value>
+    <value>아니오</value>
   </data>
   <data name="ElevateConfirmDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Jā</value>
+    <value>예</value>
   </data>
   <data name="ElevateConfirmDialog.Title" xml:space="preserve">
-    <value>Šajai darbībai nepieciešamas administratora tiesības</value>
+    <value>이 작업은 관리자 권한이 필요합니다</value>
   </data>
   <data name="ElevateConfirmDialog.Content" xml:space="preserve">
-    <value>Vai vēlaties turpināt kā administrators?</value>
+    <value>관리자 권한으로 계속하시겠습니까?</value>
   </data>
   <data name="HorizontalMultitaskingControlCloseTabsToTheRight.Text" xml:space="preserve">
-    <value>Aizvērt cilnes labajā pusē</value>
+    <value>오른쪽 탭 닫기</value>
   </data>
   <data name="FullTrustStatusTeachingTip.Title" xml:space="preserve">
-    <value>Administrators</value>
+    <value>관리자 권한</value>
   </data>
   <data name="FullTrustStatusTeachingTip.Subtitle" xml:space="preserve">
-    <value>Files ir palaists administratora režīmā</value>
+    <value>Files가 관리자 권한으로 실행 중입니다</value>
   </data>
   <data name="PinItemToStart.Text" xml:space="preserve">
-    <value>Piespraust Sākuma Izvēlnē</value>
+    <value>시작 메뉴에 고정</value>
   </data>
   <data name="UnpinItemFromStart.Text" xml:space="preserve">
-    <value>Atspraust no Sākuma Izvēlnes</value>
+    <value>시작 메뉴에서 고정 해제</value>
   </data>
   <data name="NavToolbarColumnView.AutomationProperties.Name" xml:space="preserve">
-    <value>Kolonnu skats</value>
-  </data>
-  <data name="NavToolbarColumnView.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Kolonnu skats (Ctrl+Shift+6)</value>
+    <value>열 보기</value>
   </data>
   <data name="BaseLayoutContextFlyoutColumn.Text" xml:space="preserve">
-    <value>Kolonnu skats</value>
-  </data>
-  <data name="PropertiesFilesFoldersAndLocationsCountString" xml:space="preserve">
-    <value>{0:#,##0} faili, {1:#,##0} mapes no {2:#,##0} atrašanās vietām</value>
+    <value>열 보기</value>
   </data>
   <data name="ItemTypeLibrary" xml:space="preserve">
-    <value>Bibliotēka</value>
+    <value>라이브러리</value>
   </data>
   <data name="LibraryItemAutomation" xml:space="preserve">
-    <value>Bibliotēka</value>
+    <value>라이브러리</value>
   </data>
   <data name="PropertiesDialogTabLibrary.Content" xml:space="preserve">
-    <value>Bibliotēka</value>
+    <value>라이브러리</value>
   </data>
   <data name="LibraryLocations.Text" xml:space="preserve">
-    <value>Atrašanās vietas:</value>
+    <value>위치</value>
   </data>
   <data name="LibraryLocationsButtonAdd.Label" xml:space="preserve">
-    <value>Pievienot</value>
+    <value>추가</value>
   </data>
   <data name="LibraryLocationsButtonSetDefault.Label" xml:space="preserve">
-    <value>Noklusējuma</value>
-  </data>
-  <data name="LibraryLocationsButtonSetDefault.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Iestatīt kā noklusējuma saglabāšanas ceļu</value>
+    <value>기본값</value>
   </data>
   <data name="LibraryLocationsButtonRemove.Label" xml:space="preserve">
-    <value>Noņemt</value>
-  </data>
-  <data name="LibraryNoLocations.Text" xml:space="preserve">
-    <value>Nav atrašanās vietu</value>
-  </data>
-  <data name="ErrorInputEmpty" xml:space="preserve">
-    <value>Ievades lauks nedrīkst būt tukšs!</value>
-  </data>
-  <data name="ErrorNameInputRestrictedCharacters" xml:space="preserve">
-    <value>Nosaukums nevar saturēt sekojošos simbolus: \ / : * ? " &lt; &gt; |</value>
-  </data>
-  <data name="ErrorNameInputRestricted" xml:space="preserve">
-    <value>Šī vārda izmantošana nav atļauta!</value>
-  </data>
-  <data name="CreateLibraryErrorAlreadyExists" xml:space="preserve">
-    <value>Bibliotēka ar tādu pašu nosaukumu jau eksistē!</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutDeleteLibrary.Text" xml:space="preserve">
-    <value>Dzēst Bibliotēku</value>
+    <value>간격 없음</value>
   </data>
   <data name="DialogCreateLibraryButtonText" xml:space="preserve">
-    <value>Izveidot</value>
+    <value>만들기</value>
   </data>
   <data name="DialogCancelButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="DialogDeleteLibraryButtonText" xml:space="preserve">
-    <value>Dzēst</value>
-  </data>
-  <data name="DrivesWidgetOpenStorageSenseButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Atvērt krātuves sensoru</value>
-  </data>
-  <data name="DrivesWidgetOpenStorageSenseButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Atvērt krātuves sensoru</value>
+    <value>삭제</value>
   </data>
   <data name="PropertyISO" xml:space="preserve">
-    <value>ISO ātrums</value>
+    <value>ISO 감도</value>
   </data>
   <data name="CopyItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>Kopēt</value>
+    <value>복사</value>
   </data>
   <data name="CopyItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
-  </data>
-  <data name="CopyItemsDialogSubtitleMultiple" xml:space="preserve">
-    <value>{0} vienumi tiks kopēti</value>
-  </data>
-  <data name="CopyItemsDialogTitle" xml:space="preserve">
-    <value>Kopēt vienumu(s)</value>
+    <value>취소</value>
   </data>
   <data name="DeleteItemsDialogTitle" xml:space="preserve">
-    <value>Dzēst vienumu(s)</value>
+    <value>항목 삭제</value>
   </data>
   <data name="MoveItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>Pārvietot</value>
+    <value>이동</value>
   </data>
   <data name="MoveItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
-  </data>
-  <data name="MoveItemsDialogSubtitleMultiple" xml:space="preserve">
-    <value>{0} vienumi tiks pārvietoti</value>
-  </data>
-  <data name="MoveItemsDialogTitle" xml:space="preserve">
-    <value>Pārvietot vienumu(s)</value>
+    <value>취소</value>
   </data>
   <data name="DeleteItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>Dzēst</value>
+    <value>삭제</value>
   </data>
   <data name="DeleteItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="DeleteItemsDialogSubtitleMultiple" xml:space="preserve">
-    <value>{0} vienumi tiks dzēsti</value>
+    <value>{0}개 항목이 삭제됩니다.</value>
   </data>
   <data name="ConflictingItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>Turpināt</value>
+    <value>계속</value>
   </data>
   <data name="ConflictingItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>Atcelt</value>
-  </data>
-  <data name="ConflictingItemsDialogTitle" xml:space="preserve">
-    <value>Konfliktējoši failu nosaukumi</value>
-  </data>
-  <data name="CopyItemsDialogSubtitleSingle" xml:space="preserve">
-    <value>Viens vienums tiks kopēts</value>
-  </data>
-  <data name="DeleteItemsDialogSubtitleSingle" xml:space="preserve">
-    <value>Viens vienums tiks dzēsts</value>
-  </data>
-  <data name="MoveItemsDialogSubtitleSingle" xml:space="preserve">
-    <value>Viens vienums tiks pārvietots</value>
+    <value>취소</value>
   </data>
   <data name="DeleteItemsDialogPermanentlyDeleteCheckBox.Content" xml:space="preserve">
-    <value>Neatgriezeniski dzēst</value>
+    <value>영구 삭제</value>
   </data>
   <data name="SearchUnindexedItemsLabel.Text" xml:space="preserve">
-    <value>Neatradāt, ko meklējāt?</value>
-  </data>
-  <data name="SearchUnindexedItemsButton.Content" xml:space="preserve">
-    <value>Meklēt neindeksētos vienumus.</value>
-  </data>
-  <data name="NavToolbarWidgets.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Pārvaldīt logrīkus</value>
-  </data>
-  <data name="NavToolbarWidgetsManager.AutomationProperties.Name" xml:space="preserve">
-    <value>Pārvaldīt logrīkus</value>
-  </data>
-  <data name="NavToolbarShowBundlesWidget.Header" xml:space="preserve">
-    <value>Rādīt Saišņu logrīku</value>
-  </data>
-  <data name="NavToolbarShowDrivesWidget.Header" xml:space="preserve">
-    <value>Rādīt Disku logrīku</value>
-  </data>
-  <data name="NavToolbarShowRecentFilesWidget.Header" xml:space="preserve">
-    <value>Rādīt Neseno Failu logrīku</value>
-  </data>
-  <data name="NavToolbarManageWidgetsFlyoutHeader.Text" xml:space="preserve">
-    <value>Pārvaldīt logrīkus</value>
-  </data>
-  <data name="NavToolbarShowFolderWidget.Header" xml:space="preserve">
-    <value>Rādīt Bibliotēkas logrīku</value>
-  </data>
-  <data name="ConflictingItemsDialogSubtitleMultipleConflictsMultipleNonConflicts" xml:space="preserve">
-    <value>Ir {0} konfliktējoši failu nosaukumi un {1} izejoši vienumi.</value>
-  </data>
-  <data name="ConflictingItemsDialogSubtitleSingleConflictMultipleNonConflicts" xml:space="preserve">
-    <value>Ir viens konfliktējošs failu nosaukums un {0} izejoši vienumi.</value>
-  </data>
-  <data name="ConflictingItemsDialogItemOptionGenerateNewName.Text" xml:space="preserve">
-    <value>Ģenerēt jaunu nosaukumu</value>
+    <value>원하는 항목을 찾지 못했나요?</value>
   </data>
   <data name="ConflictingItemsDialogItemOptionReplaceExisting.Text" xml:space="preserve">
-    <value>Aizvietot esošo</value>
+    <value>기존 항목 바꾸기</value>
   </data>
   <data name="ConflictingItemsDialogItemOptionSkip.Text" xml:space="preserve">
-    <value>Izlaist</value>
-  </data>
-  <data name="ConflictingItemsDialogOptionGenerateNewName.Text" xml:space="preserve">
-    <value>Ģenerēt jaunu nosaukumu</value>
+    <value>건너뛰기</value>
   </data>
   <data name="ConflictingItemsDialogOptionReplaceExisting.Text" xml:space="preserve">
-    <value>Aizvietot esošos</value>
+    <value>기존 항목 바꾸기</value>
   </data>
   <data name="ConflictingItemsDialogOptionSkip.Text" xml:space="preserve">
-    <value>Izlaist</value>
-  </data>
-  <data name="ConflictingItemsDialogTakenActionGenerateNewName" xml:space="preserve">
-    <value>Ģenerēt jaunu nosaukumu</value>
+    <value>건너뛰기</value>
   </data>
   <data name="ConflictingItemsDialogTakenActionReplaceExisting" xml:space="preserve">
-    <value>Aizvietot esošo</value>
+    <value>기존 항목 바꾸기</value>
   </data>
   <data name="ConflictingItemsDialogTakenActionSkip" xml:space="preserve">
-    <value>Izlaist</value>
-  </data>
-  <data name="ConflictingItemsDialogItemDefaultOption.Content" xml:space="preserve">
-    <value>Ģenerēt jaunu nosaukumu</value>
+    <value>건너뛰기</value>
   </data>
   <data name="ConflictingItemsDialogUndoOption.Text" xml:space="preserve">
-    <value>Atsaukt</value>
-  </data>
-  <data name="ConflictingItemsDialogSubtitleMultipleConflictsNoNonConflicts" xml:space="preserve">
-    <value>Ir {0} konfliktējoši failu nosaukumi.</value>
-  </data>
-  <data name="ConflictingItemsDialogSubtitleSingleConflictNoNonConflicts" xml:space="preserve">
-    <value>Ir viens konfliktējošs failu nosaukums.</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutCreateFolderWithSelection.Text" xml:space="preserve">
-    <value>Izveidot mapi ar atlasi</value>
+    <value>실행 취소</value>
   </data>
   <data name="ToolTipDescriptionName" xml:space="preserve">
-    <value>Nosaukums:</value>
+    <value>이름</value>
   </data>
   <data name="ToolTipDescriptionType" xml:space="preserve">
-    <value>Tips:</value>
+    <value>형식(Y):</value>
   </data>
   <data name="ToolTipDescriptionDate" xml:space="preserve">
-    <value>Modificēšanas datums:</value>
+    <value>수정한 날짜</value>
   </data>
   <data name="NavToolbarSelectionOptions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Atlases opcijas</value>
+    <value>선택 옵션</value>
   </data>
   <data name="NavToolbarSelectionOptions.AutomationProperties.Name" xml:space="preserve">
-    <value>Atlases opcijas</value>
-  </data>
-  <data name="FileBrowserThumbnailIconColumnGrid.AutomationProperties.Name" xml:space="preserve">
-    <value>Faila ikona</value>
-  </data>
-  <data name="DetailsViewHeaderFlyout_ShowOriginalPath.Text" xml:space="preserve">
-    <value>Oriģinālā ceļa kolonna</value>
-  </data>
-  <data name="DetailsViewHeaderFlyout_ShowItemType.Text" xml:space="preserve">
-    <value>Vienuma tipa kolonna</value>
-  </data>
-  <data name="DetailsViewHeaderFlyout_ShowDateModified.Text" xml:space="preserve">
-    <value>Modificēšanas datuma kolonna</value>
-  </data>
-  <data name="DetailsViewHeaderFlyout_ShowDateDeleted.Text" xml:space="preserve">
-    <value>Dzēšanas datuma kolonna</value>
-  </data>
-  <data name="ResizeElementKeyboardControl.AutomationProperties.Name" xml:space="preserve">
-    <value>Sānu joslas izmēra mainītājs</value>
+    <value>선택 옵션</value>
   </data>
   <data name="HorizontalMultitaskingControlAddButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Jauna cilne (Ctrl+T)</value>
+    <value>새 탭	Ctrl+T</value>
   </data>
   <data name="HorizontalMultitaskingControlCloseButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Aizvērt cilni (Ctrl+W)</value>
+    <value>탭 닫기	Ctrl+W</value>
   </data>
   <data name="OpenItemsWithCaptionText" xml:space="preserve">
-    <value>Atvērt ar</value>
+    <value>다른 프로그램으로 열기</value>
   </data>
   <data name="NavToolbarGroupByRadioButtons.Header" xml:space="preserve">
-    <value>Grupēt pēc</value>
+    <value>그룹화 방법</value>
   </data>
   <data name="NavToolbarSortByRadioButtons.Header" xml:space="preserve">
-    <value>Kārtot pēc</value>
+    <value>정렬 기준</value>
   </data>
   <data name="NavToolbarSortDirectionRadioButtons.Header" xml:space="preserve">
-    <value>Kārtošanas virziens</value>
+    <value>정렬 방향</value>
   </data>
   <data name="ItemSizeText_Huge" xml:space="preserve">
-    <value>Milzīgs</value>
-  </data>
-  <data name="ItemSizeText_VeryLarge" xml:space="preserve">
-    <value>Ļoti liels</value>
+    <value>매우 큼</value>
   </data>
   <data name="ItemSizeText_Large" xml:space="preserve">
-    <value>Liels</value>
+    <value>크게</value>
   </data>
   <data name="ItemSizeText_Medium" xml:space="preserve">
-    <value>Vidējs</value>
+    <value>보통</value>
   </data>
   <data name="ItemSizeText_Small" xml:space="preserve">
-    <value>Mazs</value>
+    <value>작게</value>
   </data>
   <data name="ItemSizeText_Tiny" xml:space="preserve">
-    <value>Niecīgs</value>
+    <value>매우 작게</value>
   </data>
   <data name="ItemTimeText_Today" xml:space="preserve">
-    <value>Šodien</value>
+    <value>오늘</value>
   </data>
   <data name="ItemTimeText_Yesterday" xml:space="preserve">
-    <value>Vakar</value>
+    <value>어제</value>
   </data>
   <data name="ItemTimeText_ThisWeek" xml:space="preserve">
-    <value>Šonedēļ</value>
+    <value>이번 주 초</value>
   </data>
   <data name="ItemTimeText_LastWeek" xml:space="preserve">
-    <value>Pagājušajā nedēļā</value>
+    <value>지난 주</value>
   </data>
   <data name="ItemTimeText_ThisMonth" xml:space="preserve">
-    <value>Šajā mēnesī</value>
+    <value>이번 달</value>
   </data>
   <data name="ItemTimeText_LastMonth" xml:space="preserve">
-    <value>Pagājušajā mēnesī</value>
+    <value>지난 달</value>
   </data>
   <data name="ItemTimeText_ThisYear" xml:space="preserve">
-    <value>Šogad</value>
+    <value>올해</value>
   </data>
   <data name="ItemTimeText_Older" xml:space="preserve">
-    <value>Vecāks</value>
+    <value>오래된 항목</value>
   </data>
   <data name="ItemTimeText_Before" xml:space="preserve">
-    <value>Pirms {0}</value>
+    <value>|0 이전</value>
   </data>
   <data name="GroupItemsCount_Singular" xml:space="preserve">
-    <value>{0} vienums</value>
+    <value>{0} 항목</value>
   </data>
   <data name="GroupItemsCount_Plural" xml:space="preserve">
-    <value>{0} vienumi</value>
+    <value>{0}개 항목</value>
   </data>
   <data name="HorizontalMultitaskingControlReopenClosedTab.Text" xml:space="preserve">
-    <value>Atkārtoti atvērt aizvērto cilni</value>
+    <value>닫은 탭 다시 열기</value>
   </data>
   <data name="SettingsAboutPrivacyPolicy.Text" xml:space="preserve">
-    <value>Privātuma politika</value>
-  </data>
-  <data name="SettingsAboutPrivacyPolicyListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>Skatīt Files privātuma politiku</value>
+    <value>개인정보취급방침</value>
   </data>
   <data name="RenameFileDialogTitle" xml:space="preserve">
-    <value>Pārdēvēt</value>
-  </data>
-  <data name="StatusDeletionCancelled" xml:space="preserve">
-    <value>Dzēšana atcelta</value>
-  </data>
-  <data name="StatusMoveCanceled" xml:space="preserve">
-    <value>Pārvietošana atcelta</value>
-  </data>
-  <data name="StatusCopyCanceled" xml:space="preserve">
-    <value>Kopēšana atcelta</value>
-  </data>
-  <data name="StatusMoveCanceledDetails_Singular" xml:space="preserve">
-    <value>{0} vienuma pārvietošana no {1} uz {2} tika atcelta</value>
-  </data>
-  <data name="StatusMoveCanceledDetails_Plural" xml:space="preserve">
-    <value>{0} vienumu pārvietošana no {1} uz {2} tika atcelta pēc {3} vienumu pārvietošanas</value>
-  </data>
-  <data name="StatusMoveCanceledDetails_Plural2" xml:space="preserve">
-    <value>{0} vienuma pārvietošana no {1} uz {2} tika atcelta pēc {3} vienuma pārvietošanas</value>
-  </data>
-  <data name="StatusMovingItemsDetails_Singular" xml:space="preserve">
-    <value>Pārvieto {0} vienumu no {1} uz {2}</value>
-  </data>
-  <data name="StatusMovingItemsDetails_Plural" xml:space="preserve">
-    <value>Pārvieto {0} vienumus no {1} uz {2}</value>
-  </data>
-  <data name="StatusMovedItemsDetails_Singular" xml:space="preserve">
-    <value>Veiksmīgi pārvietots {0} vienums no {1} uz {2}</value>
-  </data>
-  <data name="StatusMovedItemsDetails_Plural" xml:space="preserve">
-    <value>Veiksmīgi pārvietoti {0} vienumi no {1} uz {2}</value>
-  </data>
-  <data name="StatusMoveFailedDetails_Singular" xml:space="preserve">
-    <value>Neizdevās pārvietot {0} vienumu no {1} uz {2}</value>
-  </data>
-  <data name="StatusMoveFailedDetails_Plural" xml:space="preserve">
-    <value>Neizdevās pārvietot {0} vienumus no {1} uz {2}</value>
-  </data>
-  <data name="StatusCopyCanceledDetails_Singular" xml:space="preserve">
-    <value>{0} vienuma kopēšana uz {1} tika atcelta</value>
-  </data>
-  <data name="StatusCopyCanceledDetails_Plural" xml:space="preserve">
-    <value>{0} vienumu kopēšana uz {1} tika atcelta pēc {2} vienumu kopēšanas</value>
-  </data>
-  <data name="StatusCopyCanceledDetails_Plural2" xml:space="preserve">
-    <value>{0} vienumu kopēšana uz {1} tika pārtraukta pēc {2} vienumu kopēšanas</value>
+    <value>이름 바꾸기</value>
   </data>
   <data name="StatusCopyingItemsDetails_Singular" xml:space="preserve">
-    <value>{0} vienums tiek kopēts uz {1}</value>
+    <value>{1}에 {0}개 항목 복사 중</value>
   </data>
   <data name="StatusCopyingItemsDetails_Plural" xml:space="preserve">
-    <value>{0} vienumi tiek kopēti uz {1}</value>
-  </data>
-  <data name="StatusCopiedItemsDetails_Singular" xml:space="preserve">
-    <value>{0} vienums tika veiksmīgi kopēts uz {0}</value>
-  </data>
-  <data name="StatusCopiedItemsDetails_Plural" xml:space="preserve">
-    <value>{0} vienumi tika veiksmīgi kopēti uz {1}</value>
-  </data>
-  <data name="StatusDeleteCanceledDetails_Singular" xml:space="preserve">
-    <value>{0} vienuma dzēšana no {1} tika atcelta</value>
-  </data>
-  <data name="StatusDeleteCanceledDetails_Plural" xml:space="preserve">
-    <value>{0} vienumu dzēšana no {1} tika atcelta pēc {3} vienumu dzēšanas</value>
-  </data>
-  <data name="StatusDeleteCanceledDetails_Plural2" xml:space="preserve">
-    <value>{0} vienumu dzēšana no {1} tika atcelta pēc {3} vienuma dzēšanas</value>
+    <value>{0}개 항목을 {1}(으)로 복사하는 중</value>
   </data>
   <data name="StatusDeletingItemsDetails_Singular" xml:space="preserve">
-    <value>{0} vienumi tiek dzēsti no {1}</value>
+    <value>{1}에서 {0}개 항목 삭제 중</value>
   </data>
   <data name="StatusDeletingItemsDetails_Plural" xml:space="preserve">
-    <value>{0} vienumi tiek dzēsti no {1}</value>
-  </data>
-  <data name="StatusDeletedItemsDetails_Singular" xml:space="preserve">
-    <value>{0} vienums tika veiksmīgi dzēsts no {1}</value>
-  </data>
-  <data name="StatusDeletedItemsDetails_Plural" xml:space="preserve">
-    <value>{0} vienumi tika veiksmīgi dzēsti no {1}</value>
-  </data>
-  <data name="StatusDeletionFailedDetails_Singular" xml:space="preserve">
-    <value>Neizdevās dzēst {0} vienumu no {1}</value>
-  </data>
-  <data name="TheRecycleBin" xml:space="preserve">
-    <value>Atkritne</value>
-  </data>
-  <data name="MoveInProgress" xml:space="preserve">
-    <value>Vienumu pārvietošana</value>
+    <value>{1}에서 {0}개 항목을 삭제하는 중</value>
   </data>
   <data name="CopyInProgress.Title" xml:space="preserve">
-    <value>Vienumu kopēšana</value>
-  </data>
-  <data name="StatusRecycleFailed" xml:space="preserve">
-    <value>Pārvietošana uz atkritni neizdevās</value>
-  </data>
-  <data name="StatusRecycleCancelled" xml:space="preserve">
-    <value>Pārvietošana uz atkritni atcelta</value>
+    <value>항목 복사하는 중</value>
   </data>
   <data name="StatusCancellingOp" xml:space="preserve">
-    <value>tiek atcelts</value>
+    <value>취소 중</value>
   </data>
   <data name="StatusCenterDismissBannerButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Noraidīt</value>
+    <value>해제</value>
   </data>
   <data name="StatusCenterDismissBannerButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Noraidīt</value>
+    <value>해제</value>
   </data>
   <data name="StatusCenterCancelBannerButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="StatusCenterCancelBannerButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Atcelt</value>
+    <value>취소</value>
   </data>
   <data name="NavToolbarWidgets.Label" xml:space="preserve">
-    <value>Logrīki</value>
+    <value>위젯</value>
   </data>
   <data name="NavToolbarSelectionOptions.Label" xml:space="preserve">
-    <value>Atlasīt</value>
+    <value>선택</value>
   </data>
   <data name="NavToolbarLayoutOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Izkārtojums</value>
+    <value>레이아웃</value>
   </data>
   <data name="NavToolbarLayoutOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Izkārtojums</value>
+    <value>레이아웃</value>
   </data>
   <data name="NavToolbarLayoutOptionsButton.Label" xml:space="preserve">
-    <value>Izkārtojums</value>
+    <value>레이아웃</value>
   </data>
   <data name="PreviewPaneToggle.Label" xml:space="preserve">
-    <value>Priekšskatīt</value>
+    <value>미리 보기</value>
   </data>
   <data name="NavToolbarSortOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Kārtot</value>
+    <value>표 정렬</value>
   </data>
   <data name="NavToolbarSortOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Kārtot</value>
+    <value>표 정렬</value>
   </data>
   <data name="NavToolbarSortOptionsButton.Label" xml:space="preserve">
-    <value>Kārtot</value>
+    <value>표 정렬</value>
   </data>
   <data name="NavToolbarLayout.Text" xml:space="preserve">
-    <value>Izkārtojums</value>
+    <value>레이아웃</value>
   </data>
   <data name="SettingsDialogCloseButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Aizvērt</value>
+    <value>닫다</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortBySyncStatus.Text" xml:space="preserve">
-    <value>Sinhronizācijas statuss</value>
-  </data>
-  <data name="StatusDeletionFailedDetails_Plural" xml:space="preserve">
-    <value>Neizdevās dzēst {0} vienumus no {1}</value>
+    <value>동기화 상태</value>
   </data>
   <data name="NavigationToolbarNewWindow.Label" xml:space="preserve">
-    <value>Jauns logs</value>
+    <value>새 창</value>
   </data>
   <data name="NavigationToolbarCopyPath.Label" xml:space="preserve">
-    <value>Kopēšanas atrašanās vieta</value>
+    <value>위치 복사</value>
   </data>
   <data name="NavigationToolbarPaste.Label" xml:space="preserve">
-    <value>Ielīmēt</value>
+    <value>붙여넣기</value>
   </data>
   <data name="NavigationToolbarOpenInTerminal.Label" xml:space="preserve">
-    <value>Atvērt terminālī...</value>
+    <value>터미널에서 열기(_O)</value>
   </data>
   <data name="BaseLayoutContextFlyoutNew.Label" xml:space="preserve">
-    <value>Jauns</value>
-  </data>
-  <data name="NavigationToolbarNewPane.Label" xml:space="preserve">
-    <value>Jauns panelis</value>
+    <value>새로 만들기</value>
   </data>
   <data name="PropertiesDialogTabSecurity.Content" xml:space="preserve">
-    <value>Drošība</value>
+    <value>보안</value>
   </data>
   <data name="SecurityAdvancedPermissions.Text" xml:space="preserve">
-    <value>Papildu atļaujas</value>
+    <value>고급 사용 권한</value>
   </data>
   <data name="SecurityAllowLabel.Text" xml:space="preserve">
-    <value>Atļaut</value>
+    <value>허용</value>
   </data>
   <data name="SecurityDenyLabel.Text" xml:space="preserve">
-    <value>Aizliegt</value>
+    <value>거부</value>
   </data>
   <data name="SecurityFullControlLabel.Text" xml:space="preserve">
-    <value>Pilnīga kontrole</value>
-  </data>
-  <data name="SecurityListDirectoryLabel.Text" xml:space="preserve">
-    <value>Rādīt mapju saturu</value>
+    <value>모든 권한</value>
   </data>
   <data name="SecurityModifyLabel.Text" xml:space="preserve">
-    <value>Modificēt</value>
+    <value>수정</value>
   </data>
   <data name="SecurityPermissionsLabel.Text" xml:space="preserve">
-    <value>Atļaujas</value>
-  </data>
-  <data name="SecurityReadAndExecuteLabel.Text" xml:space="preserve">
-    <value>Lasīt un izpildīt</value>
+    <value>사용 권한 대상</value>
   </data>
   <data name="SecurityReadLabel.Text" xml:space="preserve">
-    <value>Lasīt</value>
+    <value>읽기</value>
   </data>
   <data name="SecurityUsersGroupLabel.Text" xml:space="preserve">
-    <value>Grupa vai lietotājvārdi</value>
+    <value>그룹 또는 사용자 이름:</value>
   </data>
   <data name="SecurityWriteLabel.Text" xml:space="preserve">
-    <value>Lasīt</value>
+    <value>쓰기</value>
   </data>
   <data name="SecurityUnknownAccount" xml:space="preserve">
-    <value>Nezināms konts</value>
-  </data>
-  <data name="SecurityCannotReadProperties.Text" xml:space="preserve">
-    <value>Jums nav atļauju, lai skatītu šī objekta drošības rekvizītus. Nospiediet "Papildu atļaujas", lai turpinātu.</value>
+    <value>알 수 없는 계정</value>
   </data>
   <data name="SecurityOwnerLabel.Text" xml:space="preserve">
-    <value>Īpašnieks</value>
+    <value>소유자</value>
   </data>
   <data name="SecurityUnknownOwnerText.Text" xml:space="preserve">
-    <value>Nezināms īpašnieks</value>
+    <value>알 수 없는 소유자입니다.</value>
   </data>
   <data name="SettingsNavSidebar.Content" xml:space="preserve">
-    <value>Sānu josla</value>
+    <value>사이드바</value>
   </data>
   <data name="SettingsSidebarTitle.Text" xml:space="preserve">
-    <value>Sānu josla</value>
+    <value>사이드바</value>
   </data>
   <data name="DefaultTheme" xml:space="preserve">
-    <value>Noklusējums</value>
-  </data>
-  <data name="SettingsAppearanceOpenThemesFolderButton.Content" xml:space="preserve">
-    <value>Atvērt motīvu mapi</value>
-  </data>
-  <data name="SettingsThemesLearnMoreButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Uzzināt vairāk par pielāgojamiem motīviem</value>
-  </data>
-  <data name="SettingsThemesLearnMoreButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Uzzināt vairāk par pielāgojamiem motīviem</value>
-  </data>
-  <data name="SettingsThemesTeachingTipHeader.Text" xml:space="preserve">
-    <value>Pielāgojamie motīvi ir lielisks veids, kā personalizēt Files.</value>
+    <value>기본값</value>
   </data>
   <data name="SettingsThemesTeachingTipHyperlinkText.Text" xml:space="preserve">
-    <value>Skatīt dokumentāciju.</value>
-  </data>
-  <data name="VerticalTabFlyout.AutomationProperties.Name" xml:space="preserve">
-    <value>Vertikālais ciļņu izlecošais logs</value>
-  </data>
-  <data name="VerticalTabFlyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Vertikālais ciļņu izlecošais logs</value>
+    <value>설명서 보기</value>
   </data>
   <data name="HorizontalMultitaskingControlAddButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Jauna cilne (Ctrl+T)</value>
+    <value>새 탭	Ctrl+T</value>
   </data>
   <data name="SideBarCreateNewLibrary.Text" xml:space="preserve">
-    <value>Izveidot jaunu bibliotēku</value>
+    <value>새 라이브러리 만들기</value>
   </data>
   <data name="SideBarRestoreLibraries.Text" xml:space="preserve">
-    <value>Atjaunot sākotnējās bibliotēkas</value>
+    <value>기본 라이브러리 복원</value>
   </data>
   <data name="DialogRestoreLibrariesButtonText" xml:space="preserve">
-    <value>Atjaunot</value>
-  </data>
-  <data name="DialogRestoreLibrariesSubtitleText" xml:space="preserve">
-    <value>Vai esat droši, ka vēlaties atjaunot sākotnējās bibliotēkas? Visi faili tiks saglabāti.</value>
-  </data>
-  <data name="DialogRestoreLibrariesTitleText" xml:space="preserve">
-    <value>Atjaunot bibliotēkas</value>
+    <value>복원</value>
   </data>
   <data name="RecentFilesHeader.Text" xml:space="preserve">
-    <value>Nesenie faili</value>
-  </data>
-  <data name="BundlesOpenInNewPane.Text" xml:space="preserve">
-    <value>Atvērt jaunā cilnē</value>
+    <value>최근에 사용한 파일</value>
   </data>
   <data name="PropertyFileOwner" xml:space="preserve">
-    <value>Īpašnieks</value>
-  </data>
-  <data name="SecurityAdvancedPermissionsTitle" xml:space="preserve">
-    <value>Papildus atļaujas priekš {0}</value>
+    <value>소유자</value>
   </data>
   <data name="SecuritySpecialLabel.Text" xml:space="preserve">
-    <value>Īpašs</value>
+    <value>특수</value>
   </data>
   <data name="SecurityAdvancedAccessLabel.Text" xml:space="preserve">
-    <value>Piekļuve</value>
+    <value>액세스</value>
   </data>
   <data name="SecurityAdvancedAppliesToLabel.Text" xml:space="preserve">
-    <value>Piemērots</value>
+    <value>다음에 해당</value>
   </data>
   <data name="SecurityAdvancedEntityLabel.Text" xml:space="preserve">
-    <value>Vienība</value>
+    <value>엔터티</value>
   </data>
   <data name="SecurityAdvancedFlagsFilesLabel" xml:space="preserve">
-    <value>faili</value>
-  </data>
-  <data name="SecurityAdvancedFlagsFolderLabel" xml:space="preserve">
-    <value>šī mape</value>
+    <value>파일</value>
   </data>
   <data name="SecurityAdvancedFlagsSubfoldersLabel" xml:space="preserve">
-    <value>apakšmapes</value>
+    <value>하위 폴더</value>
   </data>
   <data name="SecurityAdvancedInheritedLabel.Text" xml:space="preserve">
-    <value>Mantots</value>
+    <value>상속됨</value>
   </data>
   <data name="SecurityAdvancedInheritedNoLabel" xml:space="preserve">
-    <value>Nē</value>
+    <value>아니요</value>
   </data>
   <data name="SecurityAdvancedInheritedYesLabel" xml:space="preserve">
-    <value>Jā</value>
+    <value>예</value>
   </data>
   <data name="SecurityAdvancedPermissionsLabel.Text" xml:space="preserve">
-    <value>Atļaujas</value>
+    <value>사용 권한</value>
   </data>
   <data name="SecurityAdvancedTypeLabel.Text" xml:space="preserve">
-    <value>Tips</value>
-  </data>
-  <data name="SecurityAdvancedCannotReadProperties.Text" xml:space="preserve">
-    <value>Jums nav atļaujas, lai skatītu šī objekta drošības īpašības. Varat mēģināt pārņemt šī objekta īpašumtiesības.</value>
+    <value>유형</value>
   </data>
   <data name="SecurityAdvancedSpecialLabel.Text" xml:space="preserve">
-    <value>Īpašs</value>
+    <value>특수</value>
   </data>
   <data name="SecurityAdvancedFolderFiles.Text" xml:space="preserve">
-    <value>Šī mape un faili</value>
+    <value>현재 폴더 및 파일</value>
   </data>
   <data name="SecurityAdvancedFolderSubfoldersFiles.Text" xml:space="preserve">
-    <value>Šī mape, apakšmapes un faili</value>
-  </data>
-  <data name="SecurityAdvancedOnlyFiles.Text" xml:space="preserve">
-    <value>Tikai faili</value>
-  </data>
-  <data name="SecurityAdvancedOnlySubfolders.Text" xml:space="preserve">
-    <value>Tikai apakšmapes</value>
-  </data>
-  <data name="SecurityAdvancedOnlySubfoldersFiles.Text" xml:space="preserve">
-    <value>Tikai apakšmapes un failus</value>
-  </data>
-  <data name="SecurityAdvancedOnlyThisFolder.Text" xml:space="preserve">
-    <value>Tikai šo mapi</value>
+    <value>현재 폴더, 하위 폴더 및 파일</value>
   </data>
   <data name="SecurityAdvancedFolderSubfolders.Text" xml:space="preserve">
-    <value>Šī mape un apakšmapes</value>
-  </data>
-  <data name="SecurityAppendDataLabel.Text" xml:space="preserve">
-    <value>Papildināt datus</value>
+    <value>이 폴더 및 하위 폴더</value>
   </data>
   <data name="SecurityChangePermissionsLabel.Text" xml:space="preserve">
-    <value>Mainīt atļauju</value>
+    <value>사용 권한 변경</value>
   </data>
   <data name="SecurityCreateDirectoriesLabel.Text" xml:space="preserve">
-    <value>Izveidot mapes</value>
+    <value>폴더를 만듭니다.</value>
   </data>
   <data name="SecurityCreateFilesLabel.Text" xml:space="preserve">
-    <value>Izveidot failus</value>
+    <value>파일 만들기</value>
   </data>
   <data name="SecurityDeleteLabel.Text" xml:space="preserve">
-    <value>Dzēst</value>
-  </data>
-  <data name="SecurityDeleteSubdirectoriesAndFilesLabel.Text" xml:space="preserve">
-    <value>Dzēst apakšmapes un failus</value>
-  </data>
-  <data name="SecurityExecuteFileLabel.Text" xml:space="preserve">
-    <value>Izpildīt failus</value>
+    <value>삭제</value>
   </data>
   <data name="SecurityReadAttributesLabel.Text" xml:space="preserve">
-    <value>Lasīt atribūtus</value>
+    <value>특성 읽기</value>
   </data>
   <data name="SecurityReadDataLabel.Text" xml:space="preserve">
-    <value>Lasīt datus</value>
+    <value>데이터 읽기</value>
   </data>
   <data name="SecurityReadExtendedAttributesLabel.Text" xml:space="preserve">
-    <value>Lasīt paplašinātos atribūtus</value>
+    <value>확장 특성 읽기</value>
   </data>
   <data name="SecurityReadPermissionsLabel.Text" xml:space="preserve">
-    <value>Lasīt atļaujas</value>
+    <value>읽기 권한</value>
   </data>
   <data name="SecurityTakeOwnershipLabel.Text" xml:space="preserve">
-    <value>Pārņemt īpašumtiesības</value>
-  </data>
-  <data name="SecurityTraverseLabel.Text" xml:space="preserve">
-    <value>Apmeklēt mapi</value>
+    <value>소유권 가져오기</value>
   </data>
   <data name="SecurityWriteAttributesLabel.Text" xml:space="preserve">
-    <value>Rakstīt atribūtus</value>
-  </data>
-  <data name="SecurityWriteDataLabel.Text" xml:space="preserve">
-    <value>Rakstīt datus</value>
+    <value>특성 쓰기</value>
   </data>
   <data name="SecurityWriteExtendedAttributesLabel.Text" xml:space="preserve">
-    <value>Rakstīt paplašinātos atribūtus</value>
+    <value>확장 특성 쓰기</value>
   </data>
   <data name="SecurityNoneLabel.Text" xml:space="preserve">
-    <value>Nav</value>
-  </data>
-  <data name="SecurityAdvancedInheritedConvert.Text" xml:space="preserve">
-    <value>Pārveidot iedzimtās atļaujas uz tiešajām atļaujām</value>
+    <value>없음</value>
   </data>
   <data name="SecurityAdvancedInheritedEnable.Text" xml:space="preserve">
-    <value>Iespējot pārmantošanu</value>
-  </data>
-  <data name="SecurityAdvancedInheritedRemove.Text" xml:space="preserve">
-    <value>Noņemt visas iedzimtās atļaujas</value>
-  </data>
-  <data name="SecurityAdvancedReplaceChildPermissions.Text" xml:space="preserve">
-    <value>Atiestatīt bērnu atļaujas</value>
-  </data>
-  <data name="SecurityAdvancedReplaceChildPermissions2.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Aizvietot visas bērnu objektu atļaujas ar iedzimtajām atļaujām no šī objekta</value>
-  </data>
-  <data name="CreateBundleBtn.AutomationProperties.Name" xml:space="preserve">
-    <value>Izveidot saišķi</value>
-  </data>
-  <data name="CreateBundleBtn.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Izveidot saišķi</value>
+    <value>상속 사용</value>
   </data>
   <data name="NavigationToolbarClosePane.Label" xml:space="preserve">
-    <value>Aizvērt paneli</value>
+    <value>창 닫기</value>
   </data>
   <data name="PropertyFileDescription" xml:space="preserve">
-    <value>Faila apraksts</value>
+    <value>파일 설명</value>
   </data>
   <data name="PropertyCompany" xml:space="preserve">
-    <value>Uzņēmums</value>
+    <value>회사</value>
   </data>
   <data name="PropertyLanguage" xml:space="preserve">
-    <value>Valoda</value>
+    <value>언어</value>
   </data>
   <data name="PropertyTrademarks" xml:space="preserve">
-    <value>Preču zīmes</value>
+    <value>상표</value>
   </data>
   <data name="PropertyFileVersion" xml:space="preserve">
-    <value>Faila versija</value>
+    <value>파일 버전:</value>
   </data>
   <data name="PropertySyncStatus" xml:space="preserve">
-    <value>Sinhronizācijas statuss</value>
-  </data>
-  <data name="PreviewPaneLoadCloudItemButton.Content" xml:space="preserve">
-    <value>Atvērt pilno priekšskatījumu</value>
-  </data>
-  <data name="PreviewPaneLoadCloudItemButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Lejupielādē vienumu no mākoņa un atver priekšskatījumu</value>
-  </data>
-  <data name="DecompressArchiveDialog.Title" xml:space="preserve">
-    <value>Atlasīt mērķi un izvilkt failus</value>
+    <value>동기화 상태</value>
   </data>
   <data name="DecompressArchiveDialogBrowseFolder.Content" xml:space="preserve">
-    <value>Pārlūkot</value>
-  </data>
-  <data name="DecompressArchiveDialogOpenDestinationWhenComplete.Content" xml:space="preserve">
-    <value>Atvērt mērķa mapi, kad pabeigts</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutExtractFilesOption" xml:space="preserve">
-    <value>Izvilkt failus</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutExtractHereOption" xml:space="preserve">
-    <value>Izvilkt šeit</value>
+    <value>탐색</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutExtractionOptions" xml:space="preserve">
-    <value>Izvilkt...</value>
+    <value>압축 풀기...</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutExtractToChildFolder" xml:space="preserve">
-    <value>Izvilkt uz {0}\</value>
+    <value>{0}(으)로 추출</value>
   </data>
-  <data name="DetailsArchiveItemCount" xml:space="preserve">
-    <value>{0} vienumi ({1} faili, {2} mapes)</value>
-  </data>
-  <data name="PropertyUncompressedSize" xml:space="preserve">
-    <value>Nesaspiestais izmērs</value>
-  </data>
-  <data name="NavigationToolbarEnterCompactOverlay.Label" xml:space="preserve">
-    <value>Atvērt kompakto pārklāju</value>
-  </data>
-  <data name="NavigationToolbarExitCompactOverlay.Label" xml:space="preserve">
-    <value>Iziet kompakto pārklājumu</value>
-  </data>
-  <data name="SideBarHideSectionFromSideBar.Text" xml:space="preserve">
-    <value>Slēpt {0} sekciju</value>
-  </data>
-  <data name="SettingsMultitaskingAlwaysOpenDualPane.Title" xml:space="preserve">
-    <value>Vienmēr atvērt jaunas cilnes dubultu paneļu režīmā</value>
-  </data>
-  <data name="SettingsMultitaskingEnableDualPane.Title" xml:space="preserve">
-    <value>Iespējot dubultu paneļu skatu</value>
-  </data>
-  <data name="SettingsVerticalTabFlyoutSwitch.Title" xml:space="preserve">
-    <value>Rādīt vertikālo ciļņu izlēcošo logu virsraksta joslā</value>
-  </data>
-  <data name="SettingsShowCloudDrivesSection.Title" xml:space="preserve">
-    <value>Rādīt tīkla disku sekciju sānu joslā</value>
-  </data>
-  <data name="SettingsShowDrivesSection.Title" xml:space="preserve">
-    <value>Rādīt disku sekciju sānu joslā</value>
-  </data>
-  <data name="SettingsShowWslSection.Title" xml:space="preserve">
-    <value>Rādīt WSL sekciju sānu joslā</value>
-  </data>
-  <data name="SettingsShowNetworkDrivesSection.Title" xml:space="preserve">
-    <value>Rādīt tīkla disku sekciju sānu joslā</value>
-  </data>
-  <data name="SettingsRecycleBinSwitch.Title" xml:space="preserve">
-    <value>Piespraust atkritni favorītos</value>
-  </data>
-  <data name="SettingsShowLibrarySection.Title" xml:space="preserve">
-    <value>Rādīt bibliotēkas sekciju sānu joslā</value>
+  <data name="WSL" xml:space="preserve">
+    <value>WSL</value>
   </data>
   <data name="SettingsAppearanceTheme.Title" xml:space="preserve">
-    <value>Izvēlēties krāsu</value>
+    <value>색상 선택</value>
   </data>
   <data name="SettingsAppearanceCustomThemes.Title" xml:space="preserve">
-    <value>Pielāgojamie motīvi</value>
-  </data>
-  <data name="SettingsContextMenuOverflowSwitch.Title" xml:space="preserve">
-    <value>Pārvietot pārpildes vienumus apakšizvēlnē</value>
+    <value>사용자 지정 테마</value>
   </data>
   <data name="SettingsPreferencesAppLanguage.Title" xml:space="preserve">
-    <value>Valoda</value>
-  </data>
-  <data name="SettingsFilesAndFoldersShowFileExtensions.Title" xml:space="preserve">
-    <value>Rādīt paplašinājumus zināmiem failu tipiem</value>
+    <value>언어</value>
   </data>
   <data name="SettingsFilesAndFoldersShowHiddenItems.Title" xml:space="preserve">
-    <value>Rādīt slēptos failus un mapes</value>
+    <value>숨김 파일 및 폴더 표시</value>
   </data>
   <data name="SettingsFilesAndFoldersHideSystemItems.Title" xml:space="preserve">
-    <value>Paslēpt aizsargātos operētājsistēmas failus (Ieteicams)</value>
-  </data>
-  <data name="SettingsOpenItemsWithOneclick.Title" xml:space="preserve">
-    <value>Atvērt vienumus ar vienu klikšķi</value>
-  </data>
-  <data name="SettingsListAndSortDirectoriesAlongsideFiles.Title" xml:space="preserve">
-    <value>Rādīt un kārtot mapes kopā ar failiem</value>
-  </data>
-  <data name="SettingsSearchUnindexedItems.Title" xml:space="preserve">
-    <value>Rādīt neindeksētos vienumus, meklētjot failus vai mapes (meklēšana var būt ilgāka)</value>
-  </data>
-  <data name="SettingsEnableLayoutPreferencesPerFolder.Title" xml:space="preserve">
-    <value>Iespējot atšķirīgus iestatījumus katrai mapei</value>
+    <value>보호된 운영 체제 파일 숨기기(권장)</value>
   </data>
   <data name="SettingsUsefulLinks.Title" xml:space="preserve">
-    <value>Noderīgas saites</value>
+    <value>유용한 링크</value>
   </data>
   <data name="SettingCopyVersionInfo.Content" xml:space="preserve">
-    <value>Kopēt</value>
-  </data>
-  <data name="SettingsAboutOpenLogLocationButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Atvērt žurnāla atrašanās vietu</value>
-  </data>
-  <data name="SettingsAboutOpenLogLocationButtonText.Text" xml:space="preserve">
-    <value>Atvērt žurnāla atrašanās vietu</value>
+    <value>복사</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutPinToFavorites.Text" xml:space="preserve">
-    <value>Piespraust pie favorītiem</value>
-  </data>
-  <data name="SideBarUnpinFromFavorites.Text" xml:space="preserve">
-    <value>Atspraust no favorītiem</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutUnpinFromFavorites.Text" xml:space="preserve">
-    <value>Atspraust no favorītiem</value>
+    <value>즐겨찾기에 고정</value>
   </data>
   <data name="NavSettingsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Iestatījumi</value>
+    <value>설정</value>
   </data>
   <data name="NavSettingsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Iestatījumi</value>
+    <value>설정</value>
   </data>
   <data name="NavigationToolbarCopy.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Kopēt</value>
+    <value>복사</value>
   </data>
   <data name="NavigationToolbarCopy.Label" xml:space="preserve">
-    <value>Kopēt</value>
+    <value>복사</value>
   </data>
   <data name="ConsentDialogTitle" xml:space="preserve">
-    <value>Pieejami atjauninājumi</value>
+    <value>업데이트 가능</value>
   </data>
   <data name="ConsentDialogContent" xml:space="preserve">
-    <value>Atjauninājumi pieejami instalēšanai</value>
+    <value>업데이트를 설치할 준비가 되었습니다</value>
   </data>
   <data name="ConsentDialogCloseButtonText" xml:space="preserve">
-    <value>Aizvērt</value>
+    <value>닫다</value>
   </data>
   <data name="ConsentDialogPrimaryButtonText" xml:space="preserve">
-    <value>Atjaunināt</value>
+    <value>업데이트</value>
   </data>
   <data name="BundleOptionsFlyoutAddFileMenuItem.Text" xml:space="preserve">
-    <value>Pievienot failu</value>
+    <value>파일 추가</value>
   </data>
   <data name="BundleOptionsFlyoutAddFolderMenuItem.Text" xml:space="preserve">
-    <value>Pievienot mapi</value>
+    <value>폴더 추가</value>
   </data>
   <data name="BundleOptionsFlyoutAddItemMenuItem.Text" xml:space="preserve">
-    <value>Pievienot vienumu...</value>
+    <value>항목 추가</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Mājas</value>
+    <value>홈</value>
   </data>
   <data name="TabViewVerticalNewTab.Text" xml:space="preserve">
-    <value>Jauna cilne</value>
+    <value>새 탭</value>
   </data>
-  <data name="SettingsPreferencesTerminalApplications.Title" xml:space="preserve">
-    <value>Termināļa lietotnes</value>
+  <data name="NavToolbarSelectAll.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+A</value>
   </data>
-  <data name="ArchiveExtractionCompletedSuccessfullyText" xml:space="preserve">
-    <value>Arhīva izvilkšana veiksmīgi pabeigta.</value>
+  <data name="NavigationToolbarNewPane.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Alt+Shift</value>
+  </data>
+  <data name="NavigationToolbarClosePane.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+Shift+W</value>
+  </data>
+  <data name="NavigationToolbarNewWindow.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+N</value>
+  </data>
+  <data name="HorizontalMultitaskingControlNewTab.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+T</value>
+  </data>
+  <data name="HorizontalMultitaskingControlReopenClosedTab.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+Shift+T</value>
   </data>
   <data name="ExtractingArchiveText" xml:space="preserve">
-    <value>Izvelk arhīvu</value>
+    <value>보관 파일의 압축을 푸는 중</value>
   </data>
-  <data name="ExtractingCompleteText" xml:space="preserve">
-    <value>Izvilkšana pabeigta!</value>
-  </data>
-  <data name="SettingsPreferencesEditTerminalApplicationsExpander.Title" xml:space="preserve">
-    <value>Rediģēt termināļu lietotnes</value>
+  <data name="BaseLayoutContextFlyoutNew.KeyboardAcceleratorTextOverride" xml:space="preserve">
+    <value>Ctrl+Shift+N</value>
   </data>
   <data name="SettingsDateFormat.Title" xml:space="preserve">
-    <value>Datuma formāts</value>
-  </data>
-  <data name="SettingsPreferencesShowConfirmDeleteDialog.Title" xml:space="preserve">
-    <value>Dzēšot failus vai mapes, rādīt apstiprinājuma vaicājumu</value>
-  </data>
-  <data name="SettingsPreferencesOpenFoldersNewTab.Title" xml:space="preserve">
-    <value>Atvērt mapes jaunā cilnē</value>
+    <value>날짜 형식</value>
   </data>
   <data name="SettingsPrivacy.Title" xml:space="preserve">
-    <value>Privātuma politika</value>
-  </data>
-  <data name="SettingsFluentUISystemIconsLicenseButton.Content" xml:space="preserve">
-    <value>Fluent UI Sistēmas ikonas</value>
-  </data>
-  <data name="SettingsFluentUISystemIconsLicenseButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Fluent UI sistēmas ikonas</value>
-  </data>
-  <data name="SettingsPrivacyPolicyMarkdownBlock.Text" xml:space="preserve">
-    <value>
-*Personīgas informācijas glabāšana* 
-Files nevāc, nesaglabā, nekoplieto un nepublicē jebkādu personīgu informāciju.
-
-*Nepersonīgas informācijas glabāšana*
-
-Mēs lietojam App Center, lai sekotu līdzi programmas lietojumam, atrastu un novērstu kļūdas. Visa informācija, kas sūtīta App Center, ir anonīma un nesatur personīgus datus.
-  </value>
+    <value>개인정보취급방침</value>
   </data>
   <data name="NavToolbarGroupByOptionNone.Text" xml:space="preserve">
-    <value>Nav</value>
+    <value>없음</value>
   </data>
   <data name="NavToolbarArrangementOptionName.Text" xml:space="preserve">
-    <value>Vārds</value>
+    <value>이름</value>
   </data>
   <data name="NavToolbarArrangementOptionDateModified.Text" xml:space="preserve">
-    <value>Modificēšanas datums</value>
+    <value>수정한 날짜</value>
   </data>
   <data name="NavToolbarArrangementOptionDateCreated.Text" xml:space="preserve">
-    <value>Izveides datums</value>
+    <value>만든 날짜</value>
   </data>
   <data name="NavToolbarArrangementOptionSize.Text" xml:space="preserve">
-    <value>Lielums</value>
+    <value>크기</value>
   </data>
   <data name="NavToolbarArrangementOptionDateDeleted.Text" xml:space="preserve">
-    <value>Dzēšanas datums</value>
+    <value>삭제된 날짜</value>
+  </data>
+  <data name="NavToolbarArrangementOptionOriginalFolder.Text" xml:space="preserve">
+    <value>원본 폴더</value>
   </data>
   <data name="NavToolbarArrangementOptionType.Text" xml:space="preserve">
-    <value>Tips</value>
+    <value>유형</value>
   </data>
   <data name="NavToolbarSortDirectionOptionAscending.Text" xml:space="preserve">
-    <value>Augošā secībā</value>
+    <value>오름차순</value>
   </data>
   <data name="NavToolbarSortDirectionOptionDescending.Text" xml:space="preserve">
-    <value>Dilstošā secībā</value>
+    <value>내림차순</value>
   </data>
   <data name="NavToolbarArrangementOptionSyncStatus.Text" xml:space="preserve">
-    <value>Sinhronizācijas statuss</value>
+    <value>동기화 상태</value>
   </data>
   <data name="FileTagUnknown" xml:space="preserve">
-    <value>Nezināms</value>
+    <value>알 수 없음</value>
   </data>
   <data name="InsertDiscDialog.CloseDialogButton" xml:space="preserve">
-    <value>Aizvērt</value>
+    <value>닫다</value>
   </data>
   <data name="InsertDiscDialog.Title" xml:space="preserve">
-    <value>Ievietot disku</value>
+    <value>디스크 삽입</value>
   </data>
 </root>
