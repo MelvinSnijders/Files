@@ -13,1936 +13,2476 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SideBarOpenInNewTab.Text" xml:space="preserve">
-    <value>فتح في علامة تبويب جديدة</value>
+    <value>ახალ ჩანართში გახსნა</value>
   </data>
   <data name="SideBarOpenInNewWindow.Text" xml:space="preserve">
-    <value>فتح في نافذة جديدة</value>
+    <value>ახალ ფანჯარაში გახსნა</value>
+  </data>
+  <data name="NavigationToolbarNewWindow.Label" xml:space="preserve">
+    <value>ახალი ფანჯარა</value>
   </data>
   <data name="ModernNavigationToolbaNewFolder.Text" xml:space="preserve">
-    <value>مجلد</value>
+    <value>საქაღალდე</value>
   </data>
   <data name="ModernNavigationToolbaNewBitmapImage.Text" xml:space="preserve">
-    <value>صورة نقطية</value>
+    <value>ბიტმაპ სურათი</value>
   </data>
   <data name="ModernNavigationToolbaNewTextDocument.Text" xml:space="preserve">
-    <value>مستند نصي</value>
+    <value>ტექსტური დოკუმენტი</value>
+  </data>
+  <data name="NavigationToolbarCopyPath.Label" xml:space="preserve">
+    <value>ასლის მდებარეობა</value>
+  </data>
+  <data name="NavigationToolbarPaste.Label" xml:space="preserve">
+    <value>ჩასმა</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>გადათვალიერება</value>
   </data>
   <data name="SidebarDrives" xml:space="preserve">
-    <value>محركات الأقراص</value>
+    <value>დისკები</value>
   </data>
   <data name="nameColumn.Header" xml:space="preserve">
-    <value>اسم</value>
+    <value>სახელი</value>
   </data>
   <data name="dateColumn.Header" xml:space="preserve">
-    <value>تاريخ معدل</value>
+    <value>შეცვლის თარიღი</value>
   </data>
   <data name="typeColumn.Header" xml:space="preserve">
-    <value>النوع</value>
+    <value>ნიმუში</value>
   </data>
   <data name="sizeColumn.Header" xml:space="preserve">
-    <value>الحجم</value>
+    <value>ზომა</value>
+  </data>
+  <data name="NavigationToolbarOpenInTerminal.Label" xml:space="preserve">
+    <value>ტერმინალში გახსნა...</value>
   </data>
   <data name="PropertiesCreated.Text" xml:space="preserve">
-    <value>تم الانشاء</value>
+    <value>შექმნილია:</value>
   </data>
   <data name="PropertiesItemFileName.PlaceholderText" xml:space="preserve">
-    <value>اسم الصنف</value>
+    <value>ნივთის სახელი</value>
   </data>
   <data name="PropertiesItemPath.Text" xml:space="preserve">
-    <value>المسار</value>
+    <value>გზა:</value>
   </data>
   <data name="PropertiesItemSize.Text" xml:space="preserve">
-    <value>الحجم</value>
+    <value>ზომა:</value>
   </data>
   <data name="ErrorDialogThisActionCannotBeDone" xml:space="preserve">
-    <value>لا يمكن القيام بهذا الامر</value>
+    <value>ეს მოქმედება ვერ განხორციელდება</value>
   </data>
   <data name="ErrorDialogTheDestinationFolder" xml:space="preserve">
-    <value>وجهة الملف</value>
+    <value>დანიშნულების საქაღალდე</value>
   </data>
   <data name="ErrorDialogIsASubfolder" xml:space="preserve">
-    <value>انه مجلد فرعي من المجلد الاصلي </value>
+    <value>არის წყაროს საქაღალდის ქვე-საქაღალდე</value>
   </data>
   <data name="ErrorDialogSkip" xml:space="preserve">
-    <value>‏‏تخطي</value>
+    <value>გამოტოვება</value>
   </data>
   <data name="ErrorDialogCancel" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="PropertiesItemType.Text" xml:space="preserve">
-    <value>نوع العنصر</value>
+    <value>ნივთის ნიმუში:</value>
   </data>
   <data name="NavToolbarSelectAll.Text" xml:space="preserve">
-    <value>تحديد الكل</value>
+    <value>ყველას მონიშვნა</value>
   </data>
   <data name="NavToolbarInvertSelection.Text" xml:space="preserve">
-    <value>عكس التحديد</value>
+    <value>შებრუნებული მონიშვნა</value>
   </data>
   <data name="NavToolbarClearSelection.Text" xml:space="preserve">
-    <value>مسح التحديد</value>
+    <value>მონიშვნების გასუფთავება</value>
   </data>
   <data name="BaseLayoutContextFlyoutDetails.Text" xml:space="preserve">
-    <value>عرض التفاصيل</value>
+    <value>დეტალების მიმოხილვა</value>
   </data>
   <data name="PropertiesModified.Text" xml:space="preserve">
-    <value>تاريخ التعديل</value>
+    <value>განახლდა:</value>
   </data>
   <data name="PropertiesAccessed.Text" xml:space="preserve">
-    <value>التشغيل الأخير</value>
+    <value>წვდომა:</value>
   </data>
   <data name="RecentItemClearAll.Text" xml:space="preserve">
-    <value>ازالة كل العناصر</value>
+    <value>ყველა ნივთის გასუფთავება</value>
   </data>
   <data name="NavigationToolbarVisiblePath.PlaceholderText" xml:space="preserve">
-    <value>ادخل وجهة معينة</value>
+    <value>შეიყვანეთ გზა</value>
   </data>
   <data name="NavigationToolbarSearchReigon.PlaceholderText" xml:space="preserve">
-    <value>بحث</value>
+    <value>ძებნა</value>
   </data>
   <data name="RecentItemDescription.Text" xml:space="preserve">
-    <value>الملفات التي قمت بالوصول اليها مؤخرا سوف تظهر هنا</value>
+    <value>საქაღალდეებზე, რომლებზეც წვდომა ადრე გქონდათ აქ გამოჩნდებიან</value>
   </data>
   <data name="RecentItemOpenFileLocation.Text" xml:space="preserve">
-    <value>فتح موقع الملف</value>
+    <value>ფაილის ადგილმდებარეობის გახსნა</value>
   </data>
   <data name="RecentItemRemove.Text" xml:space="preserve">
-    <value>إزالة هذا العنصر</value>
+    <value>ამ ნივთის წაშლა</value>
+  </data>
+  <data name="RecentFilesHeader.Text" xml:space="preserve">
+    <value>ბოლო ფაილები</value>
+  </data>
+  <data name="SettingsUsefulLinks.Title" xml:space="preserve">
+    <value>სასარგებლო ბმულები</value>
+  </data>
+  <data name="SettingCopyVersionInfo.Content" xml:space="preserve">
+    <value>ასლის გაკეთება</value>
   </data>
   <data name="SettingsAboutSubmitFeedback.Text" xml:space="preserve">
-    <value>إرسال ملاحظات</value>
+    <value>გამოხმაურება</value>
   </data>
   <data name="SettingsAboutThirdPartyLicenses.Text" xml:space="preserve">
-    <value>تراخيص الطرف الثالث</value>
+    <value>მესამე მხარის ლიცენზიები</value>
   </data>
   <data name="SettingsAboutTitle.Text" xml:space="preserve">
-    <value>حول التطبيق</value>
+    <value>შესახებ</value>
+  </data>
+  <data name="SettingsAppearanceTheme.Title" xml:space="preserve">
+    <value>აირჩიეთ თქვენი ფერი</value>
   </data>
   <data name="SettingsAppearanceTitle.Text" xml:space="preserve">
-    <value>المظهر</value>
+    <value>შესახედაობა</value>
+  </data>
+  <data name="SettingsFilesAndFoldersShowFileExtensions.Title" xml:space="preserve">
+    <value>გაფართოებების ჩვენება ცნობილი ფაილის ნიმუშებისთვის</value>
+  </data>
+  <data name="SettingsFilesAndFoldersShowHiddenItems.Title" xml:space="preserve">
+    <value>დამალული ფაილების და საქაღალდეების ჩვენება</value>
   </data>
   <data name="SettingsFilesAndFoldersTitle.Text" xml:space="preserve">
-    <value>ملفات ومجلدات</value>
+    <value>ფაილები და საქაღალდეები</value>
   </data>
   <data name="SettingsExperimentalTitle.Text" xml:space="preserve">
-    <value>تجريبي</value>
+    <value>ექსპერიმენტალური</value>
   </data>
   <data name="SettingsNavAbout.Content" xml:space="preserve">
-    <value>حول التطبيق</value>
+    <value>შესახებ</value>
   </data>
   <data name="SettingsNavAppearance.Content" xml:space="preserve">
-    <value>المظهر</value>
+    <value>შესახედაობა</value>
   </data>
   <data name="SettingsNavExperimental.Content" xml:space="preserve">
-    <value>تجريبي</value>
+    <value>ექსპერიმენტალური</value>
   </data>
   <data name="SettingsNavFilesAndFolders.Content" xml:space="preserve">
-    <value>ملفات ومجلدات</value>
+    <value>ფაილები და საქაღალდეები</value>
   </data>
   <data name="SettingsNavOnStartup.Content" xml:space="preserve">
-    <value>عند بدء التشغيل</value>
+    <value>გაშვებისთანავე</value>
   </data>
   <data name="SettingsNavPreferences.Content" xml:space="preserve">
-    <value>التفضيلات</value>
+    <value>უპირატესობები</value>
   </data>
   <data name="SettingsExperimentalDescription.Text" xml:space="preserve">
-    <value>تحذير ميزات قيد التجربة </value>
+    <value>გაფრთხილება: ექსპერიმენტალური მახასიათებლების წინ!</value>
   </data>
   <data name="SettingsOnStartupContinueWhereYouLeftOff.Content" xml:space="preserve">
-    <value>تابع اين توقفت</value>
+    <value>გააგრძელეთ იქ სადაც შეჩერდით</value>
   </data>
   <data name="SettingsOnStartupOpenANewTab.Content" xml:space="preserve">
-    <value>فتح علامة تبويب جديدة</value>
+    <value>ახალი ჩანართის გახსნა</value>
   </data>
   <data name="SettingsOnStartupOpenASpecificPage.Content" xml:space="preserve">
-    <value>فتح صفحة معينة</value>
+    <value>კონკრეტული გვერდის ან გვერდების გახსნა</value>
   </data>
   <data name="SettingsOnStartupTitle.Text" xml:space="preserve">
-    <value>عند بدء التشغيل</value>
+    <value>გაშვებისთანავე</value>
   </data>
   <data name="SettingsPreferencesTitle.Text" xml:space="preserve">
-    <value>التفضيلات</value>
+    <value>უპირატესობები</value>
   </data>
   <data name="SidebarDesktop" xml:space="preserve">
-    <value>سطح المكتب</value>
+    <value>სამუშაო მაგიდა</value>
   </data>
   <data name="SidebarDocuments" xml:space="preserve">
-    <value>المستندات</value>
+    <value>დოკუმენტები</value>
   </data>
   <data name="SidebarDownloads" xml:space="preserve">
-    <value>التنزيلات</value>
+    <value>გადმოწერილები</value>
   </data>
   <data name="SidebarHome" xml:space="preserve">
-    <value>الصفحة الرئيسية</value>
+    <value>მთავარი</value>
   </data>
   <data name="SidebarMusic" xml:space="preserve">
-    <value>موسيقى</value>
+    <value>მუსიკები</value>
   </data>
   <data name="SidebarPictures" xml:space="preserve">
-    <value>صور</value>
+    <value>სურათები</value>
   </data>
   <data name="SidebarVideos" xml:space="preserve">
-    <value>مقاطع الفيديو</value>
+    <value>ვიდეოები</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortBy.Text" xml:space="preserve">
-    <value>فرز حسب</value>
+    <value>დახარისხება</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByName.Text" xml:space="preserve">
-    <value>اسم</value>
+    <value>სახელით</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDate.Text" xml:space="preserve">
-    <value>تاريخ التعديل</value>
+    <value>შეცვლის თარიღით</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByType.Text" xml:space="preserve">
-    <value>النوع</value>
+    <value>ნიმუშით</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortBySize.Text" xml:space="preserve">
-    <value>الحجم</value>
+    <value>ზომით</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByAscending.Text" xml:space="preserve">
-    <value>تصاعدي</value>
+    <value>ზრდადობის მიხედვით</value>
   </data>
   <data name="BaseLayoutContextFlyoutSortByDescending.Text" xml:space="preserve">
-    <value>تنازلي</value>
+    <value>კლებადობის მიხედვით</value>
   </data>
   <data name="BaseLayoutContextFlyoutRefresh.Text" xml:space="preserve">
-    <value>تحديث</value>
+    <value>განახლება</value>
   </data>
   <data name="BaseLayoutContextFlyoutPaste.Text" xml:space="preserve">
-    <value>لصق</value>
+    <value>ჩასმა</value>
   </data>
   <data name="BaseLayoutContextFlyoutOpenInTerminal.Text" xml:space="preserve">
-    <value>فتح في طرفيه</value>
+    <value>ტერმინალში გახსნა...</value>
   </data>
-  <data name="PropertiesItemMD5Hash.Text" xml:space="preserve">
-    <value>MD5Hash:</value>
+  <data name="BaseLayoutContextFlyoutNew.Label" xml:space="preserve">
+    <value>ახალი</value>
   </data>
   <data name="BaseLayoutContextFlyoutNewFolder.Text" xml:space="preserve">
-    <value>مجلد</value>
+    <value>საქაღალდე</value>
   </data>
   <data name="BaseLayoutContextFlyoutNewFile.Text" xml:space="preserve">
-    <value>ملف</value>
+    <value>ფაილი</value>
   </data>
   <data name="BaseLayoutContextFlyoutPropertiesFolder.Text" xml:space="preserve">
-    <value>خصائص</value>
+    <value>თვისებები</value>
+  </data>
+  <data name="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" xml:space="preserve">
+    <value>თვისებები</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutExtract.Text" xml:space="preserve">
-    <value>استخراج</value>
+    <value>ამოღება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenItem.Text" xml:space="preserve">
-    <value>فتح</value>
+    <value>გახსნა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenInNewTab.Text" xml:space="preserve">
-    <value>فتح في علامة تبويب جديدة</value>
+    <value>ახალ ჩანართში გახსნა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenInNewWindow.Text" xml:space="preserve">
-    <value>فتح في نافذة جديدة</value>
+    <value>ახალ ფანჯარაში გახსნა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAsDesktopBackground.Text" xml:space="preserve">
-    <value>تعيين كخلفية سطح المكتب</value>
+    <value>სამუშაო მაგიდის ფონად დაყენება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutShare.Text" xml:space="preserve">
-    <value>مشاركة</value>
+    <value>გაზიარება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCut.Text" xml:space="preserve">
-    <value>قص</value>
+    <value>ამოჭრა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCopy.Text" xml:space="preserve">
-    <value>نسخ</value>
+    <value>ასლის შექმნა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutDelete.Text" xml:space="preserve">
-    <value>حذف</value>
+    <value>წაშლა</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutRename.Text" xml:space="preserve">
-    <value>إعادة تسمية</value>
+    <value>გადარქმევა</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutPinToFavorites.Text" xml:space="preserve">
+    <value>ფავორიტებში ჩამაგრება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutProperties.Text" xml:space="preserve">
-    <value>خصائص</value>
+    <value>თვისებები</value>
   </data>
   <data name="WelcomeDialog.Title" xml:space="preserve">
-    <value>مرحبا بك في Files</value>
+    <value>მოგესალმებით ფაილებში!</value>
   </data>
   <data name="WelcomeDialog.PrimaryButtonText" xml:space="preserve">
-    <value>منح الإذن</value>
+    <value>ნებართვის მინიჭება</value>
   </data>
   <data name="WelcomeDialogTextBlock.Text" xml:space="preserve">
-    <value>للبدء ، ستحتاج إلى منحنا إذنًا لعرض ملفاتك. سيؤدي هذا إلى فتح صفحة الإعدادات حيث يمكنك منحنا هذا الإذن. ستحتاج إلى إعادة فتح التطبيق بمجرد الانتهاء من هذه الخطوة</value>
+    <value>დასაწყებად, თქვენ ჩვენ ნებართვა უნდა მოგვანიჭოთ, რათა გამოვაჩინოთ თქვენი ფაილები. ეს მოქმედება გახსნის პარამეტრების გვერდს, საიდანაც თქვენ შეგეძლებათ ჩვენთვის ნებართვის მონიჭება. ამ ნაბიჯების შესრულების შემდეგ კი აპლიკაციის ხელახლა გახსნა მოგიწევთ.</value>
   </data>
   <data name="FileFolderListItem" xml:space="preserve">
-    <value>مجلد ملفات</value>
+    <value>ფაილის საქაღალდე</value>
   </data>
   <data name="ItemTypeFile" xml:space="preserve">
-    <value>ملف</value>
+    <value>ფაილი</value>
   </data>
   <data name="RenameDialog.Title" xml:space="preserve">
-    <value>ادخل اسم عنصر</value>
+    <value>შეიყვანეთ ნივთის სახელი</value>
   </data>
   <data name="RenameDialogInputText.PlaceholderText" xml:space="preserve">
-    <value>ادخل اسم عنصر</value>
+    <value>შეიყვანეთ ნივთის სახელი</value>
   </data>
   <data name="RenameDialog.PrimaryButtonText" xml:space="preserve">
-    <value>اسم المجموعة</value>
+    <value>სახელის დაყენება</value>
   </data>
   <data name="RenameDialog.SecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="NewTab" xml:space="preserve">
-    <value>علامة تبويب جديدة</value>
+    <value>ახალი ჩანართი</value>
   </data>
   <data name="SystemTheme" xml:space="preserve">
-    <value>ويندوز الافتراضي</value>
+    <value>ნაგულისხმევი</value>
   </data>
   <data name="LightTheme" xml:space="preserve">
-    <value>فاتح</value>
+    <value>ნათელი</value>
   </data>
   <data name="DarkTheme" xml:space="preserve">
-    <value>داكن</value>
+    <value>ბნელი</value>
   </data>
   <data name="ApplicationTimeStye" xml:space="preserve">
-    <value>التطبيق</value>
+    <value>აპლიკაცია</value>
   </data>
   <data name="SystemTimeStye" xml:space="preserve">
-    <value>النظام</value>
+    <value>სისტემა</value>
   </data>
   <data name="NewFolder" xml:space="preserve">
-    <value>مجلد جديد</value>
+    <value>ახალი საქაღალდე</value>
   </data>
   <data name="NewFile" xml:space="preserve">
-    <value>ملف جديد</value>
+    <value>ახალი ფაილი</value>
   </data>
   <data name="EmptyFolder.Text" xml:space="preserve">
-    <value>‏‏هذا المجلد فارغ</value>
+    <value>ეს საქაღალდე ცარიელია.</value>
   </data>
   <data name="NavBackButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>‏‏الانتقال للخلف (Alt + مفتاح السهم الأيسر)</value>
+    <value>უკან (Alt+Left Arrow)</value>
   </data>
   <data name="NavForwardButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>‏‏الانتقال للأمام (Alt + مفتاح السهم الأيمن)</value>
+    <value>წინ (Alt+Right Arrow)</value>
   </data>
   <data name="NavUpButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>‏‏الانتقال للاعلى (Alt + مفتاح السهم الأيمن)</value>
+    <value>ზემოთ (Alt+Up Arrow)</value>
   </data>
   <data name="NavRefreshButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>تحديث (F5)</value>
+    <value>განახლება (F5)</value>
   </data>
   <data name="NavSearchButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>بحث</value>
+    <value>მოძებნა (Ctrl+F)</value>
   </data>
   <data name="PropertiesTitle" xml:space="preserve">
-    <value>خصائص</value>
+    <value>თვისებები</value>
   </data>
   <data name="PropertiesAttributes.Text" xml:space="preserve">
-    <value>السمات:</value>
+    <value>ატრიბუტები:</value>
   </data>
   <data name="PropertiesTitleSecondary.Text" xml:space="preserve">
-    <value>خصائص</value>
+    <value>თვისებები</value>
   </data>
   <data name="ItemAlreadyExistsDialogContent" xml:space="preserve">
-    <value>يوجد عنصر بهذا الاسم في دليل الملفات</value>
+    <value>ამ სახელწოდების მქონე ნივთი უკვე არსებობს ამ კატალოგში.</value>
   </data>
   <data name="ItemAlreadyExistsDialogPrimaryButtonText" xml:space="preserve">
-    <value>انشئ اسم جديد</value>
+    <value>ახალი სახელის შექმნა</value>
   </data>
   <data name="ItemAlreadyExistsDialogSecondaryButtonText" xml:space="preserve">
-    <value>استبدل العنصر الموجود سابقا</value>
+    <value>არსებული ნივთის ჩანაცვლება</value>
   </data>
   <data name="ItemAlreadyExistsDialogTitle" xml:space="preserve">
-    <value>العنصر موجود بالفعل.</value>
+    <value>ნივთი უკვე არსებობს</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAsLockscreenBackground.Text" xml:space="preserve">
-    <value>ضبط كخلفية قفل الشاشة</value>
+    <value>ჩაკეტილი ეკრანის ფონად დაყენება</value>
   </data>
   <data name="BaseLayoutContextFlyoutGridViewLarge.Text" xml:space="preserve">
-    <value>عرض الشبكة بشكل كبير</value>
+    <value>ქსელის ხედი (დიდი)</value>
   </data>
   <data name="BaseLayoutContextFlyoutGridViewMedium.Text" xml:space="preserve">
-    <value>عرض الشبكة بشكل متوسط</value>
+    <value>ქსელის ხედი (საშუალო)</value>
   </data>
   <data name="BaseLayoutContextFlyoutGridViewSmall.Text" xml:space="preserve">
-    <value>عرض الشبكة بشكل صغير</value>
+    <value>ქსელის ხედი (პატარა)</value>
   </data>
   <data name="BaseLayoutContextFlyoutTilesView.Text" xml:space="preserve">
-    <value>اظهار العنوان</value>
+    <value>ფილების ხედი</value>
   </data>
   <data name="PropertiesDialogOKButton.Content" xml:space="preserve">
-    <value>موافق</value>
+    <value>კარგი</value>
   </data>
   <data name="AccessDeniedDeleteDialog.Text" xml:space="preserve">
-    <value>لم نتمكن من حذف هذا العنصر</value>
+    <value>ჩვენ ვერ შევძელით ამ ნივთის წაშლა</value>
   </data>
   <data name="AccessDeniedDeleteDialog.Title" xml:space="preserve">
-    <value>تم رفض الوصول</value>
+    <value>წვდომა უარყოფილია</value>
   </data>
   <data name="DriveUnpluggedDialog.Text" xml:space="preserve">
-    <value>الرجاء ادخال المحرك المطلوب لهذا العنصر</value>
+    <value>გთხოვთ, ჩასვათ საჭირო დრაივი ამ ერთეულზე წვდომის მოსაპოვებლად.</value>
   </data>
   <data name="DriveUnpluggedDialog.Title" xml:space="preserve">
-    <value>تم فصل المحرك</value>
+    <value>დრაივი გათიშულია</value>
+  </data>
+  <data name="FileNotFoundDialog.Text" xml:space="preserve">
+    <value>ფაილი, რომელზეც თქვენ ცდილობთ წვდომას, შეიძლება გადატანილი ან წაშლილი იყოს.</value>
   </data>
   <data name="FileNotFoundDialog.Title" xml:space="preserve">
-    <value>‏‏لم يتم العثور على الملف</value>
+    <value>ფაილი არ მოიძებნა</value>
   </data>
   <data name="FileNotFoundPreviewDialog.Text" xml:space="preserve">
-    <value>الملف الذي تحاول استعراضه قد تم نقله او حذفه</value>
+    <value>ფაილი, რომლის გადახედვასაც თქვენ ცდილობთ, შეიძლება გადატანილი ან წაშლილი იყოს.</value>
   </data>
   <data name="FolderNotFoundDialog.Text" xml:space="preserve">
-    <value>الملف الذي تحاول الوصول اليه قد تم نقله او حذفه.</value>
+    <value>საქაღალდე, რომელშიც შესვლას ცდილობთ, შეიძლება გადატანილი ან წაშლილი იყოს.</value>
   </data>
   <data name="FolderNotFoundDialog.Title" xml:space="preserve">
-    <value>هل قمت بحذف هذا الملف؟</value>
+    <value>თქვენ წაშალეთ ეს საქაღალდე?</value>
   </data>
   <data name="FileInUseDeleteDialog.Text" xml:space="preserve">
-    <value>الملف الذي تحاول حذفه يتم حاليا استخذامه عبر برنامج اخر</value>
+    <value>ფაილი, რომლის წაშლასაც თქვენ ცდილობთ, ამჟამად სხვა პროგრამა იყენებს.</value>
   </data>
   <data name="FileInUseDeleteDialog.Title" xml:space="preserve">
-    <value>الملف قيد الاستخدام</value>
+    <value>ფაილი გამოიყენება</value>
   </data>
   <data name="FileInUseDeleteDialog.PrimaryButtonText" xml:space="preserve">
-    <value>حاول مرة أخرى</value>
+    <value>სცადეთ ხელახლა</value>
   </data>
   <data name="FileInUseDeleteDialog.SecondaryButtonText" xml:space="preserve">
-    <value>موافق</value>
+    <value>კარგი</value>
+  </data>
+  <data name="NavToolbarLayout.Text" xml:space="preserve">
+    <value>განლაგება</value>
+  </data>
+  <data name="NavToolbarSelectionOptions.ToolTipService.ToolTip" xml:space="preserve">
+    <value>შერჩევის ვარიანტები</value>
   </data>
   <data name="PropertiesDialogReadOnly.Text" xml:space="preserve">
-    <value>للقراءة فقط</value>
+    <value>წაიკითხეთ-მხოლოდ</value>
   </data>
   <data name="PropertiesDialogHidden.Text" xml:space="preserve">
-    <value>مخفية</value>
+    <value>დამალული</value>
   </data>
   <data name="BaseLayoutContextFlyoutEmptyRecycleBin.Text" xml:space="preserve">
-    <value>إفراغ سلة المهملات</value>
+    <value>სანაგვე ყუთის გასუფთავება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutRestore.Text" xml:space="preserve">
-    <value>استعادة</value>
+    <value>აღდგენა</value>
   </data>
   <data name="DaysAgo" xml:space="preserve">
-    <value>منذ {0} يوم (أيام)</value>
+    <value>{0} დღის წინ</value>
   </data>
   <data name="DayAgo" xml:space="preserve">
-    <value>منذ يوم واحد {0}</value>
+    <value>{0} დღის წინ</value>
   </data>
   <data name="HoursAgo" xml:space="preserve">
-    <value>منذ {0} ساعات</value>
+    <value>{0} საათის წინ</value>
   </data>
   <data name="HourAgo" xml:space="preserve">
-    <value>منذ {0} ساعة</value>
+    <value>{0} საათის წინ</value>
   </data>
   <data name="MinutesAgo" xml:space="preserve">
-    <value>منذ {0} دقائق</value>
+    <value>{0} წუთის წინ</value>
   </data>
   <data name="MinuteAgo" xml:space="preserve">
-    <value>منذ {0} دقيقة</value>
+    <value>{0} წუთის წინ</value>
   </data>
   <data name="SecondsAgo" xml:space="preserve">
-    <value>منذ {0} من الثواني</value>
+    <value>{0} წამის წინ</value>
   </data>
   <data name="SettingsOnStartupOpenASpecificPagePath.PlaceholderText" xml:space="preserve">
-    <value>علامة تبويب جديدة</value>
+    <value>ახალი ჩანართი</value>
   </data>
   <data name="ErrorDialogUnsupportedOperation" xml:space="preserve">
-    <value>العملية التي قمت بها غير مدعومة</value>
+    <value>მოთხოვნილი მოქმედება მხარდაჭერილი არ არის</value>
   </data>
   <data name="DriveFreeSpaceAndCapacity" xml:space="preserve">
-    <value>{0} فارغ من {1}</value>
+    <value>{1} -დან თავისუფალია {0}</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenItemWith.Text" xml:space="preserve">
-    <value>فتح بواسطة</value>
+    <value>გახსნა პროგრამით</value>
   </data>
   <data name="FileNameTeachingTip.Subtitle" xml:space="preserve">
-    <value>اسم الملف يجب ان يحتوي على: \ / : * ? " &lt; &gt; |</value>
+    <value>ნივთის სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \ / : * ? " &lt; &gt; |</value>
   </data>
   <data name="FileNameTeachingTip.CloseButtonContent" xml:space="preserve">
-    <value>موافق</value>
+    <value>კარგი</value>
   </data>
   <data name="RenameDialogSymbolsTip.Text" xml:space="preserve">
-    <value>اسم الملف لا يجب ان يحتوي على: \ / : * ? " &lt; &gt; |</value>
+    <value>ნივთის სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \ / : * ? " &lt; &gt; |</value>
+  </data>
+  <data name="SettingsAboutOpenLogLocationButton.AutomationProperties.Name" xml:space="preserve">
+    <value>ჟურნალის გახსნა</value>
+  </data>
+  <data name="SettingsAboutOpenLogLocationButtonText.Text" xml:space="preserve">
+    <value>ჟურნალის გახსნა</value>
   </data>
   <data name="ItemSelected.Text" xml:space="preserve">
-    <value>تم تحديد العنصر</value>
+    <value>არჩეული ნივთი</value>
   </data>
   <data name="ItemsSelected.Text" xml:space="preserve">
-    <value>عناصر محددة</value>
+    <value>არჩეული ნივთი</value>
   </data>
   <data name="ItemCount.Text" xml:space="preserve">
-    <value>عنصر</value>
+    <value>ნივთი</value>
   </data>
   <data name="ItemsCount.Text" xml:space="preserve">
-    <value>الأصناف</value>
+    <value>ნივთი</value>
   </data>
   <data name="DeleteInProgress.Title" xml:space="preserve">
-    <value>حذف الملفات</value>
+    <value>მიმდინარეობს ფაილების წაშლა</value>
   </data>
   <data name="PasteInProgress.Title" xml:space="preserve">
-    <value>لصق الملف</value>
+    <value>მიმდინარეობს ფაილების ჩასმა</value>
   </data>
   <data name="RecycleInProgress.Title" xml:space="preserve">
-    <value>نقل الى سلة المهملات</value>
+    <value>მიმდინარეობს ფაილების სანაგვე ყუთში გადატანა</value>
   </data>
   <data name="ConfirmEmptyBinDialog.PrimaryButtonText" xml:space="preserve">
-    <value>نعم</value>
+    <value>დიახ</value>
   </data>
   <data name="ConfirmEmptyBinDialog.SecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="ConfirmEmptyBinDialogContent" xml:space="preserve">
-    <value>هل انت متاكد من القيام بحذف جميع الملفات المختارة</value>
+    <value>დარწმუნებული ხართ, რომ გსურთ ყველა ამ ნივთის სამუდამოდ წაშლა?</value>
   </data>
   <data name="ConfirmEmptyBinDialogTitle" xml:space="preserve">
-    <value>إفراغ سلة المحذوفات</value>
+    <value>სანაგვე ყუთის გასუფთავება</value>
   </data>
   <data name="ItemSizeBytes" xml:space="preserve">
-    <value>بايت</value>
+    <value>ბაიტი</value>
   </data>
   <data name="KiloByteSymbol" xml:space="preserve">
-    <value>كيلوبايت</value>
+    <value>კბაიტი</value>
   </data>
   <data name="MegaByteSymbol" xml:space="preserve">
-    <value>ميغابايت</value>
+    <value>მბაიტი</value>
   </data>
   <data name="GigaByteSymbol" xml:space="preserve">
-    <value>غيغابايت</value>
+    <value>გბაიტი</value>
   </data>
   <data name="TeraByteSymbol" xml:space="preserve">
-    <value>تيرابايت</value>
+    <value>ტბაიტი</value>
   </data>
   <data name="PetaByteSymbol" xml:space="preserve">
-    <value>بيتابايت</value>
+    <value>პბაიტი</value>
   </data>
   <data name="ByteSymbol" xml:space="preserve">
-    <value>B</value>
+    <value>უ</value>
   </data>
   <data name="BaseLayoutContextFlyoutRunAsAdmin.Text" xml:space="preserve">
-    <value>تشغيل كمسؤول</value>
+    <value>ადმინისტრატორის სახელით გაშვება</value>
   </data>
   <data name="BitlockerDialog.PrimaryButtonText" xml:space="preserve">
-    <value>إلغاء تأمين</value>
+    <value>განბლოკვა</value>
   </data>
   <data name="BitlockerDialog.SecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="BitlockerDialog.Title" xml:space="preserve">
-    <value>ادخل كلمة السر لفتح المحرك </value>
+    <value>შეიყვანეთ პაროლი დრაივის განსაბლოკად</value>
   </data>
   <data name="BitlockerDialogInputText.PlaceholderText" xml:space="preserve">
-    <value>كلمة مرور</value>
+    <value>პაროლი</value>
   </data>
   <data name="BitlockerInvalidPwDialog.Text" xml:space="preserve">
-    <value>الرجاء التحقق من كلمة المرور والمحاولة مرة اخرة</value>
+    <value>გთხოვთ, გადაამოწმოთ პაროლი და სცადოთ ხელახლა.</value>
   </data>
   <data name="BitlockerInvalidPwDialog.Title" xml:space="preserve">
-    <value>BitLocker خطا</value>
+    <value>BitLocker შეცდომა</value>
   </data>
   <data name="PropertiesFilesAndFoldersCount.Text" xml:space="preserve">
-    <value>المحتويات:</value>
+    <value>შეიცავს:</value>
   </data>
   <data name="PropertiesFilesAndFoldersCountString" xml:space="preserve">
-    <value>{0:#,##0} ملفات, {1:#,##0} حافظات</value>
+    <value>{0:#,##0} ფაილი, {1:#,##0} საქაღალდე</value>
+  </data>
+  <data name="PropertiesFilesFoldersAndLocationsCountString" xml:space="preserve">
+    <value>{0:#,##0} ფაილი, {1:#,##0} საქაღალდე {2:#,##0} მდებარეობიდან</value>
   </data>
   <data name="BaseLayoutContextFlyoutRunAsAnotherUser.Text" xml:space="preserve">
-    <value>التشغيل كمستخدم آخر</value>
+    <value>სხვა მომხმარებლის სახელით გაშვება</value>
   </data>
   <data name="PropertiesDriveItemTypesEquals" xml:space="preserve">
-    <value>جميع انواع {0 }</value>
+    <value>ყველა ტიპის {0}</value>
   </data>
   <data name="PropertiesDriveItemTypeDifferent" xml:space="preserve">
-    <value>انواع مختلفة</value>
+    <value>განსხვავებული ნიმუშები</value>
   </data>
   <data name="PropertiesCombinedItemPath" xml:space="preserve">
-    <value>الجميع في {0}</value>
+    <value>ყველა {0} -ში</value>
   </data>
   <data name="PropertiesDriveUsedSpace.Text" xml:space="preserve">
-    <value>المساحة المستخدمة</value>
+    <value>გამოყენებული სივრცე:</value>
   </data>
   <data name="PropertiesDriveFreeSpace.Text" xml:space="preserve">
-    <value>المساحة الحرة</value>
+    <value>თავისუფალი სივრცე:</value>
   </data>
   <data name="PropertiesDriveCapacity.Text" xml:space="preserve">
-    <value>السعة</value>
+    <value>მოცულობა:</value>
   </data>
   <data name="PropertiesDriveFileSystem.Text" xml:space="preserve">
-    <value>نظام الملفات</value>
+    <value>ფაილის სისტემა:</value>
   </data>
   <data name="JumpListRecentGroupHeader" xml:space="preserve">
-    <value>الأخيرة</value>
+    <value>ბოლოდროინდელი</value>
   </data>
   <data name="TabStripDragAndDropUIOverrideCaption" xml:space="preserve">
-    <value>انقل علامة التبويب الى هنا</value>
+    <value>ჩანართის გადმოტანა აქ</value>
   </data>
   <data name="syncStatusColumn.Header" xml:space="preserve">
-    <value>حالة</value>
+    <value>სტატუსი</value>
   </data>
   <data name="SettingsOnStartupOpenAddPageButton.Content" xml:space="preserve">
-    <value>إضافة صفحة جديدة.</value>
+    <value>ახალი გვერდის დამატება</value>
   </data>
   <data name="SettingsOnStartupPages.Text" xml:space="preserve">
-    <value>الصفحات</value>
+    <value>გვერდები:</value>
   </data>
   <data name="SettingsOnStartupLaunchNewInstance.Content" xml:space="preserve">
-    <value>افتح دائمًا مثيلًا جديدًا</value>
+    <value>ყოველთვის გახსენით ახალი მაგალითი</value>
   </data>
   <data name="SettingsOnStartupLaunchNewTab.Content" xml:space="preserve">
-    <value>افتح المجلد في علامة تبويب جديدة</value>
+    <value>საქაღალდის გახსნა ახალ ჩანართში</value>
   </data>
   <data name="SettingsOnStartupNewInstanceBehavior.Text" xml:space="preserve">
-    <value>عند إطلاق عنصر من jumplist</value>
+    <value>საქაღალდის გახსნისას ფაილებში</value>
   </data>
   <data name="SettingsPreferencesSystemDefaultLanguageOption" xml:space="preserve">
-    <value>ويندوز الافتراضي</value>
+    <value>ვინდოუსის ნაგულისხმევი</value>
   </data>
   <data name="NavigationToolbarVisiblePathNoResults" xml:space="preserve">
-    <value>لا توجد نتائج</value>
+    <value>შედეგები არ არის</value>
   </data>
   <data name="SubDirectoryAccessDenied" xml:space="preserve">
-    <value>لا يمكن الوصول إلى أي عناصر لعرضها</value>
+    <value>საჩვენებლად ვერცერთ ნივთზე ვერ ხერხდება წვდომა</value>
   </data>
   <data name="MoveToFolderCaptionText" xml:space="preserve">
-    <value>نقل إلى ${0}</value>
+    <value>გადატანა {0} -ში</value>
   </data>
   <data name="ErrorDialogSameSourceDestinationFile" xml:space="preserve">
-    <value>‏‏الملفين المصدر والوجهة لهما نفس الاسم.</value>
+    <value>საწყისი და დანიშნულების ფაილის სახელები ერთნაირია.</value>
   </data>
   <data name="ErrorDialogSameSourceDestinationFolder" xml:space="preserve">
-    <value>‏‏المجلد الوجهة هو نفسه المجلد المصدر</value>
+    <value>დანიშნულების საქაღალდე იგივეა, როგორც საწყისი საქაღალდე.</value>
   </data>
   <data name="CopyToFolderCaptionText" xml:space="preserve">
-    <value>نسخ إلى {0}</value>
+    <value>ასლის გადატანა {0} -ში</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutShortcut.Text" xml:space="preserve">
-    <value>إنشاء اختصار</value>
+    <value>მალსახმობის შექმნა</value>
   </data>
   <data name="PropertiesDialogOpenLinkButton.Content" xml:space="preserve">
-    <value>فتح موقع الملف</value>
+    <value>ფაილის ადგილმდებარეობის გახსნა</value>
   </data>
   <data name="PropertiesShortcutItemArgs.Text" xml:space="preserve">
-    <value>‏‏الوسيطات</value>
+    <value>არგუმენტები:</value>
   </data>
   <data name="PropertiesShortcutItemPath.Text" xml:space="preserve">
-    <value>‏‏الوجهة</value>
+    <value>დანიშნულება:</value>
   </data>
   <data name="PropertiesShortcutItemType.Text" xml:space="preserve">
-    <value>نوع الاختصار</value>
+    <value>მალსახმობის ტიპი:</value>
   </data>
   <data name="PropertiesShortcutItemWorkingDir.Text" xml:space="preserve">
-    <value>دليل العمل:</value>
+    <value>სამუშაო კატალოგი:</value>
   </data>
   <data name="PropertiesShortcutTypeApplication" xml:space="preserve">
-    <value>التطبيق</value>
+    <value>აპლიკაცია</value>
   </data>
   <data name="PropertiesShortcutTypeFile" xml:space="preserve">
-    <value>ملف</value>
+    <value>ფაილი</value>
   </data>
   <data name="PropertiesShortcutTypeFolder" xml:space="preserve">
-    <value>مجلد</value>
+    <value>საქაღალდე</value>
   </data>
   <data name="PropertiesShortcutTypeLink" xml:space="preserve">
-    <value>رابط موقع</value>
+    <value>ვებ ბმული</value>
   </data>
   <data name="PropertiesDialogTabGeneral.Content" xml:space="preserve">
-    <value>عام</value>
+    <value>ზოგადი</value>
   </data>
   <data name="PropertiesDialogTabShortcut.Content" xml:space="preserve">
-    <value>اختصار</value>
+    <value>მალსახმობი</value>
   </data>
   <data name="ShortcutFileType" xml:space="preserve">
-    <value>اختصار</value>
+    <value>მალსახმობი</value>
   </data>
   <data name="ShortcutWebLinkFileType" xml:space="preserve">
-    <value>اختصار الإنترنت</value>
+    <value>ინტერნეტ მალსახმობი</value>
   </data>
   <data name="ShortcutCreateNewSuffix" xml:space="preserve">
-    <value>{0} - الاختصار</value>
+    <value>{0} - მალსახმობი</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutOpenFileLocation.Text" xml:space="preserve">
-    <value>فتح موقع الملف</value>
+    <value>ფაილის ადგილმდებარეობის გახსნა</value>
   </data>
   <data name="DriveCapacityUnknown" xml:space="preserve">
-    <value>غير معروف</value>
+    <value>უცნობი</value>
   </data>
   <data name="ExceptionNotificationAccessLogFileButton" xml:space="preserve">
-    <value>افتح موقع السجل</value>
+    <value>ჟურნალის გახსნა</value>
   </data>
   <data name="ExceptionNotificationBody" xml:space="preserve">
-    <value>واجهت التطبيق مشكلة لم يحلها المطورون بعد</value>
+    <value>ფაილებს შეექმნა პრობლემა, რისთვისაც დეველოპერები ჯერ არ მომზადებულან.</value>
   </data>
   <data name="ExceptionNotificationHeader" xml:space="preserve">
-    <value>حدث خطأ ما</value>
+    <value>Რაღაც არასწორად წავიდა!</value>
   </data>
   <data name="ExceptionNotificationReportButton" xml:space="preserve">
-    <value>الإبلاغ عن هذه المشكلة</value>
+    <value>ამ საკითხის გასაჩივრება</value>
   </data>
   <data name="SettingsAboutContributors.Text" xml:space="preserve">
-    <value>‏‏المساهمون</value>
+    <value>კონტრიბუტორები</value>
   </data>
   <data name="SettingsAboutReleaseNotes.Text" xml:space="preserve">
-    <value>ملاحظات الإصدار</value>
+    <value>გამოშვების შენიშვნები</value>
   </data>
   <data name="InvalidItemDialogContent" xml:space="preserve">
-    <value>العنصر المشار إليه إما غير صالح أو لا يمكن الوصول إليه{0}رسالة خطأ{0}{1}</value>
+    <value>მითითებული ნივთი არასწორი ან მიუწვდომელია..{0}შეცდომის შეტყობინება:{0}{1}</value>
   </data>
   <data name="InvalidItemDialogTitle" xml:space="preserve">
-    <value>عنصر غير صالح</value>
+    <value>არასწორი ნივთი</value>
   </data>
   <data name="SettingsAboutVersionTitle" xml:space="preserve">
-    <value>الإصدار</value>
+    <value>ვერსია:</value>
   </data>
   <data name="ShareDialogFailMessage" xml:space="preserve">
-    <value>‏‏لا يوجد شيء لمشاركته الآن.</value>
+    <value>ამჟამად აქ გასაზიარებელი არაფერია...</value>
   </data>
   <data name="ShareDialogMultipleItemsDescription" xml:space="preserve">
-    <value>ستتم مشاركة العناصر التي حددتها</value>
+    <value>ელემენტები, რომლებიც თქვენ მონიშნეთ გაზიარდებიან</value>
   </data>
   <data name="ShareDialogSingleItemDescription" xml:space="preserve">
-    <value>سيتم مشاركة العنصر المحدد</value>
+    <value>მონიშნული ელემენტები გაზიარდებიან</value>
   </data>
   <data name="ShareDialogTitle" xml:space="preserve">
-    <value>المشاركة: {0}%</value>
+    <value>გაზიარდება {0}</value>
   </data>
   <data name="ShareDialogTitleMultipleItems" xml:space="preserve">
-    <value>المشاركة{0} {1}</value>
+    <value>გაზიარდება {0} {1}</value>
   </data>
   <data name="RenameError.ItemDeleted.Text" xml:space="preserve">
-    <value>العنصر الذي تحاول إعادة تسميته لم يعد موجودًا. الرجاء التحقق من الموقع الصحيح للعنصر الذي تريد إعادة تسميته</value>
+    <value>ნივთი, რომლის სახელის გადარქმევასაც თქვენ ცდილობთ აღარ არსებობს. გთხოვთ გადაამოწმოთ იმ ნივთის სწორი მდებარეობა, რომლის სახელის გადარქმევაც გსურთ.</value>
   </data>
   <data name="RenameError.ItemDeleted.Title" xml:space="preserve">
-    <value>‏‏لم يعد العنصر موجودًا</value>
+    <value>ნივთი აღარ არსებობს</value>
   </data>
   <data name="RenameError.NameInvalid.Text" xml:space="preserve">
-    <value>الاسم المحدد غير صالح. يرجى التحقق من اسم العنصر المطلوب وحاول مرة أخرى</value>
+    <value>მითითებული სახელი არასწორი იყო. გთხოვთ შეამოწმოთ სასურველი ნივთის სახელი და ხელახლა სცადოთ.</value>
   </data>
   <data name="RenameError.NameInvalid.Title" xml:space="preserve">
-    <value>اسم العنصر غير صالح</value>
+    <value>არასწორი ნივთის სახელი</value>
   </data>
   <data name="RenameError.TooLong.Text" xml:space="preserve">
-    <value>طول اسم العنصر المحدد يتجاوز الحد الأقصى. يرجى التحقق من الاسم المطلوب وحاول مرة أخرى</value>
+    <value>მითითებული ნივთის სიგრძე აღემატება მაქსიმალურ ლიმიტს. გთხოვთ შეამოწმოთ სასურველი სახელი და ხელახლა სცადოთ.</value>
   </data>
   <data name="RenameError.TooLong.Title" xml:space="preserve">
-    <value>اسم العنصر طويل جدا</value>
+    <value>ნივთის სახელი საკმაოდ გრძელი იყო</value>
   </data>
   <data name="ContextMenuMoreItemsLabel" xml:space="preserve">
-    <value>المزيد</value>
+    <value>მეტი</value>
   </data>
   <data name="ButtonNo.Content" xml:space="preserve">
-    <value>لا</value>
+    <value>არა</value>
   </data>
   <data name="ButtonYes.Content" xml:space="preserve">
-    <value>نعم</value>
+    <value>დიახ</value>
   </data>
   <data name="RestartNotificationText.Text" xml:space="preserve">
-    <value>يحتاج التطبيق إلى إعادة التشغيل من أجل تطبيق إعداد اللغة ، هل ترغب في إعادة تشغيل التطبيق؟</value>
+    <value>ამ პარამეტრების გამოსაყენებლად საჭიროა აპლიკაციის გადატვირთვა, გსურთ აპლიკაციის გადატვირთვა?</value>
   </data>
   <data name="SettingsAboutSupportUs.Text" xml:space="preserve">
-    <value>ادعمنا</value>
+    <value>დაგვიჭირეთ მხარი</value>
   </data>
   <data name="AccessDeniedCreateDialog.Text" xml:space="preserve">
-    <value>لم نتمكن من إنشاء هذا العنصر</value>
+    <value>ჩვენ ვერ შევძელით ამ ერთეულის შექმნა</value>
+  </data>
+  <data name="SettingsDialogCloseButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>დახურვა</value>
   </data>
   <data name="AccessDeniedCreateDialog.Title" xml:space="preserve">
-    <value>تم رفض الوصول</value>
+    <value>წვდომა უარყოფილია</value>
   </data>
   <data name="PropertiesDialogCancelButton.Content" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="VerticalTabViewAddTab.Text" xml:space="preserve">
-    <value>إضافة علامة تبويب</value>
+    <value>ჩანართის დამატება</value>
   </data>
   <data name="VerticalTabViewHeader.Text" xml:space="preserve">
-    <value>فتح علامات التبويب</value>
+    <value>ჩანართების გახსნა</value>
   </data>
   <data name="SettingsMultitaskingTitle.Text" xml:space="preserve">
-    <value>معالجة متعددة</value>
+    <value>მრავალამომსახურება</value>
   </data>
   <data name="SettingsNavMultitasking.Content" xml:space="preserve">
-    <value>تعدد المهام</value>
+    <value>მრავალამომსახურება</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutSetAs.Text" xml:space="preserve">
-    <value>تعيين كـ</value>
+    <value>დაყენება როგორც</value>
   </data>
   <data name="BaseLayoutItemContextFlyoutCopyLocation.Text" xml:space="preserve">
-    <value>نسخ الموقع</value>
+    <value>მდებარეობის ასლის შექმნა</value>
   </data>
   <data name="AddDialog.PrimaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="AddDialog.Title" xml:space="preserve">
-    <value>قم بإنشاء عنصر جديد</value>
+    <value>ახალი ნივთის შექმნა</value>
   </data>
   <data name="AddDialogDescription.Text" xml:space="preserve">
-    <value>اختر نوعًا لهذا العنصر الجديد أدناه</value>
+    <value>აირჩიეთ ნიმუში ამ ახალი ერთეულისთვის ქვემოთ</value>
   </data>
   <data name="AddDialogListFileHeader" xml:space="preserve">
-    <value>ملف</value>
+    <value>ფაილი</value>
   </data>
   <data name="AddDialogListFileSubHeader" xml:space="preserve">
-    <value>قم بإنشاء ملف فارغ</value>
+    <value>ჰქმნის ცარიელ ფაილს</value>
   </data>
   <data name="AddDialogListFolderHeader" xml:space="preserve">
-    <value>مجلد</value>
+    <value>საქაღალდე</value>
   </data>
   <data name="AddDialogListFolderSubHeader" xml:space="preserve">
-    <value>قم بإنشاء ملف فارغ</value>
+    <value>ჰქმნის ცარიელ საქაღალდეს</value>
   </data>
   <data name="BaseLayoutContextFlyoutLayoutMode.Text" xml:space="preserve">
-    <value>وضع التخطيط</value>
+    <value>განლაგების რეჟიმი</value>
   </data>
   <data name="NavBackButton.AutomationProperties.Name" xml:space="preserve">
-    <value>Navigate backwards</value>
+    <value>მართეთ უკან გადასვლები</value>
   </data>
   <data name="NavForwardButton.AutomationProperties.Name" xml:space="preserve">
-    <value>التنقل للأمام</value>
+    <value>მართეთ წინ გადასვლები</value>
   </data>
   <data name="NavResfreshButton.AutomationProperties.Name" xml:space="preserve">
-    <value>قم بتحديث الدليل</value>
+    <value>კატალოგის განახლება</value>
   </data>
   <data name="NavUpButton.AutomationProperties.Name" xml:space="preserve">
-    <value>اصعد دليل واحد</value>
+    <value>ერთი კატალოგით წინ გადასვლა</value>
+  </data>
+  <data name="VerticalTabFlyout.AutomationProperties.Name" xml:space="preserve">
+    <value>ვერტიკალური ჩანართის გამოფრენა</value>
+  </data>
+  <data name="VerticalTabFlyout.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ვერტიკალური ჩანართის გამოფრენა</value>
   </data>
   <data name="SettingsPreferencesEditTerminalApplications.AutomationProperties.Name" xml:space="preserve">
-    <value>تعديل التطبيقات الطرفية</value>
+    <value>ტერმინალის აპლიკაციების შეცვლა</value>
   </data>
   <data name="SettingsPreferencesEditTerminalApplications.ToolTipService.ToolTip" xml:space="preserve">
-    <value>تعديل التطبيقات الطرفية</value>
+    <value>ტერმინალის აპლიკაციების შეცვლა</value>
+  </data>
+  <data name="SettingsPreferencesAppLanguage.Title" xml:space="preserve">
+    <value>ენა</value>
+  </data>
+  <data name="SettingsContextMenuOverflowSwitch.Title" xml:space="preserve">
+    <value>გადავსებული ნივთების ქვემენიუში გადატანა</value>
+  </data>
+  <data name="SettingsRecycleBinSwitch.Title" xml:space="preserve">
+    <value>სანაგვე ურნის ჩამაგრება გვერდითა ზოლში</value>
   </data>
   <data name="PropertySaveErrorMessage.Text" xml:space="preserve">
-    <value>كانت هناك مشكلة في حفظ بعض الخصائص</value>
+    <value>გარკვეული თვისებების დამახსოვრებისას მოხდა შეცდომა.</value>
   </data>
   <data name="PropertySaveErrorDialog.Title" xml:space="preserve">
-    <value>خطأ</value>
+    <value>შეცდომა</value>
   </data>
   <data name="PropertySaveErrorDialog.PrimaryButtonText" xml:space="preserve">
-    <value>إعادة المحاولة</value>
+    <value>სცადეთ ხელახლა</value>
   </data>
   <data name="PropertySaveErrorDialog.SecondaryButtonText" xml:space="preserve">
-    <value>إغلاق على أي حال</value>
+    <value>მაინც დახურვა</value>
   </data>
   <data name="PropertySaveErrorDialog.CloseButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>გაუქმება</value>
   </data>
   <data name="PropertyRatingText" xml:space="preserve">
-    <value>التقييم</value>
+    <value>რეიტინგი</value>
+  </data>
+  <data name="PropertyItemPathDisplay" xml:space="preserve">
+    <value>ნივთის გზა</value>
   </data>
   <data name="PropertyItemTypeText" xml:space="preserve">
-    <value>نوع العنصر</value>
+    <value>ნივთის ნიმუში</value>
   </data>
   <data name="PropertyTitle" xml:space="preserve">
-    <value>العنوان</value>
+    <value>სათაური</value>
   </data>
   <data name="PropertySubject" xml:space="preserve">
-    <value>الموضوع</value>
+    <value>თემა</value>
   </data>
   <data name="PropertyComment" xml:space="preserve">
-    <value>تعليق</value>
+    <value>კომენტარი</value>
   </data>
   <data name="PropertyCopyright" xml:space="preserve">
-    <value>حقوق النشر</value>
+    <value>საავტორო უფლებები</value>
   </data>
   <data name="PropertyDateModified" xml:space="preserve">
-    <value>تاريخ التعديل</value>
+    <value>შეცვლის თარიღი</value>
   </data>
   <data name="PropertyBitDepth" xml:space="preserve">
-    <value>عمق البت</value>
+    <value>Bit სიღრმე</value>
   </data>
   <data name="PropertyDimensions" xml:space="preserve">
-    <value>الأبعاد</value>
+    <value>ზომები</value>
   </data>
   <data name="PropertyHorizontalSize" xml:space="preserve">
-    <value>الحجم الأفقي</value>
+    <value>ჰორიზონტალური ზომა</value>
   </data>
   <data name="PropertyVerticalSize" xml:space="preserve">
-    <value>الحجم العمودي</value>
+    <value>ვერტიკალური ზომა</value>
   </data>
   <data name="PropertyHorizontalResolution" xml:space="preserve">
-    <value>الدقة الأفقية</value>
+    <value>ჰორიზონტალური გარჩევადობა</value>
   </data>
   <data name="PropertyVerticalResolution" xml:space="preserve">
-    <value>الدقة الرأسية</value>
+    <value>ვერტიკალური გარჩევადობა</value>
   </data>
   <data name="PropertyCompressionText" xml:space="preserve">
-    <value>الضغط</value>
+    <value>შეკუმშვა</value>
   </data>
   <data name="PropertyColorSpace" xml:space="preserve">
-    <value>مساحة اللون:</value>
-  </data>
-  <data name="PropertyColorSpace_Value0" xml:space="preserve">
-    <value>scRGB</value>
+    <value>ფერის სივრცე</value>
   </data>
   <data name="PropertyColorSpace_Value65535" xml:space="preserve">
-    <value>غير محدد</value>
+    <value>მიუთითებელი</value>
   </data>
   <data name="PropertyLongitudeDecimal" xml:space="preserve">
-    <value>خط الطول العشري</value>
+    <value>გრძივი ათწილადი</value>
   </data>
   <data name="PropertyLatitudeDecimal" xml:space="preserve">
-    <value>خط العرض العشري</value>
+    <value>გრძედი ათწილადი</value>
   </data>
   <data name="PropertyLatitude" xml:space="preserve">
-    <value>خط العرض</value>
+    <value>გრძედი</value>
   </data>
   <data name="PropertyLongitude" xml:space="preserve">
-    <value>خط الطول</value>
+    <value>გრძედი</value>
   </data>
   <data name="PropertyLatitudeRef" xml:space="preserve">
-    <value>مرجع خط العرض</value>
+    <value>გრძედი</value>
   </data>
   <data name="PropertyLongitudeRef" xml:space="preserve">
-    <value>خط الطول المرجع</value>
+    <value>გრძედი</value>
   </data>
   <data name="PropertyAltitude" xml:space="preserve">
-    <value>‏‏خط الارتفاع</value>
+    <value>სიმაღლე</value>
   </data>
   <data name="PropertyDateTaken" xml:space="preserve">
-    <value>تاريخ الالتقاط</value>
+    <value>აღების თარიღი</value>
   </data>
   <data name="PropertyCameraManufacturer" xml:space="preserve">
-    <value>الشركة المصنعة للكاميرا</value>
+    <value>კამერის მწარმოებელი</value>
   </data>
   <data name="PropertyCameraModel" xml:space="preserve">
-    <value>طراز الكاميرا</value>
+    <value>კამერის მოდელი</value>
   </data>
   <data name="PropertyExposureTime" xml:space="preserve">
-    <value>وقت التعريض</value>
+    <value>გამოფენის დრო</value>
   </data>
   <data name="PropertyFocalLength" xml:space="preserve">
-    <value>الطول البؤري</value>
+    <value>ფოკალური სიგრძე</value>
   </data>
   <data name="PropertyAperture" xml:space="preserve">
-    <value>‏‏ثقب</value>
+    <value>დიაფრაგმა</value>
   </data>
   <data name="PropertyPeopleNames" xml:space="preserve">
-    <value>أسماء الأشخاص</value>
+    <value>ხალხის სახელები</value>
   </data>
   <data name="PropertyChannelCount" xml:space="preserve">
-    <value>العدد الحالي</value>
+    <value>არხების რაოდენობა</value>
   </data>
   <data name="PropertyFormat" xml:space="preserve">
-    <value>تنسيق</value>
+    <value>ფორმატი</value>
   </data>
   <data name="PropertySampleRate" xml:space="preserve">
-    <value>معدل العينة</value>
+    <value>ნიმუშის შეფასება</value>
   </data>
   <data name="PropertyDisplayArtist" xml:space="preserve">
-    <value>فنان</value>
+    <value>ხელოვანი</value>
   </data>
   <data name="PropertyAlbumArtist" xml:space="preserve">
-    <value>مؤدي الألبوم</value>
+    <value>ალბომის შემსრულებელი</value>
   </data>
   <data name="PropertyAlbumTitle" xml:space="preserve">
-    <value>عنوان الألبوم</value>
+    <value>ალბომის სათაური</value>
   </data>
   <data name="PropertyArtist" xml:space="preserve">
-    <value>فنان</value>
+    <value>ხელოვანი</value>
   </data>
   <data name="PropertyBeatsPerMinute" xml:space="preserve">
-    <value>نبضة في الدقيقة</value>
+    <value>ურტყამს ყოველ წუთში</value>
   </data>
   <data name="PropertyComposer" xml:space="preserve">
-    <value>المؤلف</value>
+    <value>კომპოზიტორი</value>
   </data>
   <data name="PropertyConductor" xml:space="preserve">
-    <value>موصل</value>
+    <value>კონდუქტორი</value>
   </data>
   <data name="PropertyDiscNumber" xml:space="preserve">
-    <value>رقم القرص</value>
+    <value>დისკის ნომერი</value>
   </data>
   <data name="PropertyGenre" xml:space="preserve">
-    <value>النوع</value>
+    <value>ჟანრი</value>
   </data>
   <data name="PropertyTrackNumber" xml:space="preserve">
-    <value>رقم المسار</value>
+    <value>ტრეკის ნომერი</value>
   </data>
   <data name="PropertyDuration" xml:space="preserve">
-    <value>المدة</value>
+    <value>ხანგრძლივობა</value>
   </data>
   <data name="PropertyFrameCount" xml:space="preserve">
-    <value>عدد الإطارات</value>
+    <value>ჩარჩოების რაოდენობა</value>
   </data>
   <data name="PropertyProtectionType" xml:space="preserve">
-    <value>نوع الحماية</value>
+    <value>დაცვის ტიპი</value>
   </data>
   <data name="PropertyAuthorUrl" xml:space="preserve">
-    <value>عنوان المؤلف</value>
+    <value>ავტორის მისამართი</value>
   </data>
   <data name="PropertyContentDistributor" xml:space="preserve">
-    <value>موزع المحتوى</value>
+    <value>კონტენტის გამავრცელებელი</value>
   </data>
   <data name="PropertyDateReleased" xml:space="preserve">
-    <value>تاريخ الاصدار</value>
+    <value>გამოშვების თარიღი</value>
   </data>
   <data name="PropertySeriesName" xml:space="preserve">
-    <value>اسم السلسلة</value>
+    <value>სერიის სახელი</value>
   </data>
   <data name="PropertySeasonNumber" xml:space="preserve">
-    <value>رقم الموسم</value>
+    <value>სეზონის ნომერი</value>
   </data>
   <data name="PropertyEpisodeNumber" xml:space="preserve">
-    <value>رقم الحلقة</value>
+    <value>ეპიზოდის ნომერი</value>
   </data>
   <data name="PropertyProducer" xml:space="preserve">
-    <value>المنتج</value>
+    <value>პროდიუსერი</value>
   </data>
   <data name="PropertyPromotionUrl" xml:space="preserve">
-    <value>عنوان الخاص بالترويج</value>
+    <value>მეორე ბმული</value>
   </data>
   <data name="PropertyProviderStyle" xml:space="preserve">
-    <value>أسلوب المزود</value>
+    <value>მომწოდებლის სტილი</value>
   </data>
   <data name="PropertyPublisher" xml:space="preserve">
-    <value>الناشر</value>
+    <value>გამომცემელი</value>
   </data>
   <data name="PropertyThumbnailLargePath" xml:space="preserve">
-    <value>مسار كبير للصورة المصغرة</value>
+    <value>ესკიზის დიდი გზა</value>
+  </data>
+  <data name="PropertyThumbnailLargeUri" xml:space="preserve">
+    <value>ესკიზის დიდი რესურსების ერთიანი იდენტიფიკატორი</value>
+  </data>
+  <data name="PropertyThumbnailSmallPath" xml:space="preserve">
+    <value>ესკიზის პატარა გზა</value>
+  </data>
+  <data name="PropertyThumbnailSmallUri" xml:space="preserve">
+    <value>ესკიზის პატარა რესურსების ერთიანი იდენტიფიკატორი</value>
   </data>
   <data name="PropertyUserWebUrl" xml:space="preserve">
-    <value>User Web Url</value>
+    <value>მომხმარებლის ვებ ბმული</value>
   </data>
   <data name="PropertyWriter" xml:space="preserve">
-    <value>الكاتب</value>
+    <value>მწერალი</value>
   </data>
   <data name="PropertyYear" xml:space="preserve">
-    <value>سنة</value>
+    <value>წელი</value>
   </data>
   <data name="PropertyContributor" xml:space="preserve">
-    <value>المساهم</value>
+    <value>კონტრიბუტორი</value>
   </data>
   <data name="PropertyLastAuthor" xml:space="preserve">
-    <value>الكاتب الأخير</value>
+    <value>ბოლო ავტორი</value>
   </data>
   <data name="PropertyRevisionNumber" xml:space="preserve">
-    <value>رقم المراجعة:</value>
+    <value>შესწორების ნომერი</value>
   </data>
   <data name="PropertyVersion" xml:space="preserve">
-    <value>الإصدار</value>
+    <value>ვერსია</value>
   </data>
   <data name="PropertyDateCreated" xml:space="preserve">
-    <value>تاريخ الإنشاء</value>
+    <value>შექმნის თარიღი</value>
   </data>
   <data name="PropertyDateSaved" xml:space="preserve">
-    <value>تاريخ الحفظ</value>
+    <value>დამახსოვრების თარიღი</value>
   </data>
   <data name="PropertyDatePrinted" xml:space="preserve">
-    <value>[تاريخ الطباعة]</value>
+    <value>დაბეჭდვის თარიღი</value>
   </data>
   <data name="PropertyTotalEditingTime" xml:space="preserve">
-    <value>إجمالي وقت التحرير:</value>
+    <value>რედაქტირების სრული დრო</value>
   </data>
   <data name="PropertyTemplate" xml:space="preserve">
-    <value>القالب</value>
+    <value>შაბლონი</value>
   </data>
   <data name="PropertyWordCount" xml:space="preserve">
-    <value>عدد الكلمات</value>
+    <value>სიტყვების რაოდენობა</value>
   </data>
   <data name="PropertyCharacterCount" xml:space="preserve">
-    <value>عدد الأحرف</value>
+    <value>სიმბოლოების რაოდენობა</value>
   </data>
   <data name="PropertyLineCount" xml:space="preserve">
-    <value>عدد الخط</value>
+    <value>ხაზების რაოდენობა</value>
   </data>
   <data name="PropertyParagraphCount" xml:space="preserve">
-    <value>عدد الفقرات</value>
+    <value>აბზაცების რაოდენობა</value>
   </data>
   <data name="PropertyPageCount" xml:space="preserve">
-    <value>عدد الصفحات</value>
+    <value>გვერდების რაოდენობა</value>
   </data>
   <data name="PropertySlideCount" xml:space="preserve">
-    <value>عدد الشرائح</value>
+    <value>სლაიდების რაოდენობა</value>
   </data>
   <data name="PropertyFrameRate" xml:space="preserve">
-    <value>معدل الإطارات</value>
-  </data>
-  <data name="PropertyEncodingBitrate" xml:space="preserve">
-    <value>ترميز معدل البت</value>
+    <value>კადრების სიხშირე</value>
   </data>
   <data name="PropertyCompression" xml:space="preserve">
-    <value>الضغط</value>
+    <value>შეკუმშვა</value>
   </data>
   <data name="PropertyFrameWidth" xml:space="preserve">
-    <value>عرض الإطار</value>
+    <value>ჩარჩოს სიგანე</value>
   </data>
   <data name="PropertyFrameHeight" xml:space="preserve">
-    <value>ارتفاع الإطار</value>
+    <value>ჩარჩოს სიმაღლე</value>
   </data>
   <data name="PropertyOrientation" xml:space="preserve">
-    <value>الاتجاه</value>
+    <value>ორიენტაცია</value>
   </data>
   <data name="PropertySectionCore" xml:space="preserve">
-    <value>الأساس</value>
+    <value>ძირითადი</value>
   </data>
   <data name="PropertySectionImage" xml:space="preserve">
-    <value>صورة</value>
+    <value>სურათი</value>
   </data>
   <data name="PropertySectionPhoto" xml:space="preserve">
-    <value>صورة</value>
+    <value>ფოტო</value>
   </data>
   <data name="PropertySectionGPS" xml:space="preserve">
     <value>GPS</value>
   </data>
   <data name="PropertySectionMedia" xml:space="preserve">
-    <value>الوسائط</value>
+    <value>მედია</value>
   </data>
   <data name="PropertySectionAudio" xml:space="preserve">
-    <value>الصوت</value>
+    <value>აუდიო</value>
   </data>
   <data name="PropertySectionMusic" xml:space="preserve">
-    <value>موسيقى</value>
+    <value>მუსიკა</value>
   </data>
   <data name="PropertySectionVideo" xml:space="preserve">
-    <value>فيديو</value>
+    <value>ვიდეო</value>
   </data>
   <data name="PropertySectionDocument" xml:space="preserve">
-    <value>مستند</value>
+    <value>დოკუმენტი</value>
   </data>
   <data name="PropertyAddress" xml:space="preserve">
-    <value>العنوان</value>
-  </data>
-  <data name="StatusCenter.AutomationProperties.Name" xml:space="preserve">
-    <value>مركز الحالة</value>
-  </data>
-  <data name="FileItemAutomation" xml:space="preserve">
-    <value>ملف</value>
-  </data>
-  <data name="FolderItemAutomation" xml:space="preserve">
-    <value>مجلد</value>
-  </data>
-  <data name="RecycleBinItemAutomation" xml:space="preserve">
-    <value>عنصر سلة المحذوفات</value>
-  </data>
-  <data name="ShortcutItemAutomation" xml:space="preserve">
-    <value>Shortcut item</value>
-  </data>
-  <data name="DrivesWidgetDescription.Text" xml:space="preserve">
-    <value>محركات الأقراص:</value>
-  </data>
-  <data name="PinToSidebarByDraggingCaptionText" xml:space="preserve">
-    <value>نقل إلى هنا</value>
-  </data>
-  <data name="EjectNotificationHeader" xml:space="preserve">
-    <value>آمنة لإزالة الأجهزة</value>
-  </data>
-  <data name="EjectNotificationBody" xml:space="preserve">
-    <value>يمكن الآن إزالة الجهاز بأمان من الكمبيوتر</value>
-  </data>
-  <data name="EjectNotificationErrorDialogHeader" xml:space="preserve">
-    <value>جهاز إخراج المشكلة</value>
-  </data>
-  <data name="EjectNotificationErrorDialogBody" xml:space="preserve">
-    <value>هذا الجهاز قيد الاستخدام حاليا. أغلق أي برامج أو نوافذ أو علامات تبويب قد تستخدم الجهاز ، ثم حاول مرة أخرى</value>
-  </data>
-  <data name="SideBarEjectDevice.Text" xml:space="preserve">
-    <value>إخراج</value>
-  </data>
-  <data name="HorizontalMultitaskingControlDuplicateTab.Text" xml:space="preserve">
-    <value>‏‏تكرار علامة تبويب</value>
-  </data>
-  <data name="HorizontalMultitaskingControlMoveTabToNewWindow.Text" xml:space="preserve">
-    <value>نقل علامة التبويب إلى نافذة جديدة</value>
-  </data>
-  <data name="HorizontalMultitaskingControlNewTab.Text" xml:space="preserve">
-    <value>علامة تبويب جديدة</value>
-  </data>
-  <data name="ClearPropertiesFlyoutText.Text" xml:space="preserve">
-    <value>قد تحتوي بعض الخصائص على معلومات شخصية</value>
-  </data>
-  <data name="ClearPropertiesFlyoutConfirmation.Content" xml:space="preserve">
-    <value>مسح</value>
-  </data>
-  <data name="ClearPropertiesButton.Content" xml:space="preserve">
-    <value>مسح كافة الخصائص</value>
-  </data>
-  <data name="StatusCenterTeachingTip.Subtitle" xml:space="preserve">
-    <value>تحقق من حالة عمليات الملف هنا</value>
-  </data>
-  <data name="StatusCenterTeachingTip.Title" xml:space="preserve">
-    <value>مركز الحالات</value>
-  </data>
-  <data name="NavSearchButton.AutomationProperties.Name" xml:space="preserve">
-    <value>بحث</value>
-  </data>
-  <data name="SearchPagePathBoxOverrideText" xml:space="preserve">
-    <value>نتائج البحث في</value>
-  </data>
-  <data name="SearchTabHeaderText" xml:space="preserve">
-    <value>نتائج البحث</value>
-  </data>
-  <data name="SettingsAboutContributorsListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>تعرف على من ساهم في الملفات</value>
-  </data>
-  <data name="SettingsAboutReleaseNotesListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>اكتشف الجديد في الملفات</value>
-  </data>
-  <data name="SettingsAboutSubmitFeedbackListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>أرسل للمطورين تقرير مشكلة بمزيد من المعلومات</value>
-  </data>
-  <data name="SettingsAboutSupportUsListViewItem.AutomationProperties.Name" xml:space="preserve">
-    <value>ادعمنا على PayPal</value>
-  </data>
-  <data name="PropertiesDialogTabDetails.Content" xml:space="preserve">
-    <value>التفاصيل</value>
-  </data>
-  <data name="UpdateConsentDialogCloseButtonText" xml:space="preserve">
-    <value>لا</value>
-  </data>
-  <data name="UpdateConsentDialogContent" xml:space="preserve">
-    <value>هل تريد تنزيل أحدث إصدار من الملفات وتثبيته؟</value>
-  </data>
-  <data name="UpdateConsentDialogPrimaryButtonText" xml:space="preserve">
-    <value>نعم</value>
-  </data>
-  <data name="UpdateConsentDialogTitle" xml:space="preserve">
-    <value>التحديثات متوفرة</value>
-  </data>
-  <data name="SettingsContextMenu.Text" xml:space="preserve">
-    <value>تخصيص قائمة سياق النقر بزر الماوس الأيمن</value>
-  </data>
-  <data name="originalPathColumn.Header" xml:space="preserve">
-    <value>المسار الأصلي</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutSortByOriginalPath.Text" xml:space="preserve">
-    <value>المسار الأصلي</value>
-  </data>
-  <data name="AppBarButtonAdd.Label" xml:space="preserve">
-    <value>إضافة</value>
-  </data>
-  <data name="AppBarButtonEdit.Label" xml:space="preserve">
-    <value>تحرير</value>
-  </data>
-  <data name="AppBarButtonRemove.Label" xml:space="preserve">
-    <value>‏‏إزالة</value>
-  </data>
-  <data name="ItemAlreadyExistsDialogCloseButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="StatusCenter.ToolTipService.ToolTip" xml:space="preserve">
-    <value>المهام الجارية</value>
-  </data>
-  <data name="StatusCenterFlyoutTitle.Text" xml:space="preserve">
-    <value>المهام الجارية</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutOpenInNewPane.Text" xml:space="preserve">
-    <value>فتح في الجزء الثانوي</value>
-  </data>
-  <data name="SideBarOpenInNewPane.Text" xml:space="preserve">
-    <value>فتح في الجزء الثانوي</value>
-  </data>
-  <data name="SettingsDualPane.Text" xml:space="preserve">
-    <value>جزء مزدوج</value>
-  </data>
-  <data name="FolderWidgetDescription.Text" xml:space="preserve">
-    <value>المجلدات</value>
-  </data>
-  <data name="NavToolbarDetailsView.ToolTipService.ToolTip" xml:space="preserve">
-    <value>طريقة عرض التفاصيل</value>
-  </data>
-  <data name="NavToolbarDetailsView.AutomationProperties.Name" xml:space="preserve">
-    <value>طريقة عرض التفاصيل</value>
-  </data>
-  <data name="NavToolbarDisplayOptions.Text" xml:space="preserve">
-    <value>خيارات العرض</value>
-  </data>
-  <data name="NavToolbarGridViewLarge.AutomationProperties.Name" xml:space="preserve">
-    <value>عرض الشبكة (كبير)</value>
-  </data>
-  <data name="NavToolbarGridViewLarge.ToolTipService.ToolTip" xml:space="preserve">
-    <value>عرض الشبكة (كبير)</value>
-  </data>
-  <data name="NavToolbarGridViewMedium.AutomationProperties.Name" xml:space="preserve">
-    <value>عرض الشبكة (متوسط)</value>
-  </data>
-  <data name="NavToolbarGridViewMedium.ToolTipService.ToolTip" xml:space="preserve">
-    <value>عرض الشبكة (متوسط)</value>
-  </data>
-  <data name="NavToolbarGridViewSmall.AutomationProperties.Name" xml:space="preserve">
-    <value>عرض الشبكة (صغير)</value>
-  </data>
-  <data name="NavToolbarGridViewSmall.ToolTipService.ToolTip" xml:space="preserve">
-    <value>عرض الشبكة (صغير)</value>
-  </data>
-  <data name="NavToolbarTilesView.AutomationProperties.Name" xml:space="preserve">
-    <value>عرض البلاط</value>
-  </data>
-  <data name="NavToolbarTilesView.ToolTipService.ToolTip" xml:space="preserve">
-    <value>عرض البلاط</value>
-  </data>
-  <data name="NavToolbarShowFileExtensions.Header" xml:space="preserve">
-    <value>إظهار ملحقات الملفات</value>
-  </data>
-  <data name="NavToolbarShowHiddenItems.Header" xml:space="preserve">
-    <value>إظهار العناصر المخفية</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutSortByDateDeleted.Text" xml:space="preserve">
-    <value>‏‏تاريخ الحذف</value>
-  </data>
-  <data name="dateDeletedColumn.Header" xml:space="preserve">
-    <value>‏‏تاريخ الحذف</value>
-  </data>
-  <data name="SettingsTabCustomization.Text" xml:space="preserve">
-    <value>تخصيص علامة التبويب</value>
-  </data>
-  <data name="SettingsWhenLaunchingFiles.Text" xml:space="preserve">
-    <value>عند تشغيل الملفات</value>
-  </data>
-  <data name="BundlesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>خيارات إضافية</value>
-  </data>
-  <data name="BundlesWidgetAddBundleConfirm.Content" xml:space="preserve">
-    <value>تأكيد</value>
-  </data>
-  <data name="BundlesWidgetOptionsFlyoutExportBundlesMenuItem.Text" xml:space="preserve">
-    <value>حزم التصدير</value>
-  </data>
-  <data name="BundlesWidgetOptionsFlyoutImportBundlesMenuItem.Text" xml:space="preserve">
-    <value>حزم الاستيراد</value>
-  </data>
-  <data name="BundlesWidgetAddBundleErrorAlreadyExists" xml:space="preserve">
-    <value>توجد حزمة بنفس الاسم بالفعل</value>
-  </data>
-  <data name="BundlesWidgetAddBundleErrorInputEmpty" xml:space="preserve">
-    <value>لا يمكن ترك حقل الإدخال فارغًا</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleItem.Text" xml:space="preserve">
-    <value>إنشاء حزمة</value>
-  </data>
-  <data name="BundlesWidgetAddBundleInput.PlaceholderText" xml:space="preserve">
-    <value>أدخل اسم الحزمة</value>
-  </data>
-  <data name="BundlesWidgetAddBundleNameInput.PlaceholderText" xml:space="preserve">
-    <value>أدخل اسم الحزمة</value>
-  </data>
-  <data name="BundleItemFlyouOpenInNewTabMenuItem.Text" xml:space="preserve">
-    <value>فتح في علامة تبويب جديدة</value>
-  </data>
-  <data name="BundleItemFlyouOpenItemLocationMenuItem.Text" xml:space="preserve">
-    <value>فتح موقع العنصر</value>
-  </data>
-  <data name="BundleItemFlyouRemoveFromBundleMenuItem.Text" xml:space="preserve">
-    <value>إزالة من الحزمة</value>
-  </data>
-  <data name="BundleOptionsFlyoutRemoveBundleMenuItem.Text" xml:space="preserve">
-    <value>إزالة الحزمة</value>
-  </data>
-  <data name="BundlesWidgetHeader.Text" xml:space="preserve">
-    <value>الحزم</value>
-  </data>
-  <data name="BundleNoContentsTextBlock.Text" xml:space="preserve">
-    <value>قم بسحب وإسقاط أي ملف أو مجلد هنا للوصول إليه بسرعة</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleConfirmButton.Content" xml:space="preserve">
-    <value>تأكيد</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleInput.PlaceholderText" xml:space="preserve">
-    <value>أدخل اسم الحزمة</value>
-  </data>
-  <data name="BundlesWidgetRenameBundleDialogCloseButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="BundlesWidgetRenameBundleDialogInputPlaceholderText" xml:space="preserve">
-    <value>الاسم المطلوب</value>
-  </data>
-  <data name="BundlesWidgetRenameBundleDialogPrimaryButtonText" xml:space="preserve">
-    <value>تأكيد</value>
-  </data>
-  <data name="BundlesWidgetRenameBundleDialogSubtitleText" xml:space="preserve">
-    <value>إدخال اسم جديد</value>
-  </data>
-  <data name="BundlesWidgetRenameBundleDialogTitleText" xml:space="preserve">
-    <value>إعادة تسمية {0}</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleDialogTitleText" xml:space="preserve">
-    <value>إنشاء حزمة</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleDialogCloseButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleDialogPrimaryButtonText" xml:space="preserve">
-    <value>تأكيد</value>
-  </data>
-  <data name="BundlesWidgetCreateBundleDialogSubtitleText" xml:space="preserve">
-    <value>‏‏إضافة مجموعة</value>
-  </data>
-  <data name="BundlesWidgetOptionsFlyoutCreateBundleMenuItem.Text" xml:space="preserve">
-    <value>إنشاء حزمة</value>
-  </data>
-  <data name="BundleOptionsFlyoutRenameBundleMenuItem.Text" xml:space="preserve">
-    <value>إعادة تسمية الحزمة</value>
-  </data>
-  <data name="BundlesWidgetAddBundleInputPlaceholderText" xml:space="preserve">
-    <value>الاسم المطلوب</value>
-  </data>
-  <data name="PropertyItemPathDisplay" xml:space="preserve">
-    <value>مسار العنصر</value>
-  </data>
-  <data name="PropertyItemName" xml:space="preserve">
-    <value>اسم الصنف</value>
-  </data>
-  <data name="Network" xml:space="preserve">
-    <value>الشبكة</value>
-  </data>
-  <data name="DrivesWidgetContextFlyoutPropertiesMenuItem.Text" xml:space="preserve">
-    <value>خصائص</value>
-  </data>
-  <data name="CloudDriveSyncStatus_Online" xml:space="preserve">
-    <value>التوفر عند الاتصال</value>
-  </data>
-  <data name="CloudDriveSyncStatus_Offline" xml:space="preserve">
-    <value>‏‏متوفر دون اتصال</value>
-  </data>
-  <data name="CloudDriveSyncStatus_Sync" xml:space="preserve">
-    <value>‏‏مزامنة</value>
-  </data>
-  <data name="ItemSizeNotCalcluated" xml:space="preserve">
-    <value>غير محسوب</value>
-  </data>
-  <data name="CloudDriveSyncStatus_Unknown" xml:space="preserve">
-    <value>غير معروف</value>
-  </data>
-  <data name="PreviewPaneFileDetails.AutomationProperties.Name" xml:space="preserve">
-    <value>تفاصيل الملف</value>
-  </data>
-  <data name="SettingsAboutDocumentation.Text" xml:space="preserve">
-    <value>الوثائق</value>
-  </data>
-  <data name="DriveTypeFloppyDisk" xml:space="preserve">
-    <value>محرك الأقراص المرنة</value>
-  </data>
-  <data name="DriveTypeNetwork" xml:space="preserve">
-    <value>محرك أقراص الشبكة</value>
-  </data>
-  <data name="DriveTypeUnknown" xml:space="preserve">
-    <value>غير معروف</value>
-  </data>
-  <data name="BaseLayoutContextFlyoutSortByDateCreated.Text" xml:space="preserve">
-    <value>تاريخ الإنشاء</value>
-  </data>
-  <data name="DateCreatedColumn.Header" xml:space="preserve">
-    <value>تاريخ الإنشاء</value>
-  </data>
-  <data name="DrivesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>خيارات إضافية</value>
-  </data>
-  <data name="DrivesWidgetOptionsFlyoutMapNetDriveMenuItem.Text" xml:space="preserve">
-    <value>تعيين محرك أقراص الشبكة</value>
-  </data>
-  <data name="SideBarDisconnectNetworkDrive.Text" xml:space="preserve">
-    <value>قطع الاتصال</value>
-  </data>
-  <data name="SidebarFavorites" xml:space="preserve">
-    <value>المفضلة</value>
-  </data>
-  <data name="Browse" xml:space="preserve">
-    <value>تصفح</value>
-  </data>
-  <data name="DetailsPanePreviewNotAvaliableText" xml:space="preserve">
-    <value>المعاينة غير متوفرة</value>
-  </data>
-  <data name="PreviewPaneDetailsNotAvailableText" xml:space="preserve">
-    <value>لا تتوفر تفاصيل.</value>
-  </data>
-  <data name="NoItemSelected" xml:space="preserve">
-    <value>لم يتم تحديد أي صنف</value>
-  </data>
-  <data name="PropertyItemTarget" xml:space="preserve">
-    <value>الهدف</value>
-  </data>
-  <data name="PropertyItemArguments" xml:space="preserve">
-    <value>‏‏الوسيطات</value>
-  </data>
-  <data name="SidebarLibraries" xml:space="preserve">
-    <value>المكتبات</value>
-  </data>
-  <data name="PropertyItemCount" xml:space="preserve">
-    <value>عدد العناصر</value>
-  </data>
-  <data name="StatusUnknownError" xml:space="preserve">
-    <value>An unknown error has occurred.</value>
-  </data>
-  <data name="StatusCopyComplete" xml:space="preserve">
-    <value>نسخة غير كاملة</value>
-  </data>
-  <data name="ElevateConfirmDialog.CloseButtonText" xml:space="preserve">
-    <value>لا</value>
-  </data>
-  <data name="ElevateConfirmDialog.PrimaryButtonText" xml:space="preserve">
-    <value>نعم</value>
-  </data>
-  <data name="HorizontalMultitaskingControlCloseTabsToTheRight.Text" xml:space="preserve">
-    <value>إغلاق علامات التبويب على اليسار</value>
-  </data>
-  <data name="FullTrustStatusTeachingTip.Title" xml:space="preserve">
-    <value>المسؤول</value>
-  </data>
-  <data name="ItemTypeLibrary" xml:space="preserve">
-    <value>مكتبة</value>
-  </data>
-  <data name="LibraryItemAutomation" xml:space="preserve">
-    <value>مكتبة</value>
-  </data>
-  <data name="PropertiesDialogTabLibrary.Content" xml:space="preserve">
-    <value>مكتبة</value>
-  </data>
-  <data name="LibraryLocations.Text" xml:space="preserve">
-    <value>المواقع</value>
-  </data>
-  <data name="LibraryLocationsButtonAdd.Label" xml:space="preserve">
-    <value>إضافة</value>
-  </data>
-  <data name="LibraryLocationsButtonSetDefault.Label" xml:space="preserve">
-    <value>افتراضي</value>
-  </data>
-  <data name="LibraryLocationsButtonRemove.Label" xml:space="preserve">
-    <value>‏‏إزالة</value>
-  </data>
-  <data name="DialogCreateLibraryButtonText" xml:space="preserve">
-    <value>إنشاء</value>
-  </data>
-  <data name="DialogCancelButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="DialogDeleteLibraryButtonText" xml:space="preserve">
-    <value>حذف</value>
-  </data>
-  <data name="PropertyISO" xml:space="preserve">
-    <value>‏‏السرعة وفق ISO</value>
-  </data>
-  <data name="CopyItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>نسخ</value>
-  </data>
-  <data name="CopyItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="MoveItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>‏‏نقل</value>
-  </data>
-  <data name="MoveItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="DeleteItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>حذف</value>
-  </data>
-  <data name="DeleteItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="DeleteItemsDialogSubtitleMultiple" xml:space="preserve">
-    <value>سيتم حذف {0} من العناصر.</value>
-  </data>
-  <data name="ConflictingItemsDialogPrimaryButtonText" xml:space="preserve">
-    <value>‏‏متابعة</value>
-  </data>
-  <data name="ConflictingItemsDialogSecondaryButtonText" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="DeleteItemsDialogPermanentlyDeleteCheckBox.Content" xml:space="preserve">
-    <value>حذف دائم</value>
-  </data>
-  <data name="SearchUnindexedItemsLabel.Text" xml:space="preserve">
-    <value>ألم تجد ما تبحث عنه؟</value>
-  </data>
-  <data name="ConflictingItemsDialogItemOptionSkip.Text" xml:space="preserve">
-    <value>‏‏تخطي</value>
-  </data>
-  <data name="ConflictingItemsDialogOptionSkip.Text" xml:space="preserve">
-    <value>‏‏تخطي</value>
-  </data>
-  <data name="ConflictingItemsDialogTakenActionSkip" xml:space="preserve">
-    <value>‏‏تخطي</value>
-  </data>
-  <data name="ConflictingItemsDialogUndoOption.Text" xml:space="preserve">
-    <value>تراجع</value>
-  </data>
-  <data name="ToolTipDescriptionName" xml:space="preserve">
-    <value>الاسم:</value>
-  </data>
-  <data name="ToolTipDescriptionType" xml:space="preserve">
-    <value>النوع</value>
-  </data>
-  <data name="ToolTipDescriptionDate" xml:space="preserve">
-    <value>تم تعديل التاريخ:</value>
-  </data>
-  <data name="NavToolbarSelectionOptions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>خيارات التحديد</value>
+    <value>მისამართი</value>
   </data>
   <data name="NavToolbarSelectionOptions.AutomationProperties.Name" xml:space="preserve">
-    <value>خيارات التحديد</value>
-  </data>
-  <data name="HorizontalMultitaskingControlAddButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>علامة تبويب جديدة	Ctrl+T</value>
-  </data>
-  <data name="HorizontalMultitaskingControlCloseButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>إغلاق علامة التبويب	Ctrl+W</value>
-  </data>
-  <data name="OpenItemsWithCaptionText" xml:space="preserve">
-    <value>فتح باستخدام</value>
-  </data>
-  <data name="NavToolbarGroupByRadioButtons.Header" xml:space="preserve">
-    <value>تجميع حسب</value>
-  </data>
-  <data name="NavToolbarSortByRadioButtons.Header" xml:space="preserve">
-    <value>فرز حسب</value>
-  </data>
-  <data name="NavToolbarSortDirectionRadioButtons.Header" xml:space="preserve">
-    <value>اتجاه الفرز</value>
-  </data>
-  <data name="ItemSizeText_Huge" xml:space="preserve">
-    <value>ضخم</value>
-  </data>
-  <data name="ItemSizeText_Large" xml:space="preserve">
-    <value>كبير</value>
-  </data>
-  <data name="ItemSizeText_Medium" xml:space="preserve">
-    <value>متوسط</value>
-  </data>
-  <data name="ItemSizeText_Small" xml:space="preserve">
-    <value>صغير</value>
-  </data>
-  <data name="ItemSizeText_Tiny" xml:space="preserve">
-    <value>صغير جداً</value>
-  </data>
-  <data name="ItemTimeText_Today" xml:space="preserve">
-    <value>اليوم</value>
-  </data>
-  <data name="ItemTimeText_Yesterday" xml:space="preserve">
-    <value>أمس</value>
-  </data>
-  <data name="ItemTimeText_ThisWeek" xml:space="preserve">
-    <value>‏‏في وقت سابق هذا الأسبوع</value>
-  </data>
-  <data name="ItemTimeText_LastWeek" xml:space="preserve">
-    <value>الأسبوع الماضي</value>
-  </data>
-  <data name="ItemTimeText_ThisMonth" xml:space="preserve">
-    <value>هذا الشهر</value>
-  </data>
-  <data name="ItemTimeText_LastMonth" xml:space="preserve">
-    <value>الشهر الماضي</value>
-  </data>
-  <data name="ItemTimeText_ThisYear" xml:space="preserve">
-    <value>هذا العام</value>
-  </data>
-  <data name="ItemTimeText_Older" xml:space="preserve">
-    <value>الأقدم</value>
-  </data>
-  <data name="ItemTimeText_Before" xml:space="preserve">
-    <value>قبل |0</value>
-  </data>
-  <data name="GroupItemsCount_Singular" xml:space="preserve">
-    <value>{0} عنصر</value>
-  </data>
-  <data name="GroupItemsCount_Plural" xml:space="preserve">
-    <value>{0} من العناصر</value>
-  </data>
-  <data name="HorizontalMultitaskingControlReopenClosedTab.Text" xml:space="preserve">
-    <value>إعادة فتح علامة التبويب المغلقة</value>
-  </data>
-  <data name="SettingsAboutPrivacyPolicy.Text" xml:space="preserve">
-    <value>نهج الخصوصية</value>
-  </data>
-  <data name="RenameFileDialogTitle" xml:space="preserve">
-    <value>إعادة تسمية</value>
-  </data>
-  <data name="StatusCopyingItemsDetails_Singular" xml:space="preserve">
-    <value>نسخ {0} عنصر إلى {1}</value>
-  </data>
-  <data name="StatusCopyingItemsDetails_Plural" xml:space="preserve">
-    <value>نسخ {0} عنصر/عناصر إلى {1}</value>
-  </data>
-  <data name="StatusDeletingItemsDetails_Singular" xml:space="preserve">
-    <value>حذف {0} عنصر من {1}</value>
-  </data>
-  <data name="StatusDeletingItemsDetails_Plural" xml:space="preserve">
-    <value>حذف {0} عنصر/عناصر من {1}</value>
-  </data>
-  <data name="MoveInProgress" xml:space="preserve">
-    <value>نقل العناصر</value>
-  </data>
-  <data name="CopyInProgress.Title" xml:space="preserve">
-    <value>نسخ العناصر</value>
-  </data>
-  <data name="StatusCancellingOp" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="StatusCenterDismissBannerButton.AutomationProperties.Name" xml:space="preserve">
-    <value>تجاهل</value>
-  </data>
-  <data name="StatusCenterDismissBannerButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>تجاهل</value>
-  </data>
-  <data name="StatusCenterCancelBannerButton.AutomationProperties.Name" xml:space="preserve">
-    <value>إلغاء الأمر</value>
-  </data>
-  <data name="StatusCenterCancelBannerButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>إلغاء الأمر</value>
+    <value>შერჩევის ვარიანტები</value>
   </data>
   <data name="NavToolbarSelectionOptions.Label" xml:space="preserve">
-    <value>تحديد</value>
+    <value>არჩევა</value>
   </data>
-  <data name="NavToolbarLayoutOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>تخطيط</value>
+  <data name="StatusCenter.AutomationProperties.Name" xml:space="preserve">
+    <value>სტატუს ცენტრი</value>
   </data>
-  <data name="NavToolbarLayoutOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>تخطيط</value>
+  <data name="SettingsOpenItemsWithOneclick.Title" xml:space="preserve">
+    <value>ელემენტების გახსნა ერთი დაჭერით</value>
   </data>
-  <data name="NavToolbarLayoutOptionsButton.Label" xml:space="preserve">
-    <value>تخطيط</value>
+  <data name="FileItemAutomation" xml:space="preserve">
+    <value>ფაილი</value>
   </data>
-  <data name="PreviewPaneToggle.Label" xml:space="preserve">
-    <value>معاينة</value>
+  <data name="FolderItemAutomation" xml:space="preserve">
+    <value>საქაღალდე</value>
   </data>
-  <data name="NavToolbarSortOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>فرز</value>
+  <data name="RecycleBinItemAutomation" xml:space="preserve">
+    <value>სანაგვე ურნის ნივთი</value>
   </data>
-  <data name="NavToolbarSortOptionsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>فرز</value>
+  <data name="ShortcutItemAutomation" xml:space="preserve">
+    <value>მალსახმობის ელემენტი</value>
   </data>
-  <data name="NavToolbarSortOptionsButton.Label" xml:space="preserve">
-    <value>فرز</value>
+  <data name="DrivesWidgetDescription.Text" xml:space="preserve">
+    <value>დისკები</value>
   </data>
-  <data name="NavToolbarLayout.Text" xml:space="preserve">
-    <value>تخطيط</value>
+  <data name="PinToSidebarByDraggingCaptionText" xml:space="preserve">
+    <value>აქ გადმოტანა</value>
   </data>
-  <data name="SettingsDialogCloseButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>إغلاق</value>
+  <data name="EjectNotificationHeader" xml:space="preserve">
+    <value>უსაფრთხოა აპარატურის ამოშლა</value>
   </data>
-  <data name="BaseLayoutContextFlyoutSortBySyncStatus.Text" xml:space="preserve">
-    <value>‏‏حالة المزامنة</value>
+  <data name="EjectNotificationBody" xml:space="preserve">
+    <value>მოწყობილობა უკვე შესაძლებელია უსაფრთხოდ ამოიშალოს კომპიუტერიდან.</value>
   </data>
-  <data name="NavigationToolbarNewWindow.Label" xml:space="preserve">
-    <value>نافذة جديدة</value>
+  <data name="EjectNotificationErrorDialogHeader" xml:space="preserve">
+    <value>პრობლემა მოწყობილობის მოცილებისას</value>
   </data>
-  <data name="NavigationToolbarCopyPath.Label" xml:space="preserve">
-    <value>نسخ الموقع</value>
+  <data name="EjectNotificationErrorDialogBody" xml:space="preserve">
+    <value>ეს მოწყობილობა ამჟამად გამოიყენება. დახურეთ ნებისმიერი პროგრამა, ფანჯარა ან ჩანართი, რომელიც შესაძლოა მოწყობილობას იყენებდეს და სცადეთ ხელახლა.</value>
   </data>
-  <data name="NavigationToolbarPaste.Label" xml:space="preserve">
-    <value>لصق</value>
+  <data name="SideBarEjectDevice.Text" xml:space="preserve">
+    <value>მოცილება</value>
   </data>
-  <data name="BaseLayoutContextFlyoutNew.Label" xml:space="preserve">
-    <value>جديدة</value>
+  <data name="HorizontalMultitaskingControlDuplicateTab.Text" xml:space="preserve">
+    <value>ჩანართის გაორება</value>
   </data>
-  <data name="PropertiesDialogTabSecurity.Content" xml:space="preserve">
-    <value>الأمان</value>
+  <data name="HorizontalMultitaskingControlMoveTabToNewWindow.Text" xml:space="preserve">
+    <value>ჩანართის ახალ ფანჯარაში გადატანა</value>
   </data>
-  <data name="SecurityAdvancedPermissions.Text" xml:space="preserve">
-    <value>أذونات متقدمة:</value>
+  <data name="HorizontalMultitaskingControlNewTab.Text" xml:space="preserve">
+    <value>ახალი ჩანართი</value>
   </data>
-  <data name="SecurityAllowLabel.Text" xml:space="preserve">
-    <value>السماح</value>
-  </data>
-  <data name="SecurityDenyLabel.Text" xml:space="preserve">
-    <value>رفض</value>
-  </data>
-  <data name="SecurityFullControlLabel.Text" xml:space="preserve">
-    <value>تحكم كامل</value>
-  </data>
-  <data name="SecurityModifyLabel.Text" xml:space="preserve">
-    <value>تاريخ التعديل</value>
-  </data>
-  <data name="SecurityPermissionsLabel.Text" xml:space="preserve">
-    <value>الإذن لـ</value>
-  </data>
-  <data name="SecurityReadLabel.Text" xml:space="preserve">
-    <value>قراءة</value>
-  </data>
-  <data name="SecurityUsersGroupLabel.Text" xml:space="preserve">
-    <value>أسماء المجموعات أو المستخدمين:</value>
-  </data>
-  <data name="SecurityWriteLabel.Text" xml:space="preserve">
-    <value>كتابة</value>
-  </data>
-  <data name="SecurityUnknownAccount" xml:space="preserve">
-    <value>حساب غير معروف</value>
-  </data>
-  <data name="SecurityOwnerLabel.Text" xml:space="preserve">
-    <value>المالك</value>
-  </data>
-  <data name="SettingsNavSidebar.Content" xml:space="preserve">
-    <value>شريط جانبي</value>
-  </data>
-  <data name="SettingsSidebarTitle.Text" xml:space="preserve">
-    <value>شريط جانبي</value>
-  </data>
-  <data name="DefaultTheme" xml:space="preserve">
-    <value>افتراضي</value>
+  <data name="HorizontalMultitaskingControlAddButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ახალი ჩანართი (Ctrl+T)</value>
   </data>
   <data name="HorizontalMultitaskingControlAddButton.AutomationProperties.Name" xml:space="preserve">
-    <value>علامة تبويب جديدة	Ctrl+T</value>
+    <value>ახალი ჩანართი (Ctrl+T)</value>
   </data>
-  <data name="SideBarCreateNewLibrary.Text" xml:space="preserve">
-    <value>إنشاء مكتبة جديدة.</value>
+  <data name="HorizontalMultitaskingControlCloseButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ჩანართის დახურვა (Ctrl+W)</value>
   </data>
-  <data name="SideBarRestoreLibraries.Text" xml:space="preserve">
-    <value>استعادة المكتبات الافتراضية</value>
+  <data name="ClearPropertiesFlyoutText.Text" xml:space="preserve">
+    <value>ზოგიერთი თვისება შეიძლება შეიცავდეს პირად ინფორმაციას.</value>
   </data>
-  <data name="DialogRestoreLibrariesButtonText" xml:space="preserve">
-    <value>استعادة</value>
+  <data name="ClearPropertiesFlyoutConfirmation.Content" xml:space="preserve">
+    <value>გასუფთავება</value>
   </data>
-  <data name="RecentFilesHeader.Text" xml:space="preserve">
-    <value>الملفات الأخيرة</value>
+  <data name="ClearPropertiesButton.Content" xml:space="preserve">
+    <value>ყველა თვისების გასუფთავება</value>
   </data>
-  <data name="PropertyFileOwner" xml:space="preserve">
-    <value>المالك</value>
+  <data name="StatusCenterTeachingTip.Subtitle" xml:space="preserve">
+    <value>შეამოწმეთ ფაილების მოქმედებების სტატუსი აქ</value>
   </data>
-  <data name="SecuritySpecialLabel.Text" xml:space="preserve">
-    <value>خاص</value>
+  <data name="StatusCenterTeachingTip.Title" xml:space="preserve">
+    <value>სტატუს ცენტრი</value>
   </data>
-  <data name="SecurityAdvancedAccessLabel.Text" xml:space="preserve">
-    <value>الوصول</value>
+  <data name="NavSearchButton.AutomationProperties.Name" xml:space="preserve">
+    <value>ძებნა</value>
   </data>
-  <data name="SecurityAdvancedAppliesToLabel.Text" xml:space="preserve">
-    <value>ينطبق على</value>
+  <data name="SearchPagePathBoxOverrideText" xml:space="preserve">
+    <value>ძიების შედეგები</value>
   </data>
-  <data name="SecurityAdvancedEntityLabel.Text" xml:space="preserve">
-    <value>الكيان</value>
+  <data name="SearchTabHeaderText" xml:space="preserve">
+    <value>ძიების შედეგები</value>
   </data>
-  <data name="SecurityAdvancedFlagsFilesLabel" xml:space="preserve">
-    <value>الملفات</value>
+  <data name="SettingsAboutContributorsListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>იხილეთ ვინ შეიტანა წვლილი Files -ში</value>
   </data>
-  <data name="SecurityAdvancedFlagsSubfoldersLabel" xml:space="preserve">
-    <value>المجلدات الفرعية</value>
+  <data name="SettingsAboutReleaseNotesListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>შეიტყვეთ რა არის ახალი Files -ში</value>
   </data>
-  <data name="SecurityAdvancedInheritedLabel.Text" xml:space="preserve">
-    <value>موروث</value>
+  <data name="SettingsAboutSubmitFeedbackListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>გაუგზავნეთ დეველოპერებს საკითხის საჩივარი ვრცელი ინფორმაციით</value>
   </data>
-  <data name="SecurityAdvancedInheritedNoLabel" xml:space="preserve">
-    <value>لا</value>
+  <data name="SettingsAboutSupportUsListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>დაგვიჭირეთ მხარი PayPal -ზე</value>
   </data>
-  <data name="SecurityAdvancedInheritedYesLabel" xml:space="preserve">
-    <value>نعم</value>
+  <data name="SettingsListAndSortDirectoriesAlongsideFiles.Title" xml:space="preserve">
+    <value>კატალოგების ჩამომწკრივება და დალაგება ფაილებთან ერთად</value>
   </data>
-  <data name="SecurityAdvancedPermissionsLabel.Text" xml:space="preserve">
-    <value>الأذونات</value>
+  <data name="PropertiesDialogTabDetails.Content" xml:space="preserve">
+    <value>დეტალები</value>
   </data>
-  <data name="SecurityAdvancedTypeLabel.Text" xml:space="preserve">
-    <value>النوع</value>
+  <data name="UpdateConsentDialogCloseButtonText" xml:space="preserve">
+    <value>არა</value>
   </data>
-  <data name="SecurityAdvancedSpecialLabel.Text" xml:space="preserve">
-    <value>خاص</value>
+  <data name="UpdateConsentDialogContent" xml:space="preserve">
+    <value>გსურთ ფაილების უახლესი ვერსიის გადმოწერა და დაყენება?</value>
   </data>
-  <data name="SecurityAdvancedFolderFiles.Text" xml:space="preserve">
-    <value>هذا المجلد والملفات</value>
+  <data name="UpdateConsentDialogPrimaryButtonText" xml:space="preserve">
+    <value>დიახ</value>
   </data>
-  <data name="SecurityAdvancedFolderSubfoldersFiles.Text" xml:space="preserve">
-    <value>هذا المجلد والمجلدات الفرعية والملفات</value>
-  </data>
-  <data name="SecurityAdvancedFolderSubfolders.Text" xml:space="preserve">
-    <value>هذا المجلد والمجلدات الفرعية</value>
-  </data>
-  <data name="SecurityChangePermissionsLabel.Text" xml:space="preserve">
-    <value>تغيير الإذن</value>
-  </data>
-  <data name="SecurityCreateFilesLabel.Text" xml:space="preserve">
-    <value>إنشاء ملفات</value>
-  </data>
-  <data name="SecurityDeleteLabel.Text" xml:space="preserve">
-    <value>حذف</value>
-  </data>
-  <data name="SecurityReadAttributesLabel.Text" xml:space="preserve">
-    <value>قراءة السمات</value>
-  </data>
-  <data name="SecurityReadExtendedAttributesLabel.Text" xml:space="preserve">
-    <value>قراءة السمات الموسعة</value>
-  </data>
-  <data name="SecurityReadPermissionsLabel.Text" xml:space="preserve">
-    <value>أذونات القراءة</value>
-  </data>
-  <data name="SecurityTakeOwnershipLabel.Text" xml:space="preserve">
-    <value>الحصول على الملكية</value>
-  </data>
-  <data name="SecurityWriteAttributesLabel.Text" xml:space="preserve">
-    <value>كتابة السمات</value>
-  </data>
-  <data name="SecurityWriteExtendedAttributesLabel.Text" xml:space="preserve">
-    <value>كتابة السمات الموسعة</value>
-  </data>
-  <data name="SecurityNoneLabel.Text" xml:space="preserve">
-    <value>بلا</value>
-  </data>
-  <data name="SecurityAdvancedInheritedEnable.Text" xml:space="preserve">
-    <value>تمكين التوريث</value>
-  </data>
-  <data name="NavigationToolbarClosePane.Label" xml:space="preserve">
-    <value>إغلاق الجزء</value>
-  </data>
-  <data name="PropertyFileDescription" xml:space="preserve">
-    <value>‏‏وصف الملف</value>
-  </data>
-  <data name="PropertyCompany" xml:space="preserve">
-    <value>الشركة</value>
-  </data>
-  <data name="PropertyLanguage" xml:space="preserve">
-    <value>اللغة</value>
-  </data>
-  <data name="PropertyTrademarks" xml:space="preserve">
-    <value>العلامات التجارية</value>
-  </data>
-  <data name="PropertyFileVersion" xml:space="preserve">
-    <value>إصدار الملف</value>
-  </data>
-  <data name="PropertySyncStatus" xml:space="preserve">
-    <value>‏‏حالة المزامنة</value>
-  </data>
-  <data name="DecompressArchiveDialogBrowseFolder.Content" xml:space="preserve">
-    <value>تصفح</value>
-  </data>
-  <data name="BaseLayoutItemContextFlyoutExtractionOptions" xml:space="preserve">
-    <value>استخراج...</value>
-  </data>
-  <data name="SettingsAppearanceTheme.Title" xml:space="preserve">
-    <value>اختر اللون الخاص بك</value>
-  </data>
-  <data name="SettingsAppearanceCustomThemes.Title" xml:space="preserve">
-    <value>النُسق المخصصة</value>
-  </data>
-  <data name="SettingsPreferencesAppLanguage.Title" xml:space="preserve">
-    <value>اللغة</value>
-  </data>
-  <data name="SettingsFilesAndFoldersShowHiddenItems.Title" xml:space="preserve">
-    <value>إظهار الملفات والمجلدات المخفية</value>
+  <data name="UpdateConsentDialogTitle" xml:space="preserve">
+    <value>განახლებები ხელმისაწვდომია</value>
   </data>
   <data name="SettingsFilesAndFoldersHideSystemItems.Title" xml:space="preserve">
-    <value>إخفاء ملفات نظام التشغيل المحمية (مستحسن)</value>
+    <value>დაცული ოპერაციული სისტემის ფაილების დამალვა (რეკომენდირებულია)</value>
   </data>
-  <data name="SettingsUsefulLinks.Title" xml:space="preserve">
-    <value>‏‏ارتباطات مفيدة</value>
+  <data name="SettingsSearchUnindexedItems.Title" xml:space="preserve">
+    <value>ფაილებისა და საქაღალდეების ძებნისას გამოუქვეყნებელი ელემენტების ჩვენება (ძიებას შეიძლება უფრო დიდი დრო დასჭირდეს)</value>
   </data>
-  <data name="SettingCopyVersionInfo.Content" xml:space="preserve">
-    <value>نسخ</value>
+  <data name="SettingsEnableLayoutPreferencesPerFolder.Title" xml:space="preserve">
+    <value>ინდივიდუალური თვისებების ჩართვა ინდივიდუალური კატალოგებისთვის</value>
   </data>
-  <data name="BaseLayoutItemContextFlyoutPinToFavorites.Text" xml:space="preserve">
-    <value>تثبيت إلى المفضلة</value>
+  <data name="SettingsContextMenu.Text" xml:space="preserve">
+    <value>მარჯვენა ღილაკით დაჭერილი კონტექსტის მენიუს მორგება</value>
+  </data>
+  <data name="originalPathColumn.Header" xml:space="preserve">
+    <value>თავდაპირველი გზა</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutSortByOriginalPath.Text" xml:space="preserve">
+    <value>თავდაპირველი გზა</value>
+  </data>
+  <data name="AppBarButtonAdd.Label" xml:space="preserve">
+    <value>დამატება</value>
+  </data>
+  <data name="AppBarButtonEdit.Label" xml:space="preserve">
+    <value>რედაქტირება</value>
+  </data>
+  <data name="AppBarButtonRemove.Label" xml:space="preserve">
+    <value>წაშლა</value>
+  </data>
+  <data name="ItemAlreadyExistsDialogCloseButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="StatusCenter.ToolTipService.ToolTip" xml:space="preserve">
+    <value>მიმდინარე დავალებები</value>
+  </data>
+  <data name="StatusCenterFlyoutTitle.Text" xml:space="preserve">
+    <value>მიმდინარე დავალებები</value>
+  </data>
+  <data name="SettingsMultitaskingAlwaysOpenDualPane.Title" xml:space="preserve">
+    <value>ახალი ჩანართების ყოველთვის გახსნა ორმაგი სარკმლის რეჟიმში</value>
+  </data>
+  <data name="SettingsMultitaskingEnableDualPane.Title" xml:space="preserve">
+    <value>ორმაგი სარკმლის ხედის ჩართვა</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutOpenInNewPane.Text" xml:space="preserve">
+    <value>საშუალო სარკმელში გახსნა</value>
+  </data>
+  <data name="NavigationToolbarNewPane.Label" xml:space="preserve">
+    <value>ახალი სარკმელი</value>
+  </data>
+  <data name="SideBarOpenInNewPane.Text" xml:space="preserve">
+    <value>საშუალო სარკმელში გახსნა</value>
+  </data>
+  <data name="SettingsDualPane.Text" xml:space="preserve">
+    <value>ორმაგი სარკმელი</value>
+  </data>
+  <data name="FolderWidgetDescription.Text" xml:space="preserve">
+    <value>საქაღალდეები</value>
+  </data>
+  <data name="NavToolbarDetailsView.ToolTipService.ToolTip" xml:space="preserve">
+    <value>დეტალების ხედი (Ctrl+Shift+1)</value>
+  </data>
+  <data name="NavToolbarDetailsView.AutomationProperties.Name" xml:space="preserve">
+    <value>დეტალების ხედი</value>
+  </data>
+  <data name="NavToolbarDisplayOptions.Text" xml:space="preserve">
+    <value>ჩვენების პარამეტრები</value>
+  </data>
+  <data name="NavToolbarLayoutOptionsButton.AutomationProperties.Name" xml:space="preserve">
+    <value>განლაგება</value>
+  </data>
+  <data name="NavToolbarLayoutOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>განლაგება</value>
+  </data>
+  <data name="NavToolbarLayoutOptionsButton.Label" xml:space="preserve">
+    <value>განლაგება</value>
+  </data>
+  <data name="PreviewPaneToggle.Label" xml:space="preserve">
+    <value>გადახედვა</value>
+  </data>
+  <data name="NavToolbarGridViewLarge.AutomationProperties.Name" xml:space="preserve">
+    <value>ქსელის ხედი (დიდი)</value>
+  </data>
+  <data name="NavToolbarGridViewLarge.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ქსელის ხედი (დიდი) (Ctrl+Shift+5)</value>
+  </data>
+  <data name="NavToolbarGridViewMedium.AutomationProperties.Name" xml:space="preserve">
+    <value>ქსელის ხედი (საშუალო)</value>
+  </data>
+  <data name="NavToolbarGridViewMedium.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ქსელის ხედი (საშუალო) (Ctrl+Shift+4)</value>
+  </data>
+  <data name="NavToolbarGridViewSmall.AutomationProperties.Name" xml:space="preserve">
+    <value>ქსელის ხედი (პატარა)</value>
+  </data>
+  <data name="NavToolbarGridViewSmall.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ქსელის ხედი (პატარა) (Ctrl+Shift+3)</value>
+  </data>
+  <data name="NavToolbarTilesView.AutomationProperties.Name" xml:space="preserve">
+    <value>ფილების ხედი</value>
+  </data>
+  <data name="NavToolbarTilesView.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ფილების ხედი (Ctrl+Shift+2)</value>
+  </data>
+  <data name="NavToolbarShowFileExtensions.Header" xml:space="preserve">
+    <value>ფაილის გაფართოებების ჩვენება</value>
+  </data>
+  <data name="NavToolbarShowHiddenItems.Header" xml:space="preserve">
+    <value>დამალული ელემენტების ჩვენება</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutSortByDateDeleted.Text" xml:space="preserve">
+    <value>წაშლის თარიღი</value>
+  </data>
+  <data name="dateDeletedColumn.Header" xml:space="preserve">
+    <value>წაშლის თარიღი</value>
+  </data>
+  <data name="SettingsTabCustomization.Text" xml:space="preserve">
+    <value>ჩანართის მორგება</value>
+  </data>
+  <data name="SettingsWhenLaunchingFiles.Text" xml:space="preserve">
+    <value>ფაილების გაშვებისას</value>
+  </data>
+  <data name="SidebarCloudDrives" xml:space="preserve">
+    <value>ღრუბლოვანი დისკები</value>
+  </data>
+  <data name="BundlesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>მეტი არჩევანი...</value>
+  </data>
+  <data name="BundlesWidgetAddBundleConfirm.Content" xml:space="preserve">
+    <value>დადასტურება</value>
+  </data>
+  <data name="BundlesWidgetOptionsFlyoutExportBundlesMenuItem.Text" xml:space="preserve">
+    <value>ექსპორტის პაკეტები</value>
+  </data>
+  <data name="BundlesWidgetOptionsFlyoutImportBundlesMenuItem.Text" xml:space="preserve">
+    <value>იმპორტის პაკეტები</value>
+  </data>
+  <data name="BundlesWidgetAddBundleErrorAlreadyExists" xml:space="preserve">
+    <value>პაკეტი მსგავსი სახელით უკვე არსებობს!</value>
+  </data>
+  <data name="BundlesWidgetAddBundleErrorInputEmpty" xml:space="preserve">
+    <value>შეყვანის ველი არ შეიძლება იყოს ცარიელი!</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleItem.Text" xml:space="preserve">
+    <value>პაკეტის შექმნა</value>
+  </data>
+  <data name="BundlesWidgetAddBundleInput.PlaceholderText" xml:space="preserve">
+    <value>შეიყვანეთ პაკეტის სახელი</value>
+  </data>
+  <data name="BundlesWidgetAddBundleNameInput.PlaceholderText" xml:space="preserve">
+    <value>შეიყვანეთ პაკეტის სახელი</value>
+  </data>
+  <data name="BundleItemFlyouOpenInNewTabMenuItem.Text" xml:space="preserve">
+    <value>ახალ ჩანართში გახსნა</value>
+  </data>
+  <data name="BundleItemFlyouOpenItemLocationMenuItem.Text" xml:space="preserve">
+    <value>ელემენტის მდებარეობის გახსნა</value>
+  </data>
+  <data name="BundleItemFlyouRemoveFromBundleMenuItem.Text" xml:space="preserve">
+    <value>შეკვრიდან ამოღება</value>
+  </data>
+  <data name="BundleOptionsFlyoutRemoveBundleMenuItem.Text" xml:space="preserve">
+    <value>შეკვრის ამოშლა</value>
+  </data>
+  <data name="BundlesWidgetHeader.Text" xml:space="preserve">
+    <value>შეკვრები</value>
+  </data>
+  <data name="BundleNoContentsTextBlock.Text" xml:space="preserve">
+    <value>გადაიტანეთ და გადმოაგდეთ აქ ნებისმიერი ფაილი ან საქაღალდე მასზე სწრაფად შესასვლელად</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleConfirmButton.Content" xml:space="preserve">
+    <value>დადასტურება</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleInput.PlaceholderText" xml:space="preserve">
+    <value>შეიყვანეთ შეკვრის სახელი</value>
+  </data>
+  <data name="BundlesWidgetRenameBundleDialogCloseButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="BundlesWidgetRenameBundleDialogInputPlaceholderText" xml:space="preserve">
+    <value>სასურველი სახელი</value>
+  </data>
+  <data name="BundlesWidgetRenameBundleDialogPrimaryButtonText" xml:space="preserve">
+    <value>დადასტურება</value>
+  </data>
+  <data name="BundlesWidgetRenameBundleDialogSubtitleText" xml:space="preserve">
+    <value>შეიყვანეთ ახალი სახელი</value>
+  </data>
+  <data name="BundlesWidgetRenameBundleDialogTitleText" xml:space="preserve">
+    <value>"{0}" -(ი)ს გადარქმევა</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleDialogTitleText" xml:space="preserve">
+    <value>შეკვრის შექმნა</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleDialogCloseButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleDialogPrimaryButtonText" xml:space="preserve">
+    <value>დადასტურება</value>
+  </data>
+  <data name="BundlesWidgetCreateBundleDialogSubtitleText" xml:space="preserve">
+    <value>შეკვრის დამატება</value>
+  </data>
+  <data name="BundlesWidgetOptionsFlyoutCreateBundleMenuItem.Text" xml:space="preserve">
+    <value>შეკვრის შექმნა</value>
+  </data>
+  <data name="BundleOptionsFlyoutRenameBundleMenuItem.Text" xml:space="preserve">
+    <value>შეკვრის სახელის გადარქმევა</value>
+  </data>
+  <data name="BundlesWidgetAddBundleInputPlaceholderText" xml:space="preserve">
+    <value>სასურველი სახელი</value>
+  </data>
+  <data name="PreviewPaneToggle.ToolTipService.ToolTip" xml:space="preserve">
+    <value>გადახედვის პანელის გადართვა (Ctrl+P)</value>
+  </data>
+  <data name="DetailsPanePreviewNotAvaliableText" xml:space="preserve">
+    <value>გადახედვა არ არის შესაძლებელი</value>
+  </data>
+  <data name="PreviewPaneDetailsNotAvailableText" xml:space="preserve">
+    <value>დეტალები არ არის ხელმისაწვდომი</value>
+  </data>
+  <data name="PropertyItemName" xml:space="preserve">
+    <value>ნივთის სახელი</value>
+  </data>
+  <data name="SidebarNetworkDrives" xml:space="preserve">
+    <value>ქსელური დისკები</value>
+  </data>
+  <data name="Network" xml:space="preserve">
+    <value>ქსელი</value>
+  </data>
+  <data name="PreviewPaneFileDetails.AutomationProperties.Name" xml:space="preserve">
+    <value>ფაილის დეტალები</value>
+  </data>
+  <data name="PreviewPaneFilePreview.AutomationProperties.Name" xml:space="preserve">
+    <value>ფაილის გადახედვა</value>
+  </data>
+  <data name="SelectedFilePreviewPane.AutomationProperties.Name" xml:space="preserve">
+    <value>არჩეულია ფაილის გადახედვის სარკმელი</value>
+  </data>
+  <data name="SettingsAboutDocumentation.Text" xml:space="preserve">
+    <value>დოკუმენტაცია</value>
+  </data>
+  <data name="SettingsAboutDocumentationListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>ეწვიეთ ფაილების დოკუმენტაციის ვებ-გვერდს</value>
+  </data>
+  <data name="StatusCenterFlyout.AutomationProperties.Name" xml:space="preserve">
+    <value>მიმდინარე მომსახურებები</value>
+  </data>
+  <data name="CloudDriveSyncStatus_Online" xml:space="preserve">
+    <value>ხელმისაწვდომია ონლაინ რეჟიმში</value>
+  </data>
+  <data name="CloudDriveSyncStatus_Offline" xml:space="preserve">
+    <value>ხაზგარეშე რეჟიმშიცაა ხელმისაწვდომი</value>
+  </data>
+  <data name="CloudDriveSyncStatus_PartialOffline" xml:space="preserve">
+    <value>ნაწილობრივ ხელმისაწვდომია ხაზგარეშე რეჟიმში</value>
+  </data>
+  <data name="CloudDriveSyncStatus_Sync" xml:space="preserve">
+    <value>მიმდინარეობს სინქრონიზაცია</value>
+  </data>
+  <data name="CloudDriveSyncStatus_Excluded" xml:space="preserve">
+    <value>გამორიცხულია სინქრონიზაციისგან</value>
+  </data>
+  <data name="ItemSizeNotCalcluated" xml:space="preserve">
+    <value>არ არის გათვლილი</value>
+  </data>
+  <data name="CloudDriveSyncStatus_Unknown" xml:space="preserve">
+    <value>უცნობი</value>
+  </data>
+  <data name="NavToolbarMultiselect.Text" xml:space="preserve">
+    <value>მრავალშერჩევა</value>
+  </data>
+  <data name="RenameFileDialog.Text" xml:space="preserve">
+    <value>ფაილის გაფართოების შეცვლის შემთხვევაში, ფაილი შესაძლოა გამოუსადეგარი გახდეს. დარწმუნებული ხართ, რომ გსურთ მისი შეცვლა?</value>
+  </data>
+  <data name="DriveTypeCDRom" xml:space="preserve">
+    <value>CD ROM დისკი</value>
+  </data>
+  <data name="DriveTypeCloudDrive" xml:space="preserve">
+    <value>ღრუბლოვანი დისკი</value>
+  </data>
+  <data name="DriveTypeFixed" xml:space="preserve">
+    <value>გასწორებული დისკი</value>
+  </data>
+  <data name="DriveTypeFloppyDisk" xml:space="preserve">
+    <value>ფლოპი დისკი</value>
+  </data>
+  <data name="DriveTypeNetwork" xml:space="preserve">
+    <value>ქსელოვანი დისკი</value>
+  </data>
+  <data name="DriveTypeNoRootDirectory" xml:space="preserve">
+    <value>დაუმონტაჟებელი დისკი</value>
+  </data>
+  <data name="DriveTypeRemovable" xml:space="preserve">
+    <value>ამოშლადი შესანახი მოწყობილობა</value>
+  </data>
+  <data name="DriveTypeUnknown" xml:space="preserve">
+    <value>უცნობი</value>
+  </data>
+  <data name="DriveTypeVirtualDrive" xml:space="preserve">
+    <value>ვირტუალური დისკი</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutSortByDateCreated.Text" xml:space="preserve">
+    <value>შექმნის თარიღი</value>
+  </data>
+  <data name="DateCreatedColumn.Header" xml:space="preserve">
+    <value>შექმნის თარიღი</value>
+  </data>
+  <data name="DrivesWidgetMoreOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Მეტი არჩევანი...</value>
+  </data>
+  <data name="DrivesWidgetOptionsFlyoutMapNetDriveMenuItem.Text" xml:space="preserve">
+    <value>რუკის ქსელური დისკი</value>
+  </data>
+  <data name="SideBarDisconnectNetworkDrive.Text" xml:space="preserve">
+    <value>გათიშვა</value>
+  </data>
+  <data name="BundlesWidgetMoreOptionsButton.AutomationProperties.Name" xml:space="preserve">
+    <value>პაკეტების მეტი არჩევანი</value>
+  </data>
+  <data name="DrivesWidgetMoreOptionsButton.AutomationProperties.Name" xml:space="preserve">
+    <value>დისკების მეტი არჩევანი</value>
+  </data>
+  <data name="SidebarFavorites" xml:space="preserve">
+    <value>ფავორიტები</value>
+  </data>
+  <data name="SidebarLibraries" xml:space="preserve">
+    <value>ბიბლიოთეკა</value>
+  </data>
+  <data name="NoItemSelected" xml:space="preserve">
+    <value>ელემენტი არ არის არჩეული</value>
+  </data>
+  <data name="PropertyItemTarget" xml:space="preserve">
+    <value>სამიზნე</value>
+  </data>
+  <data name="PropertyItemArguments" xml:space="preserve">
+    <value>არგუმენტები</value>
+  </data>
+  <data name="BundlesOpenInNewPane.Text" xml:space="preserve">
+    <value>ახალ სარკმელში გახსნა</value>
+  </data>
+  <data name="SettingsShowLibrarySection.Title" xml:space="preserve">
+    <value>გვერდითა ზოლზე ბიბლიოთეკის განყოფილების ჩვენება</value>
+  </data>
+  <data name="DefaultTheme" xml:space="preserve">
+    <value>ნაგულისხმევი</value>
+  </data>
+  <data name="SettingsAppearanceCustomThemes.Title" xml:space="preserve">
+    <value>მორგებული თემები</value>
+  </data>
+  <data name="PropertyItemCount" xml:space="preserve">
+    <value>ნივთების რაოდენობა</value>
+  </data>
+  <data name="HorizontalMultitaskingControlCloseTabsToTheRight.Text" xml:space="preserve">
+    <value>ჩანართების დახურვა მარჯვნივ</value>
+  </data>
+  <data name="StatusDeletionFailed" xml:space="preserve">
+    <value>წაშლა ვერ მოხერხდა</value>
+  </data>
+  <data name="StatusUnknownError" xml:space="preserve">
+    <value>მოხდა გაურკვეველი შეცდომა.</value>
+  </data>
+  <data name="StatusDeletionComplete" xml:space="preserve">
+    <value>წაშლა დასრულებულია</value>
+  </data>
+  <data name="StatusDeletionCancelled" xml:space="preserve">
+    <value>წაშლა გაუქმებულია</value>
+  </data>
+  <data name="StatusOperationCompleted" xml:space="preserve">
+    <value>მოქმედება დასრულებულია.</value>
+  </data>
+  <data name="StatusRecycleComplete" xml:space="preserve">
+    <value>გადამუშავება დასრულებულია</value>
+  </data>
+  <data name="StatusMoveComplete" xml:space="preserve">
+    <value>გადატანა დასრულებულია</value>
+  </data>
+  <data name="StatusCopyComplete" xml:space="preserve">
+    <value>ასლის შექმნა დასრულებულია</value>
+  </data>
+  <data name="ElevateConfirmDialog.CloseButtonText" xml:space="preserve">
+    <value>არა</value>
+  </data>
+  <data name="ElevateConfirmDialog.PrimaryButtonText" xml:space="preserve">
+    <value>დიახ</value>
+  </data>
+  <data name="ElevateConfirmDialog.Title" xml:space="preserve">
+    <value>ეს მოქმედება მოითხოვს ადმინისტრატორის უფლებებს</value>
+  </data>
+  <data name="ElevateConfirmDialog.Content" xml:space="preserve">
+    <value>გსურთ გააგრძელოთ, როგორც ადმინისტრატორმა?</value>
+  </data>
+  <data name="FullTrustStatusTeachingTip.Subtitle" xml:space="preserve">
+    <value>ფაილები გაშვებულია ადმინისტრატორის სახელით</value>
+  </data>
+  <data name="FullTrustStatusTeachingTip.Title" xml:space="preserve">
+    <value>ადმინისტრატორი</value>
+  </data>
+  <data name="NavToolbarColumnView.AutomationProperties.Name" xml:space="preserve">
+    <value>სვეტის ხედი</value>
+  </data>
+  <data name="NavToolbarColumnView.ToolTipService.ToolTip" xml:space="preserve">
+    <value>სვეტის ხედი (Ctrl+Shift+6)</value>
+  </data>
+  <data name="PinItemToStart.Text" xml:space="preserve">
+    <value>საწყის მენიუში ჩამაგრება</value>
+  </data>
+  <data name="UnpinItemFromStart.Text" xml:space="preserve">
+    <value>საწყისი მენიუდან ჩამაგრების მოხსნა</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutColumn.Text" xml:space="preserve">
+    <value>სვეტის ხედი</value>
+  </data>
+  <data name="ItemTypeLibrary" xml:space="preserve">
+    <value>ბიბლიოთეკა</value>
+  </data>
+  <data name="LibraryItemAutomation" xml:space="preserve">
+    <value>ბიბლიოთეკა</value>
+  </data>
+  <data name="PropertiesDialogTabLibrary.Content" xml:space="preserve">
+    <value>ბიბლიოთეკა</value>
+  </data>
+  <data name="LibraryLocations.Text" xml:space="preserve">
+    <value>მდებარეობები:</value>
+  </data>
+  <data name="LibraryLocationsButtonAdd.Label" xml:space="preserve">
+    <value>დამატება</value>
+  </data>
+  <data name="LibraryLocationsButtonSetDefault.Label" xml:space="preserve">
+    <value>ნაგულისხმევი</value>
+  </data>
+  <data name="LibraryLocationsButtonSetDefault.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ნაგულისხმევ დასამახსოვრებელ გზად დაყენება</value>
+  </data>
+  <data name="LibraryLocationsButtonRemove.Label" xml:space="preserve">
+    <value>წაშლა</value>
+  </data>
+  <data name="LibraryNoLocations.Text" xml:space="preserve">
+    <value>ადგილმდებარეობები არ არის</value>
+  </data>
+  <data name="ErrorInputEmpty" xml:space="preserve">
+    <value>შეყვანის ველი არ შეიძლება იყოს ცარიელი!</value>
+  </data>
+  <data name="ErrorNameInputRestrictedCharacters" xml:space="preserve">
+    <value>სახელი არ უნდა შეიცავდეს შემდეგ სიმბოლოებს: \ / : * ? " &lt; &gt; |</value>
+  </data>
+  <data name="ErrorNameInputRestricted" xml:space="preserve">
+    <value>დაუშვებელია ამ სახელის გამოყენება!</value>
+  </data>
+  <data name="CreateLibraryErrorAlreadyExists" xml:space="preserve">
+    <value>ბიბლიოთეკა მსგავსი სახელით უკვე არსებობს!</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutDeleteLibrary.Text" xml:space="preserve">
+    <value>ბიბლიოთეკის წაშლა</value>
+  </data>
+  <data name="DialogCreateLibraryButtonText" xml:space="preserve">
+    <value>შექმნა</value>
+  </data>
+  <data name="DialogCancelButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="DialogDeleteLibraryButtonText" xml:space="preserve">
+    <value>წაშლა</value>
+  </data>
+  <data name="DrivesWidgetOpenStorageSenseButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>შენახვის გრძნობის გახსნა</value>
+  </data>
+  <data name="DrivesWidgetOpenStorageSenseButton.AutomationProperties.Name" xml:space="preserve">
+    <value>შენახვის გრძნობის გახსნა</value>
+  </data>
+  <data name="CopyItemsDialogPrimaryButtonText" xml:space="preserve">
+    <value>ასლის შექმნა</value>
+  </data>
+  <data name="CopyItemsDialogSecondaryButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="CopyItemsDialogSubtitleMultiple" xml:space="preserve">
+    <value>{0} ელემენტის ასლი შეიქმნება</value>
+  </data>
+  <data name="CopyItemsDialogTitle" xml:space="preserve">
+    <value>ელემენტ(ებ)ის ასლის შექმნა</value>
+  </data>
+  <data name="DeleteItemsDialogTitle" xml:space="preserve">
+    <value>ელემენტ(ებ)ის წაშლა</value>
+  </data>
+  <data name="MoveItemsDialogPrimaryButtonText" xml:space="preserve">
+    <value>გადატანა</value>
+  </data>
+  <data name="MoveItemsDialogSecondaryButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="MoveItemsDialogSubtitleMultiple" xml:space="preserve">
+    <value>{0} ერთეულის გადატანა მოხდება</value>
+  </data>
+  <data name="MoveItemsDialogTitle" xml:space="preserve">
+    <value>ელემენტ(ებ)ის გადატანა</value>
+  </data>
+  <data name="DeleteItemsDialogPrimaryButtonText" xml:space="preserve">
+    <value>წაშლა</value>
+  </data>
+  <data name="DeleteItemsDialogSecondaryButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="DeleteItemsDialogSubtitleMultiple" xml:space="preserve">
+    <value>{0} ელემენტი წაიშლება</value>
+  </data>
+  <data name="ConflictingItemsDialogPrimaryButtonText" xml:space="preserve">
+    <value>გაგრძელება</value>
+  </data>
+  <data name="ConflictingItemsDialogSecondaryButtonText" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="ConflictingItemsDialogSubtitleMultipleConflictsMultipleNonConflicts" xml:space="preserve">
+    <value>არსებობს ფაილების {0} წინააღმდეგობრივი სახელი და {1} გამავალი ერთეული.</value>
+  </data>
+  <data name="ConflictingItemsDialogTitle" xml:space="preserve">
+    <value>წინააღმდეგობრივი ფაილების სახელები</value>
+  </data>
+  <data name="ConflictingItemsDialogSubtitleSingleConflictMultipleNonConflicts" xml:space="preserve">
+    <value>არსებობს ერთი წინააღმდეგობრივი ფაილის სახელი და {0} გამავალი ერთეული.</value>
+  </data>
+  <data name="CopyItemsDialogSubtitleSingle" xml:space="preserve">
+    <value>ერთი ელემენტის ასლი იქნება შექმნილი</value>
+  </data>
+  <data name="DeleteItemsDialogSubtitleSingle" xml:space="preserve">
+    <value>ერთი ელემენტი წაიშლება</value>
+  </data>
+  <data name="MoveItemsDialogSubtitleSingle" xml:space="preserve">
+    <value>ერთი ელემენტის გადატანა მოხდება</value>
+  </data>
+  <data name="DeleteItemsDialogPermanentlyDeleteCheckBox.Content" xml:space="preserve">
+    <value>სამუდამოდ წაშლა</value>
+  </data>
+  <data name="PropertyISO" xml:space="preserve">
+    <value>ISO სიჩქარე</value>
+  </data>
+  <data name="NavToolbarShowBundlesWidget.Header" xml:space="preserve">
+    <value>პაკეტების ვიჯეტის ჩვენება</value>
+  </data>
+  <data name="NavToolbarShowDrivesWidget.Header" xml:space="preserve">
+    <value>დისკების ვიჯეტის ჩვენება</value>
+  </data>
+  <data name="NavToolbarShowFolderWidget.Header" xml:space="preserve">
+    <value>საქაღალდეების ვიჯეტის ჩვენება</value>
+  </data>
+  <data name="NavToolbarShowRecentFilesWidget.Header" xml:space="preserve">
+    <value>ბოლოდროინდელი ფაილების ვიჯეტის ჩვენება</value>
+  </data>
+  <data name="NavToolbarWidgets.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ვიჯეტების მართვა</value>
+  </data>
+  <data name="NavToolbarWidgetsManager.AutomationProperties.Name" xml:space="preserve">
+    <value>ვიჯეტების მართვა</value>
+  </data>
+  <data name="SearchUnindexedItemsLabel.Text" xml:space="preserve">
+    <value>ვერ იპოვეთ ის რასაც ეძებდით?</value>
+  </data>
+  <data name="SearchUnindexedItemsButton.Content" xml:space="preserve">
+    <value>გამოუქვეყნებელი ელემენტების მოძებნა.</value>
+  </data>
+  <data name="NavToolbarManageWidgetsFlyoutHeader.Text" xml:space="preserve">
+    <value>ვიჯეტების მართვა</value>
+  </data>
+  <data name="SettingsAppearanceOpenThemesFolderButton.Content" xml:space="preserve">
+    <value>თემების საქაღალდის გახსნა</value>
+  </data>
+  <data name="ConflictingItemsDialogItemOptionGenerateNewName.Text" xml:space="preserve">
+    <value>ახალი სახელის შექმნა</value>
+  </data>
+  <data name="ConflictingItemsDialogItemOptionReplaceExisting.Text" xml:space="preserve">
+    <value>არსებულის ჩანაცვლება</value>
+  </data>
+  <data name="ConflictingItemsDialogItemOptionSkip.Text" xml:space="preserve">
+    <value>გამოტოვება</value>
+  </data>
+  <data name="ConflictingItemsDialogOptionGenerateNewName.Text" xml:space="preserve">
+    <value>ახალი სახელის შექმნა</value>
+  </data>
+  <data name="ConflictingItemsDialogOptionReplaceExisting.Text" xml:space="preserve">
+    <value>არსებულის ჩანაცვლება</value>
+  </data>
+  <data name="ConflictingItemsDialogOptionSkip.Text" xml:space="preserve">
+    <value>გამოტოვება</value>
+  </data>
+  <data name="ConflictingItemsDialogTakenActionGenerateNewName" xml:space="preserve">
+    <value>ახალი სახელის შექმნა</value>
+  </data>
+  <data name="ConflictingItemsDialogTakenActionReplaceExisting" xml:space="preserve">
+    <value>არსებულის ჩანაცვლება</value>
+  </data>
+  <data name="ConflictingItemsDialogTakenActionSkip" xml:space="preserve">
+    <value>გამოტოვება</value>
+  </data>
+  <data name="ConflictingItemsDialogItemDefaultOption.Content" xml:space="preserve">
+    <value>არსებულის ჩანაცვლება</value>
+  </data>
+  <data name="ConflictingItemsDialogUndoOption.Text" xml:space="preserve">
+    <value>მოქმედების გაუქმება</value>
+  </data>
+  <data name="ConflictingItemsDialogSubtitleMultipleConflictsNoNonConflicts" xml:space="preserve">
+    <value>არსებობს {0} წაინააღმდეგობრივი ფაილის სახელები.</value>
+  </data>
+  <data name="ConflictingItemsDialogSubtitleSingleConflictNoNonConflicts" xml:space="preserve">
+    <value>არსებობს ერთი წინააღმდეგობრივი ფაილის სახელი.</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutCreateFolderWithSelection.Text" xml:space="preserve">
+    <value>საქაღალდის შექმნა შერჩევით</value>
+  </data>
+  <data name="ToolTipDescriptionName" xml:space="preserve">
+    <value>სახელი:</value>
+  </data>
+  <data name="ToolTipDescriptionType" xml:space="preserve">
+    <value>ტიპი:</value>
+  </data>
+  <data name="ToolTipDescriptionDate" xml:space="preserve">
+    <value>შეცვლის თარიღი:</value>
+  </data>
+  <data name="OpenItemsWithCaptionText" xml:space="preserve">
+    <value>გახსნა</value>
+  </data>
+  <data name="FileBrowserThumbnailIconColumnGrid.AutomationProperties.Name" xml:space="preserve">
+    <value>ფაილის ხატულა</value>
+  </data>
+  <data name="DetailsViewHeaderFlyout_ShowOriginalPath.Text" xml:space="preserve">
+    <value>თავდაპირველი გზის სვეტი</value>
+  </data>
+  <data name="DetailsViewHeaderFlyout_ShowItemType.Text" xml:space="preserve">
+    <value>ნივთის ტიპის სვეტი</value>
+  </data>
+  <data name="DetailsViewHeaderFlyout_ShowDateModified.Text" xml:space="preserve">
+    <value>თარიღის შეცვლის სვეტი</value>
+  </data>
+  <data name="DetailsViewHeaderFlyout_ShowDateDeleted.Text" xml:space="preserve">
+    <value>თარიღის წაშლის სვეტი</value>
+  </data>
+  <data name="ResizeElementKeyboardControl.AutomationProperties.Name" xml:space="preserve">
+    <value>გვერდითა ზოლის ზომის შემცვლელი</value>
+  </data>
+  <data name="NavToolbarSortOptionsButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>დალაგება</value>
+  </data>
+  <data name="NavToolbarSortOptionsButton.AutomationProperties.Name" xml:space="preserve">
+    <value>დალაგება</value>
+  </data>
+  <data name="NavToolbarSortOptionsButton.Label" xml:space="preserve">
+    <value>დალაგება</value>
+  </data>
+  <data name="NavToolbarGroupByRadioButtons.Header" xml:space="preserve">
+    <value>დაჯგუფება</value>
+  </data>
+  <data name="NavToolbarSortByRadioButtons.Header" xml:space="preserve">
+    <value>დალაგება</value>
+  </data>
+  <data name="NavToolbarSortDirectionRadioButtons.Header" xml:space="preserve">
+    <value>დალაგების მიმართულება</value>
+  </data>
+  <data name="ItemSizeText_Huge" xml:space="preserve">
+    <value>უზარმაზარი</value>
+  </data>
+  <data name="ItemSizeText_VeryLarge" xml:space="preserve">
+    <value>ძალიან დიდი</value>
+  </data>
+  <data name="ItemSizeText_Large" xml:space="preserve">
+    <value>დიდი</value>
+  </data>
+  <data name="ItemSizeText_Medium" xml:space="preserve">
+    <value>საშუალო</value>
+  </data>
+  <data name="ItemSizeText_Small" xml:space="preserve">
+    <value>პატარა</value>
+  </data>
+  <data name="ItemSizeText_Tiny" xml:space="preserve">
+    <value>პაწაწინა</value>
+  </data>
+  <data name="ItemTimeText_Today" xml:space="preserve">
+    <value>დღეს</value>
+  </data>
+  <data name="ItemTimeText_Yesterday" xml:space="preserve">
+    <value>გუშინ</value>
+  </data>
+  <data name="ItemTimeText_ThisWeek" xml:space="preserve">
+    <value>ამ კვირის დასაწყისში</value>
+  </data>
+  <data name="ItemTimeText_LastWeek" xml:space="preserve">
+    <value>გასულ კვირას</value>
+  </data>
+  <data name="ItemTimeText_ThisMonth" xml:space="preserve">
+    <value>ამ თვეში</value>
+  </data>
+  <data name="ItemTimeText_LastMonth" xml:space="preserve">
+    <value>გასულ თვეში</value>
+  </data>
+  <data name="ItemTimeText_ThisYear" xml:space="preserve">
+    <value>ამ წელს</value>
+  </data>
+  <data name="ItemTimeText_Older" xml:space="preserve">
+    <value>უფრო ძველი</value>
+  </data>
+  <data name="ItemTimeText_Before" xml:space="preserve">
+    <value>მანამ {0}</value>
+  </data>
+  <data name="GroupItemsCount_Singular" xml:space="preserve">
+    <value>{0} ელემენტი</value>
+  </data>
+  <data name="GroupItemsCount_Plural" xml:space="preserve">
+    <value>{0} ელემენტი</value>
+  </data>
+  <data name="HorizontalMultitaskingControlReopenClosedTab.Text" xml:space="preserve">
+    <value>დახურული ჩანართების ხელახლა გახსნა</value>
+  </data>
+  <data name="SettingsAboutPrivacyPolicy.Text" xml:space="preserve">
+    <value>კონფიდენციალურობის პოლიტიკა</value>
+  </data>
+  <data name="SettingsAboutPrivacyPolicyListViewItem.AutomationProperties.Name" xml:space="preserve">
+    <value>იხილეთ ფაილების კონფიდენციალურობის დებულება</value>
+  </data>
+  <data name="RenameFileDialogTitle" xml:space="preserve">
+    <value>გადარქმევა</value>
+  </data>
+  <data name="StatusMoveCanceled" xml:space="preserve">
+    <value>გადატანა გაუქმებულია</value>
+  </data>
+  <data name="StatusCopyCanceled" xml:space="preserve">
+    <value>ასლის შექმნა გაუქმებულია</value>
+  </data>
+  <data name="StatusMoveCanceledDetails_Singular" xml:space="preserve">
+    <value>{0} ელემენტის გადატანა {1} -დან {2} -ში გაუქმდა</value>
+  </data>
+  <data name="StatusMoveCanceledDetails_Plural" xml:space="preserve">
+    <value>{0} ელემენტის გადატანა {1} -დან {2} -ში {3} ელემენტის გადატანის შემდეგ გაუქმდა</value>
+  </data>
+  <data name="StatusMoveCanceledDetails_Plural2" xml:space="preserve">
+    <value>{0} ელემენტის გადატანა {1} -დან {2} -ში {3} ელემენტის გადატანის შემდეგ გაუქმდა</value>
+  </data>
+  <data name="StatusMovingItemsDetails_Singular" xml:space="preserve">
+    <value>მიმდინარეობს {0} ელემენტის გადატანა {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusMovingItemsDetails_Plural" xml:space="preserve">
+    <value>მიმდინარეობს {0} ელემენტის გადატანა {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusMovedItemsDetails_Singular" xml:space="preserve">
+    <value>{0} ელემენტი წარმატებით იქნა გადატანილი {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusMovedItemsDetails_Plural" xml:space="preserve">
+    <value>{0} ელემენტი წარმატებით იქნა გადატანილი {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusMoveFailedDetails_Singular" xml:space="preserve">
+    <value>{0} ელემენტის გადატანა ვერ მოხერხდა {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusMoveFailedDetails_Plural" xml:space="preserve">
+    <value>{0} ელემენტის გადატანა ვერ მოხერხდა {1} -დან {2} -ში</value>
+  </data>
+  <data name="StatusCopyCanceledDetails_Singular" xml:space="preserve">
+    <value>{0} ელემენტის ასლის ჩასმა {1} -ში გაუქმდა</value>
+  </data>
+  <data name="StatusCopyCanceledDetails_Plural" xml:space="preserve">
+    <value>{0} ელემენტის ასლის ჩასმა {1} -ში {2} ელემენტის ასლის ჩასმის შემდეგ გაუქმდა</value>
+  </data>
+  <data name="StatusCopyCanceledDetails_Plural2" xml:space="preserve">
+    <value>{0} ელემენტის ასლის ჩასმა {1} -ში {2} ელემენტის ასლის ჩასმის შემდეგ გაუქმდა</value>
+  </data>
+  <data name="StatusCopyingItemsDetails_Singular" xml:space="preserve">
+    <value>მიმდინარეობს {0} ელემენტის ასლის ჩასმა {1} -ში</value>
+  </data>
+  <data name="StatusCopyingItemsDetails_Plural" xml:space="preserve">
+    <value>მიმდინარეობს {0} ელემენტის ასლის ჩასმა {1} -ში</value>
+  </data>
+  <data name="StatusCopiedItemsDetails_Singular" xml:space="preserve">
+    <value>{0} ელემენტის ასლი წარმატებით ჩაისვა {1} -ში</value>
+  </data>
+  <data name="StatusCopiedItemsDetails_Plural" xml:space="preserve">
+    <value>{0} ელემენტის ასლი წარმატებით ჩაისვა {1} -ში</value>
+  </data>
+  <data name="StatusDeleteCanceledDetails_Singular" xml:space="preserve">
+    <value>{1} -დან {0} ელემენტის წაშლა გაუქმდა</value>
+  </data>
+  <data name="StatusDeleteCanceledDetails_Plural" xml:space="preserve">
+    <value>{1} -დან {0} ელემენტის წაშლა გაუქმდა {3} ერთეულის წაშლის შემდეგ</value>
+  </data>
+  <data name="StatusDeleteCanceledDetails_Plural2" xml:space="preserve">
+    <value>{1} -დან {0} ელემენტის წაშლა გაუქმდა {3} ერთეულის წაშლის შემდეგ</value>
+  </data>
+  <data name="StatusDeletingItemsDetails_Singular" xml:space="preserve">
+    <value>მიმდინარეობს {0} ერთეულის წაშლა {1} -დან</value>
+  </data>
+  <data name="StatusDeletingItemsDetails_Plural" xml:space="preserve">
+    <value>მიმდინარეობს {0} ერთეულის წაშლა {1} -დან</value>
+  </data>
+  <data name="StatusDeletedItemsDetails_Singular" xml:space="preserve">
+    <value>{0} ერთეული წარმატებით წაიშალა {1} -დან</value>
+  </data>
+  <data name="StatusDeletedItemsDetails_Plural" xml:space="preserve">
+    <value>{0} ერთეული წარმატებით წაიშალა {1} -დან</value>
+  </data>
+  <data name="StatusDeletionFailedDetails_Singular" xml:space="preserve">
+    <value>{1} -დან ვერ მოხერხდა {0} ერთეულის წაშლა</value>
+  </data>
+  <data name="StatusDeletionFailedDetails_Plural" xml:space="preserve">
+    <value>{1} -დან ვერ მოხერხდა {0} ერთეულის წაშლა</value>
+  </data>
+  <data name="TheRecycleBin" xml:space="preserve">
+    <value>სანაგვე ურნა</value>
+  </data>
+  <data name="MoveInProgress" xml:space="preserve">
+    <value>მიმდინარეობს ელემენტების გადატანა</value>
+  </data>
+  <data name="CopyInProgress.Title" xml:space="preserve">
+    <value>მიმდინარეობს ნივთების ასლების შექმნა</value>
+  </data>
+  <data name="StatusRecycleFailed" xml:space="preserve">
+    <value>გადამუშავება ვერ მოხერხდა</value>
+  </data>
+  <data name="StatusRecycleCancelled" xml:space="preserve">
+    <value>გადამუშავება გაუქმდა</value>
+  </data>
+  <data name="StatusCancellingOp" xml:space="preserve">
+    <value>მიმდინარეობს გაუქმება</value>
+  </data>
+  <data name="StatusCenterDismissBannerButton.AutomationProperties.Name" xml:space="preserve">
+    <value>გათავისუფლება</value>
+  </data>
+  <data name="StatusCenterDismissBannerButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>გათავისუფლება</value>
+  </data>
+  <data name="StatusCenterCancelBannerButton.AutomationProperties.Name" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="StatusCenterCancelBannerButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>გაუქმება</value>
+  </data>
+  <data name="NavToolbarWidgets.Label" xml:space="preserve">
+    <value>ვიჯეტები</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutSortBySyncStatus.Text" xml:space="preserve">
+    <value>სინქრონიზაციის სტატუსი</value>
+  </data>
+  <data name="PropertiesDialogTabSecurity.Content" xml:space="preserve">
+    <value>უსაფრთხოება</value>
+  </data>
+  <data name="SecurityAdvancedPermissions.Text" xml:space="preserve">
+    <value>დამატებითი უფლებები</value>
+  </data>
+  <data name="SecurityAllowLabel.Text" xml:space="preserve">
+    <value>დაშვება</value>
+  </data>
+  <data name="SecurityDenyLabel.Text" xml:space="preserve">
+    <value>უარყოფა</value>
+  </data>
+  <data name="SecurityFullControlLabel.Text" xml:space="preserve">
+    <value>სრული კონტროლი</value>
+  </data>
+  <data name="SecurityListDirectoryLabel.Text" xml:space="preserve">
+    <value>კატალოგთა კონტენტის ჩამოთვლა</value>
+  </data>
+  <data name="SecurityModifyLabel.Text" xml:space="preserve">
+    <value>შეცვლა</value>
+  </data>
+  <data name="SecurityPermissionsLabel.Text" xml:space="preserve">
+    <value>ნებართვები</value>
+  </data>
+  <data name="SecurityReadAndExecuteLabel.Text" xml:space="preserve">
+    <value>წაკითხვა და შესრულება</value>
+  </data>
+  <data name="SecurityReadLabel.Text" xml:space="preserve">
+    <value>წაკითხვა</value>
+  </data>
+  <data name="SecurityUsersGroupLabel.Text" xml:space="preserve">
+    <value>ჯგუფის ან მომხმარებლის სახელები</value>
+  </data>
+  <data name="SecurityWriteLabel.Text" xml:space="preserve">
+    <value>დაწერა</value>
+  </data>
+  <data name="SecurityUnknownAccount" xml:space="preserve">
+    <value>უცნობი ანგარიში</value>
+  </data>
+  <data name="SecurityCannotReadProperties.Text" xml:space="preserve">
+    <value>თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება. გასაგრძელებლად დააჭირეთ "დამატებით უფლებებს".</value>
+  </data>
+  <data name="SecurityOwnerLabel.Text" xml:space="preserve">
+    <value>მფლობელი</value>
+  </data>
+  <data name="SecurityUnknownOwnerText.Text" xml:space="preserve">
+    <value>უცნობი მფლობელი</value>
+  </data>
+  <data name="SettingsNavSidebar.Content" xml:space="preserve">
+    <value>გვერდითა ზოლი</value>
+  </data>
+  <data name="SettingsSidebarTitle.Text" xml:space="preserve">
+    <value>გვერდითა ზოლი</value>
+  </data>
+  <data name="SettingsVerticalTabFlyoutSwitch.Title" xml:space="preserve">
+    <value>ვერტიკალური ჩანართის გამოფრენის ჩვენება სათაურის ზოლზე</value>
+  </data>
+  <data name="SettingsThemesLearnMoreButton.AutomationProperties.Name" xml:space="preserve">
+    <value>შეიტყვეთ მეტი მორგებულ თემებზე</value>
+  </data>
+  <data name="SettingsThemesLearnMoreButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>შეიტყვეთ მეტი მორგებულ თემებზე</value>
+  </data>
+  <data name="SettingsThemesTeachingTipHeader.Text" xml:space="preserve">
+    <value>მორგებული თემები ფაილების პერსონალიზაციის შესანიშნავ საშუალებას წარმოადგენს.</value>
+  </data>
+  <data name="SettingsThemesTeachingTipHyperlinkText.Text" xml:space="preserve">
+    <value>დოკუმენტაციის ნახვა.</value>
+  </data>
+  <data name="DecompressArchiveDialog.Title" xml:space="preserve">
+    <value>შეარჩიეთ დანიშნულების ადგილი და ამოიღეთ ფაილები</value>
+  </data>
+  <data name="DecompressArchiveDialogBrowseFolder.Content" xml:space="preserve">
+    <value>გადათვალიერება</value>
+  </data>
+  <data name="DecompressArchiveDialogOpenDestinationWhenComplete.Content" xml:space="preserve">
+    <value>გახსენით დანიშნულების საქაღალდე დასრულების შემდეგ</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutExtractFilesOption" xml:space="preserve">
+    <value>ფაილების ამოღება</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutExtractHereOption" xml:space="preserve">
+    <value>ამოღება აქ</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutExtractionOptions" xml:space="preserve">
+    <value>ამოღება...</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutExtractToChildFolder" xml:space="preserve">
+    <value>ამოიღეთ {0}\ -ში</value>
+  </data>
+  <data name="SideBarCreateNewLibrary.Text" xml:space="preserve">
+    <value>ახალი ბიბლიოთეკის შექმნა</value>
+  </data>
+  <data name="SideBarRestoreLibraries.Text" xml:space="preserve">
+    <value>ნაგულისხმევი ბიბლიოთეკების აღდგენა</value>
+  </data>
+  <data name="DialogRestoreLibrariesButtonText" xml:space="preserve">
+    <value>აღდგენა</value>
+  </data>
+  <data name="DialogRestoreLibrariesSubtitleText" xml:space="preserve">
+    <value>დარწმუნებული ხართ, რომ გსურთ ნაგულისხმევი ბიბლიოთეკების აღდგენა? თქვენი ყველა ფაილი თქვენს სისტემაში მაინც დარჩება.</value>
+  </data>
+  <data name="DialogRestoreLibrariesTitleText" xml:space="preserve">
+    <value>ბიბლიოთეკების აღდგენა</value>
+  </data>
+  <data name="PropertyFileOwner" xml:space="preserve">
+    <value>მფლობელი</value>
+  </data>
+  <data name="SecurityAdvancedPermissionsTitle" xml:space="preserve">
+    <value>დამატებითი უფლებები {0} -(ს)თვის</value>
+  </data>
+  <data name="SecuritySpecialLabel.Text" xml:space="preserve">
+    <value>განსაკუთრებული</value>
+  </data>
+  <data name="SecurityAdvancedAccessLabel.Text" xml:space="preserve">
+    <value>დაშვება</value>
+  </data>
+  <data name="SecurityAdvancedAppliesToLabel.Text" xml:space="preserve">
+    <value>ვრცელდება</value>
+  </data>
+  <data name="SecurityAdvancedEntityLabel.Text" xml:space="preserve">
+    <value>სუბიექტი</value>
+  </data>
+  <data name="SecurityAdvancedFlagsFilesLabel" xml:space="preserve">
+    <value>ფაილები</value>
+  </data>
+  <data name="SecurityAdvancedFlagsFolderLabel" xml:space="preserve">
+    <value>ეს საქაღალდე</value>
+  </data>
+  <data name="SecurityAdvancedFlagsSubfoldersLabel" xml:space="preserve">
+    <value>ქვესაქაღალდეები</value>
+  </data>
+  <data name="SecurityAdvancedInheritedLabel.Text" xml:space="preserve">
+    <value>Მემკვიდრეობით მიღებული</value>
+  </data>
+  <data name="SecurityAdvancedInheritedNoLabel" xml:space="preserve">
+    <value>არა</value>
+  </data>
+  <data name="SecurityAdvancedInheritedYesLabel" xml:space="preserve">
+    <value>დიახ</value>
+  </data>
+  <data name="SecurityAdvancedPermissionsLabel.Text" xml:space="preserve">
+    <value>უფლებები</value>
+  </data>
+  <data name="SecurityAdvancedTypeLabel.Text" xml:space="preserve">
+    <value>ტიპი</value>
+  </data>
+  <data name="SecurityAdvancedCannotReadProperties.Text" xml:space="preserve">
+    <value>თქვენ არ გაქვთ ამ ობიექტის უსაფრთხოების პარამეტრების ნახვის უფლება, თუმცა შეგიძლიათ სცადოთ ამ ობიექტის მფლობელობის აღება.</value>
+  </data>
+  <data name="SecurityAdvancedSpecialLabel.Text" xml:space="preserve">
+    <value>განსაკუთრებული</value>
+  </data>
+  <data name="SecurityAdvancedFolderFiles.Text" xml:space="preserve">
+    <value>ეს საქაღალდე და ფაილები</value>
+  </data>
+  <data name="SecurityAdvancedFolderSubfoldersFiles.Text" xml:space="preserve">
+    <value>ეს საქაღალდე, ქვესაქაღალდეები და ფაილები</value>
+  </data>
+  <data name="SecurityAdvancedOnlyFiles.Text" xml:space="preserve">
+    <value>მხოლოდ ფაილები</value>
+  </data>
+  <data name="SecurityAdvancedOnlySubfolders.Text" xml:space="preserve">
+    <value>მხოლოდ ქვესაქაღალდეები</value>
+  </data>
+  <data name="SecurityAdvancedOnlySubfoldersFiles.Text" xml:space="preserve">
+    <value>მხოლოდ ქვესაქაღალდეები და ფაილები</value>
+  </data>
+  <data name="SecurityAdvancedOnlyThisFolder.Text" xml:space="preserve">
+    <value>მხოლოდ ეს საქაღალდე</value>
+  </data>
+  <data name="SecurityAdvancedFolderSubfolders.Text" xml:space="preserve">
+    <value>ეს საქაღალდე და ქვესაქაღალდეები</value>
+  </data>
+  <data name="SecurityAppendDataLabel.Text" xml:space="preserve">
+    <value>მონაცემების დამატება</value>
+  </data>
+  <data name="SecurityChangePermissionsLabel.Text" xml:space="preserve">
+    <value>ნებართვის შეცვლა</value>
+  </data>
+  <data name="SecurityCreateDirectoriesLabel.Text" xml:space="preserve">
+    <value>საქაღალდეების შექმნა</value>
+  </data>
+  <data name="SecurityCreateFilesLabel.Text" xml:space="preserve">
+    <value>ფაილების შექმნა</value>
+  </data>
+  <data name="SecurityDeleteLabel.Text" xml:space="preserve">
+    <value>წაშლა</value>
+  </data>
+  <data name="SecurityDeleteSubdirectoriesAndFilesLabel.Text" xml:space="preserve">
+    <value>ქვეკატალოგების და ფაილების წაშლა</value>
+  </data>
+  <data name="SecurityExecuteFileLabel.Text" xml:space="preserve">
+    <value>ფაილების შესრულება</value>
+  </data>
+  <data name="SecurityReadAttributesLabel.Text" xml:space="preserve">
+    <value>თვისებების წაკითხვა</value>
+  </data>
+  <data name="SecurityReadDataLabel.Text" xml:space="preserve">
+    <value>მონაცემების წაკითხვა</value>
+  </data>
+  <data name="SecurityReadExtendedAttributesLabel.Text" xml:space="preserve">
+    <value>გაფართოებული თვისებების წაკითხვა</value>
+  </data>
+  <data name="SecurityReadPermissionsLabel.Text" xml:space="preserve">
+    <value>უფლებების წაკითხვა</value>
+  </data>
+  <data name="SecurityTakeOwnershipLabel.Text" xml:space="preserve">
+    <value>მფლობელობის მიღება</value>
+  </data>
+  <data name="SecurityTraverseLabel.Text" xml:space="preserve">
+    <value>საქაღალდის მონახულება</value>
+  </data>
+  <data name="SecurityWriteAttributesLabel.Text" xml:space="preserve">
+    <value>თვისებების დაწერა</value>
+  </data>
+  <data name="SecurityWriteDataLabel.Text" xml:space="preserve">
+    <value>მონაცემების დაწერა</value>
+  </data>
+  <data name="SecurityWriteExtendedAttributesLabel.Text" xml:space="preserve">
+    <value>გაფართოებული თვისებების წაკითხვა</value>
+  </data>
+  <data name="SecurityNoneLabel.Text" xml:space="preserve">
+    <value>არცერთი</value>
+  </data>
+  <data name="SecurityAdvancedInheritedConvert.Text" xml:space="preserve">
+    <value>მემკვიდრეობით მიღებული უფლებების აშკარა ნებართვებად გადაქცევა</value>
+  </data>
+  <data name="SecurityAdvancedInheritedEnable.Text" xml:space="preserve">
+    <value>მემკვიდრეობის ჩართვა</value>
+  </data>
+  <data name="SecurityAdvancedInheritedRemove.Text" xml:space="preserve">
+    <value>ყველა მემკვიდრეობით მიღებული უფლებების წაშლა</value>
+  </data>
+  <data name="SecurityAdvancedReplaceChildPermissions.Text" xml:space="preserve">
+    <value>ბავშვის ნებართვების გადაყენება</value>
+  </data>
+  <data name="SecurityAdvancedReplaceChildPermissions2.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ყველა ბავშვის ობიექტის ნებართვის ჩანაწერის ჩანაცვლება ამ ობიექტის მემკვიდრეობითი ნებართვის ჩანაწერიდან</value>
+  </data>
+  <data name="CreateBundleBtn.AutomationProperties.Name" xml:space="preserve">
+    <value>შეკვრის შექმნა</value>
+  </data>
+  <data name="CreateBundleBtn.ToolTipService.ToolTip" xml:space="preserve">
+    <value>შეკვრის შექმნა</value>
+  </data>
+  <data name="NavigationToolbarClosePane.Label" xml:space="preserve">
+    <value>ფანჯრის დახურვა</value>
+  </data>
+  <data name="NavigationToolbarEnterCompactOverlay.Label" xml:space="preserve">
+    <value>შეერთებული გადაფარვის ჩართვა</value>
+  </data>
+  <data name="NavigationToolbarExitCompactOverlay.Label" xml:space="preserve">
+    <value>შეერთებული გადაფარვის გამორთვა</value>
+  </data>
+  <data name="PropertyFileDescription" xml:space="preserve">
+    <value>ფაილის აღწერა</value>
+  </data>
+  <data name="PropertyCompany" xml:space="preserve">
+    <value>კომპანია</value>
+  </data>
+  <data name="PropertyLanguage" xml:space="preserve">
+    <value>ენა</value>
+  </data>
+  <data name="PropertyTrademarks" xml:space="preserve">
+    <value>სავაჭრო ნიშნები</value>
+  </data>
+  <data name="PropertyFileVersion" xml:space="preserve">
+    <value>ფაილის ვერსია</value>
+  </data>
+  <data name="PropertySyncStatus" xml:space="preserve">
+    <value>სინქრონიზაციის სტატუსი</value>
+  </data>
+  <data name="PreviewPaneLoadCloudItemButton.Content" xml:space="preserve">
+    <value>სრული გადახედვის ჩატვირთვა</value>
+  </data>
+  <data name="PreviewPaneLoadCloudItemButton.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ჩამოტვირთავს ნივთს ღრუბლიდან და ჩატვირთავს გადახედვას</value>
+  </data>
+  <data name="DetailsArchiveItemCount" xml:space="preserve">
+    <value>{0} ელემენტი ({1} ფაილი, {2} საქაღალდე)</value>
+  </data>
+  <data name="PropertyUncompressedSize" xml:space="preserve">
+    <value>შეუკუმშავი ზომა</value>
+  </data>
+  <data name="SettingsShowCloudDrivesSection.Title" xml:space="preserve">
+    <value>გვერდითა ზოლზე ღრუბლოვანი დისკების მონაკვეთის ჩვენება</value>
+  </data>
+  <data name="SettingsShowDrivesSection.Title" xml:space="preserve">
+    <value>გვერდითა ზოლზე დისკების მონაკვეთის ჩვენება</value>
+  </data>
+  <data name="SettingsShowWslSection.Title" xml:space="preserve">
+    <value>WSL განყოფილების ჩვენება გვერდითა ზოლზე</value>
+  </data>
+  <data name="SettingsShowNetworkDrivesSection.Title" xml:space="preserve">
+    <value>გვერდითს ზოლის ქსელური დისკების განყოფილების ჩვენება</value>
+  </data>
+  <data name="SideBarHideSectionFromSideBar.Text" xml:space="preserve">
+    <value>{0} განყოფილების დამალვა</value>
+  </data>
+  <data name="SettingsDateFormat.Title" xml:space="preserve">
+    <value>თარიღის ფორმატი</value>
+  </data>
+  <data name="SideBarUnpinFromFavorites.Text" xml:space="preserve">
+    <value>ჩამაგრების მოხსნა ფავორიტებიდან</value>
+  </data>
+  <data name="SettingsPreferencesTerminalApplications.Title" xml:space="preserve">
+    <value>ტერმინალის აპლიკაციები</value>
+  </data>
+  <data name="SettingsPreferencesEditTerminalApplicationsExpander.Title" xml:space="preserve">
+    <value>ტერმინალის აპლიკაციების შეცვლა</value>
+  </data>
+  <data name="SettingsPreferencesShowConfirmDeleteDialog.Title" xml:space="preserve">
+    <value>დადასტურების დიალოგის ჩვენება ფაილების ან საქაღალდეების წაშლისას</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutUnpinFromFavorites.Text" xml:space="preserve">
+    <value>ჩამაგრების მოხსნა ფავორიტებიდან</value>
+  </data>
+  <data name="SettingsPreferencesOpenFoldersNewTab.Title" xml:space="preserve">
+    <value>საქაღალდეების გახსნა ახალ ჩანართში</value>
   </data>
   <data name="NavSettingsButton.AutomationProperties.Name" xml:space="preserve">
-    <value>إعدادات</value>
+    <value>პარამეტრები</value>
   </data>
   <data name="NavSettingsButton.ToolTipService.ToolTip" xml:space="preserve">
-    <value>إعدادات</value>
+    <value>პარამეტრები</value>
   </data>
   <data name="NavigationToolbarCopy.ToolTipService.ToolTip" xml:space="preserve">
-    <value>نسخ</value>
+    <value>ასლის შექმნა</value>
   </data>
   <data name="NavigationToolbarCopy.Label" xml:space="preserve">
-    <value>نسخ</value>
-  </data>
-  <data name="ConsentDialogTitle" xml:space="preserve">
-    <value>التحديثات متوفرة</value>
-  </data>
-  <data name="ConsentDialogContent" xml:space="preserve">
-    <value>‏‏التحديثات جاهزة للتثبيت</value>
-  </data>
-  <data name="ConsentDialogCloseButtonText" xml:space="preserve">
-    <value>إغلاق</value>
-  </data>
-  <data name="ConsentDialogPrimaryButtonText" xml:space="preserve">
-    <value>تحديث</value>
+    <value>ასლის შექმნა</value>
   </data>
   <data name="BundleOptionsFlyoutAddFileMenuItem.Text" xml:space="preserve">
-    <value>إضافة ملف</value>
+    <value>ფაილის დამატება</value>
   </data>
   <data name="BundleOptionsFlyoutAddFolderMenuItem.Text" xml:space="preserve">
-    <value>إضافة مجلد</value>
+    <value>საქაღალდის დამატება</value>
   </data>
   <data name="BundleOptionsFlyoutAddItemMenuItem.Text" xml:space="preserve">
-    <value>إضافة عنصر</value>
+    <value>ნივთის დამატება...</value>
+  </data>
+  <data name="ConsentDialogTitle" xml:space="preserve">
+    <value>განახლებები ხელმისაწვდომია</value>
+  </data>
+  <data name="ConsentDialogContent" xml:space="preserve">
+    <value>განახლებები მზად არიან დასაყენებლად</value>
+  </data>
+  <data name="ConsentDialogCloseButtonText" xml:space="preserve">
+    <value>დახურვა</value>
+  </data>
+  <data name="ConsentDialogPrimaryButtonText" xml:space="preserve">
+    <value>განახლება</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>الصفحة الرئيسية</value>
+    <value>მთავარი</value>
   </data>
   <data name="TabViewVerticalNewTab.Text" xml:space="preserve">
-    <value>علامة تبويب جديدة</value>
+    <value>ახალი ჩანართი</value>
   </data>
   <data name="NavToolbarSelectAll.KeyboardAcceleratorTextOverride" xml:space="preserve">
     <value>Ctrl+A</value>
@@ -1954,7 +2494,7 @@
     <value>Ctrl+Shift+W</value>
   </data>
   <data name="NavigationToolbarNewWindow.KeyboardAcceleratorTextOverride" xml:space="preserve">
-    <value>Ctrl + N</value>
+    <value>Ctrl+N</value>
   </data>
   <data name="HorizontalMultitaskingControlNewTab.KeyboardAcceleratorTextOverride" xml:space="preserve">
     <value>Ctrl+T</value>
@@ -1962,52 +2502,103 @@
   <data name="HorizontalMultitaskingControlReopenClosedTab.KeyboardAcceleratorTextOverride" xml:space="preserve">
     <value>Ctrl+Shift+T</value>
   </data>
+  <data name="ArchiveExtractionCompletedSuccessfullyText" xml:space="preserve">
+    <value>არქივის ამოღება წარმატებით დასრულდა.</value>
+  </data>
+  <data name="ExtractingArchiveText" xml:space="preserve">
+    <value>მიმდინარეობს არქივის ამოღება</value>
+  </data>
+  <data name="ExtractingCompleteText" xml:space="preserve">
+    <value>ამოღება დასრულებულია!</value>
+  </data>
   <data name="BaseLayoutContextFlyoutNew.KeyboardAcceleratorTextOverride" xml:space="preserve">
     <value>Ctrl+Shift+N</value>
   </data>
-  <data name="SettingsDateFormat.Title" xml:space="preserve">
-    <value>تنسيق التاريخ.</value>
-  </data>
   <data name="SettingsPrivacy.Title" xml:space="preserve">
-    <value>نهج الخصوصية</value>
+    <value>კონფიდენციალურობის პოლიტიკა</value>
+  </data>
+  <data name="SettingsFluentUISystemIconsLicenseButton.Content" xml:space="preserve">
+    <value>Fluent UI System Icons</value>
+  </data>
+  <data name="SettingsFluentUISystemIconsLicenseButton.AutomationProperties.Name" xml:space="preserve">
+    <value>Fluent UI System Icons</value>
+  </data>
+  <data name="SettingsPrivacyPolicyMarkdownBlock.Text" xml:space="preserve">
+    <value>
+*პირადი ინფორმაციის შეგროვება. * 
+ფაილები არ აგროვებს, არ ინახავს, არ აზიარებს ან აქვეყნებს ნებისმიერ პირად ინფორმაციას.
+
+*არა-პირადი ინფორმაციის შეგროვება*
+
+ჩვენ ვიყენებთ აპლიკაციების ცენტრს, რომ თვალყური ვადევნოთ აპლიკაციის გამოყენებას, ვიპოვოთ შეცდომები და აღმოვფხვრათ ისინი. App Center -ში გაგზავნილი ყველა ინფორმაცია ანონიმურია და არ შეიცავს მომხმარებლის ან კონტექსტურ მონაცემებს.</value>
   </data>
   <data name="NavToolbarGroupByOptionNone.Text" xml:space="preserve">
-    <value>بلا</value>
+    <value>არცერთი</value>
   </data>
   <data name="NavToolbarArrangementOptionName.Text" xml:space="preserve">
-    <value>اسم</value>
+    <value>არცერთი</value>
   </data>
   <data name="NavToolbarArrangementOptionDateModified.Text" xml:space="preserve">
-    <value>تاريخ التعديل</value>
+    <value>შეცვლის თარიღი</value>
   </data>
   <data name="NavToolbarArrangementOptionDateCreated.Text" xml:space="preserve">
-    <value>تاريخ الإنشاء</value>
+    <value>შექმნის თარიღი</value>
   </data>
   <data name="NavToolbarArrangementOptionSize.Text" xml:space="preserve">
-    <value>الحجم</value>
+    <value>ზომა</value>
   </data>
   <data name="NavToolbarArrangementOptionDateDeleted.Text" xml:space="preserve">
-    <value>‏‏تاريخ الحذف</value>
+    <value>წაშლის თარიღი</value>
+  </data>
+  <data name="NavToolbarArrangementOptionOriginalFolder.Text" xml:space="preserve">
+    <value>თავდაპირველი საქაღალდე</value>
   </data>
   <data name="NavToolbarArrangementOptionType.Text" xml:space="preserve">
-    <value>النوع</value>
+    <value>ნიმუში</value>
   </data>
   <data name="NavToolbarSortDirectionOptionAscending.Text" xml:space="preserve">
-    <value>تصاعدي</value>
+    <value>ზრდადობის მიხედვით</value>
   </data>
   <data name="NavToolbarSortDirectionOptionDescending.Text" xml:space="preserve">
-    <value>تنازلي</value>
+    <value>კლებადობის მიხედვით</value>
   </data>
   <data name="NavToolbarArrangementOptionSyncStatus.Text" xml:space="preserve">
-    <value>‏‏حالة المزامنة</value>
+    <value>სინქრონიზაციის სტატუსი</value>
+  </data>
+  <data name="SettingsShowFavoritesSection.Title" xml:space="preserve">
+    <value>ფავორიტების განყოფილების ჩვენება გვერდითა ზოლზე</value>
+  </data>
+  <data name="BaseLayoutContextFlyoutSortByFileTag.Text" xml:space="preserve">
+    <value>ფაილის იარლიყი</value>
+  </data>
+  <data name="NavToolbarArrangementOptionFileTag.Text" xml:space="preserve">
+    <value>ფაილის იარლიყი</value>
+  </data>
+  <data name="BaseLayoutItemContextFlyoutOpenParentFolder.Text" xml:space="preserve">
+    <value>მშობელი საქაღალდის გახსნა</value>
   </data>
   <data name="FileTagUnknown" xml:space="preserve">
-    <value>غير معروف</value>
+    <value>უცნობი</value>
+  </data>
+  <data name="DetailsViewHeaderFlyout_ShowFileTag.Text" xml:space="preserve">
+    <value>ფაილის იარლიყი</value>
+  </data>
+  <data name="SettingsEditFileTags.AutomationProperties.Name" xml:space="preserve">
+    <value>ფაილის იარლიყების რედაქტირება</value>
+  </data>
+  <data name="SettingsEditFileTags.ToolTipService.ToolTip" xml:space="preserve">
+    <value>ფაილის იარლიყების რედაქტირება</value>
+  </data>
+  <data name="SettingsEditFileTagsExpander.Title" xml:space="preserve">
+    <value>ფაილის იარლიყების რედაქტირება</value>
+  </data>
+  <data name="SettingsEnableFileTags.Title" xml:space="preserve">
+    <value>ფაილის იარლიყების ჩართვა</value>
   </data>
   <data name="InsertDiscDialog.CloseDialogButton" xml:space="preserve">
-    <value>إغلاق</value>
+    <value>დახურვა</value>
   </data>
   <data name="InsertDiscDialog.Title" xml:space="preserve">
-    <value>إدخال قرص</value>
+    <value>დისკის ჩადება</value>
   </data>
 </root>
