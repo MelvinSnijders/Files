@@ -622,7 +622,7 @@
     <value>Open logboek locatie</value>
   </data>
   <data name="SettingsAboutOpenLogLocationButtonText.Text" xml:space="preserve">
-    <value>Open log location</value>
+    <value>Open logboek locatie</value>
   </data>
   <data name="ItemSelected.Text" xml:space="preserve">
     <value>item geselecteerd</value>
