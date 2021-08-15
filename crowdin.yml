@@ -1,0 +1,3 @@
+files:
+  - source: /Files/MultilingualResources/Files.%two_letters_code%.plf
+    translation: /Files/MultilingualResources/Files.%two_letters_code%.plf
