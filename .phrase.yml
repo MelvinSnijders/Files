@@ -1,0 +1,13 @@
+phrase:
+  project_id: 34465c0ef579396436c48d4643219daf
+  push:
+    sources:
+    - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
+      params:
+        file_format: "xlf"
+        update_translations: true
+  pull:
+    targets:
+    - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
+      params:
+        file_format: "xlf"
