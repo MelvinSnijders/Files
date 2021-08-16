@@ -1,0 +1,9 @@
+phrase:
+  access_token: 5eea1956b09c73b35ea66727c4720836a6a05510e38232405456a38abeb058e8
+  project_id: 34465c0ef579396436c48d4643219daf
+  push:
+    sources:
+    - file: ./Files/Strings/en-US/Resources.resw
+  pull:
+    targets:
+    - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
