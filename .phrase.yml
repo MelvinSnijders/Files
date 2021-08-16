@@ -7,3 +7,5 @@ phrase:
   pull:
     targets:
     - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
+      params:
+        file_format: "xlf"
