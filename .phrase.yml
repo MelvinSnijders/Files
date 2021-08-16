@@ -11,3 +11,5 @@ phrase:
     - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
       params:
         file_format: "xlf"
+        format_options:
+          include_translation_state: true
