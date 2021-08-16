@@ -3,6 +3,8 @@ phrase:
   push:
     sources:
     - file: ./Files/Strings/en-US/Resources.resw
+      params:
+        file_format: "windows8_resource"
   pull:
     targets:
     - file: ./Files/MultilingualResources/Files.<locale_code>.xlf
