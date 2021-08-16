@@ -1,4 +1,5 @@
 using Files.Common;
+using Files.Dialogs;
 using Files.Enums;
 using Files.Extensions;
 using Files.Filesystem;
@@ -6,6 +7,7 @@ using Files.Filesystem.Cloud;
 using Files.Filesystem.StorageEnumerators;
 using Files.Helpers;
 using Files.Helpers.FileListCache;
+using FluentFTP;
 using Microsoft.Toolkit.Mvvm.ComponentModel;
 using Microsoft.Toolkit.Uwp;
 using Microsoft.Toolkit.Uwp.UI;
@@ -17,6 +19,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
@@ -738,7 +741,7 @@ namespace Files.ViewModels
                 }
                 else
                 {
-                    if (!item.IsShortcutItem && !item.IsHiddenItem && !item.ItemPath.StartsWith("ftp:"))
+                    if (!item.IsShortcutItem && !item.IsHiddenItem && !FtpHelpers.IsFtpPath(item.ItemPath))
                     {
                         var matchingStorageFile = (StorageFile)matchingStorageItem ?? await GetFileFromPathAsync(item.ItemPath);
                         if (matchingStorageFile != null)
@@ -811,12 +814,14 @@ namespace Files.ViewModels
                 }
                 else
                 {
-                    if (!item.IsShortcutItem && !item.IsHiddenItem && !item.ItemPath.StartsWith("ftp:"))
+                    if (!item.IsShortcutItem && !item.IsHiddenItem && !FtpHelpers.IsFtpPath(item.ItemPath))
                     {
                         var matchingStorageFolder = (StorageFolder)matchingStorageItem ?? await GetFolderFromPathAsync(item.ItemPath);
                         if (matchingStorageFolder != null)
                         {
-                            using var Thumbnail = await matchingStorageFolder.GetThumbnailAsync(ThumbnailMode.ListView, thumbnailSize, ThumbnailOptions.ReturnOnlyIfCached);
+                            var mode = thumbnailSize < 80 ? ThumbnailMode.ListView : ThumbnailMode.SingleItem;
+
+                            using var Thumbnail = await matchingStorageFolder.GetThumbnailAsync(mode, thumbnailSize, ThumbnailOptions.UseCurrentScale);
                             if (!(Thumbnail == null || Thumbnail.Size == 0 || Thumbnail.OriginalHeight == 0 || Thumbnail.OriginalWidth == 0))
                             {
                                 await CoreApplication.MainView.DispatcherQueue.EnqueueAsync(async () =>
@@ -927,7 +932,7 @@ namespace Files.ViewModels
 
                     if (item.IsLibraryItem || item.PrimaryItemAttribute == StorageItemTypes.File)
                     {
-                        if (!item.IsShortcutItem && !item.IsHiddenItem && !item.ItemPath.StartsWith("ftp:"))
+                        if (!item.IsShortcutItem && !item.IsHiddenItem && !FtpHelpers.IsFtpPath(item.ItemPath))
                         {
                             matchingStorageFile = await GetFileFromPathAsync(item.ItemPath);
                             if (matchingStorageFile != null)
@@ -956,7 +961,7 @@ namespace Files.ViewModels
                     }
                     else
                     {
-                        if (!item.IsShortcutItem && !item.IsHiddenItem && !item.ItemPath.StartsWith("ftp:"))
+                        if (!item.IsShortcutItem && !item.IsHiddenItem && !FtpHelpers.IsFtpPath(item.ItemPath))
                         {
                             StorageFolder matchingStorageFolder = await GetFolderFromPathAsync(item.ItemPath);
                             if (matchingStorageFolder != null)
@@ -1045,7 +1050,7 @@ namespace Files.ViewModels
                 {
                     groupImage = await CoreApplication.MainView.DispatcherQueue.EnqueueAsync(() => headerIconInfo.ToBitmapAsync(), Windows.System.DispatcherQueuePriority.Low);
                 }
-                if (!item.IsShortcutItem && !item.IsHiddenItem && !item.ItemPath.StartsWith("ftp:"))
+                if (!item.IsShortcutItem && !item.IsHiddenItem && !FtpHelpers.IsFtpPath(item.ItemPath))
                 {
                     if (groupImage == null) // Loading icon from fulltrust process failed
                     {
@@ -1179,7 +1184,7 @@ namespace Files.ViewModels
             var isRecycleBin = path.StartsWith(AppSettings.RecycleBinPath);
             if (isRecycleBin ||
                 path.StartsWith(AppSettings.NetworkFolderPath) ||
-                path.StartsWith("ftp:"))
+                FtpHelpers.IsFtpPath(path))
             {
                 // Recycle bin and network are enumerated by the fulltrust process
                 PageTypeUpdated?.Invoke(this, new PageTypeUpdatedEventArgs() { IsTypeCloudDrive = false, IsTypeRecycleBin = isRecycleBin });
@@ -1250,13 +1255,14 @@ namespace Files.ViewModels
         {
             ApplicationDataContainer localSettings = ApplicationData.Current.LocalSettings;
             string returnformat = Enum.Parse<TimeStyle>(localSettings.Values[Constants.LocalSettings.DateTimeFormat].ToString()) == TimeStyle.Application ? "D" : "g";
+            bool isFtp = FtpHelpers.IsFtpPath(path);
 
             CurrentFolder = new ListedItem(null, returnformat)
             {
                 PrimaryItemAttribute = StorageItemTypes.Folder,
                 ItemPropertiesInitialized = true,
                 ItemName = path.StartsWith(AppSettings.RecycleBinPath) ? ApplicationData.Current.LocalSettings.Values.Get("RecycleBin_Title", "Recycle Bin") :
-                           path.StartsWith(AppSettings.NetworkFolderPath) ? "Network".GetLocalized() : "FTP",
+                           path.StartsWith(AppSettings.NetworkFolderPath) ? "Network".GetLocalized() : isFtp ? "FTP" : "Unknown",
                 ItemDateModifiedReal = DateTimeOffset.Now, // Fake for now
                 ItemDateCreatedReal = DateTimeOffset.Now, // Fake for now
                 ItemType = "FileFolderListItem".GetLocalized(),
@@ -1269,7 +1275,7 @@ namespace Files.ViewModels
                 FileSizeBytes = 0
             };
 
-            if (Connection != null)
+            if (Connection != null && !isFtp)
             {
                 await Task.Run(async () =>
                 {
@@ -1303,6 +1309,76 @@ namespace Files.ViewModels
                                 await ApplyFilesAndFoldersChangesAsync();
                             }
                         }
+                    }
+                });
+            }
+            else if (isFtp)
+            {
+                if (!FtpHelpers.VerifyFtpPath(path))
+                {
+                    // TODO: show invalid path dialog
+                    return;
+                }
+
+                var client = this.GetFtpInstance();
+                var host = FtpHelpers.GetFtpHost(path);
+                var port = FtpHelpers.GetFtpPort(path);
+
+                if (!client.IsConnected || client.Host != host || port != client.Port)
+                {
+                    if (UIHelpers.IsAnyContentDialogOpen()) return;
+
+                    if (client.IsConnected)
+                    {
+                        await client.DisconnectAsync();
+                    }
+
+                    client.Host = host;
+                    client.Port = port;
+
+                    var dialog = new CredentialDialog();
+
+                    if (await dialog.ShowAsync() == Windows.UI.Xaml.Controls.ContentDialogResult.Primary)
+                    {
+                        var result = await dialog.Result;
+
+                        if (!result.Anonymous)
+                        {
+                            client.Credentials = new NetworkCredential(result.UserName, result.Password);
+                        }
+                    }
+                    else
+                    {
+                        return;
+                    }
+                }
+
+                await Task.Run(async () =>
+                {
+                    try
+                    {
+                        if (!client.IsConnected && await client.AutoConnectAsync() is null)
+                        {
+                            throw new InvalidOperationException();
+                        }
+
+                        var sampler = new IntervalSampler(500);
+                        var list = await client.GetListingAsync(FtpHelpers.GetFtpPath(path));
+
+                        for (var i = 0; i < list.Length; i++)
+                        {
+                            filesAndFolders.Add(new FtpItem(list[i], path, returnformat));
+
+                            if (i == 32 || i == list.Length - 1 || sampler.CheckNow())
+                            {
+                                await OrderFilesAndFoldersAsync();
+                                await ApplyFilesAndFoldersChangesAsync();
+                            }
+                        }
+                    }
+                    catch
+                    {
+                        // network issue
                     }
                 });
             }
@@ -1950,15 +2026,6 @@ namespace Files.ViewModels
             }
         }
 
-        private async Task RemoveFileOrFolderAsync(ListedItem item)
-        {
-            filesAndFolders.Remove(item);
-            await CoreApplication.MainView.DispatcherQueue.EnqueueAsync(() =>
-            {
-                App.JumpList.RemoveFolder(item.ItemPath);
-            });
-        }
-
         public async Task<ListedItem> RemoveFileOrFolderAsync(string path)
         {
             try
@@ -1976,7 +2043,7 @@ namespace Files.ViewModels
 
                 if (matchingItem != null)
                 {
-                    await RemoveFileOrFolderAsync(matchingItem);
+                    filesAndFolders.Remove(matchingItem);
                     return matchingItem;
                 }
             }
